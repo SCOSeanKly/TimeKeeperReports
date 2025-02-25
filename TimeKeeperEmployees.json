@@ -1,11 +1,128 @@
 [
   {
     "department" : "Workshop",
-    "finishTime" : "2025-02-20T17:00:00Z",
-    "hasFlexibleSchedule" : false,
-    "id" : "77683196-470B-42A2-973F-2A81ABB8D336",
-    "name" : "Test",
+    "finishTime" : "2025-02-24T17:30:00Z",
+    "hasFlexibleSchedule" : true,
+    "id" : "7052DB49-F73F-47F0-9FB3-CF44601A7FC3",
+    "name" : "Aimee Kennedy",
     "pin" : "1111",
-    "startTime" : "2025-02-20T08:30:00Z"
+    "startTime" : "2025-02-24T08:30:00Z"
+  },
+  {
+    "department" : "Workshop",
+    "finishTime" : "2025-02-24T17:30:00Z",
+    "hasFlexibleSchedule" : true,
+    "id" : "953EA2A7-6C38-4C9B-98AD-A7927077E363",
+    "name" : "Nicola Devlin",
+    "pin" : "2222",
+    "startTime" : "2025-02-24T09:30:00Z"
+  },
+  {
+    "department" : "Workshop",
+    "finishTime" : "2025-02-24T16:00:00Z",
+    "hasFlexibleSchedule" : true,
+    "id" : "BE4E5108-1C7A-4396-BA60-985D0A0D25DC",
+    "name" : "Karen Kelly",
+    "pin" : "3333",
+    "startTime" : "2025-02-24T08:00:00Z"
+  },
+  {
+    "department" : "Workshop",
+    "finishTime" : "2025-02-24T17:30:00Z",
+    "hasFlexibleSchedule" : false,
+    "id" : "D56675E7-D446-4F6D-BC07-06072C9146BE",
+    "name" : "Martin Wallace",
+    "pin" : "1269",
+    "startTime" : "2025-02-24T08:00:00Z"
+  },
+  {
+    "department" : "Workshop",
+    "finishTime" : "2025-02-24T17:00:00Z",
+    "hasFlexibleSchedule" : false,
+    "id" : "66FE14DE-3A62-4015-AA37-1E3ACB7A0632",
+    "name" : "George Wilson",
+    "pin" : "0401",
+    "startTime" : "2025-02-24T08:30:00Z"
+  },
+  {
+    "department" : "Workshop",
+    "finishTime" : "2025-02-24T17:00:00Z",
+    "hasFlexibleSchedule" : false,
+    "id" : "3C4C3205-2DFC-4646-9AB9-49F73AD47A6A",
+    "name" : "Billy Mathieson",
+    "pin" : "2508",
+    "startTime" : "2025-02-24T08:30:00Z"
+  },
+  {
+    "department" : "Workshop",
+    "finishTime" : "2025-02-24T17:00:00Z",
+    "hasFlexibleSchedule" : false,
+    "id" : "BD0902DD-373B-433A-953A-755F88CBF221",
+    "name" : "Chris Smith",
+    "pin" : "4224",
+    "startTime" : "2025-02-24T08:30:00Z"
+  },
+  {
+    "department" : "Workshop",
+    "finishTime" : "2025-02-24T17:00:00Z",
+    "hasFlexibleSchedule" : false,
+    "id" : "1336224E-1281-4330-976C-6FBEC95D48BC",
+    "name" : "Kyle Wright",
+    "pin" : "1690",
+    "startTime" : "2025-02-24T08:30:00Z"
+  },
+  {
+    "department" : "Workshop",
+    "finishTime" : "2025-02-24T17:00:00Z",
+    "hasFlexibleSchedule" : false,
+    "id" : "337733FA-A522-41C0-9B46-2A6B5A1D00F9",
+    "name" : "Scott Graham",
+    "pin" : "4236",
+    "startTime" : "2025-02-24T08:30:00Z"
+  },
+  {
+    "department" : "Workshop",
+    "finishTime" : "2025-02-24T17:00:00Z",
+    "hasFlexibleSchedule" : false,
+    "id" : "47113FFB-1076-47B6-8E75-0846349BBAA6",
+    "name" : "Codie Bottel",
+    "pin" : "2758",
+    "startTime" : "2025-02-24T08:30:00Z"
+  },
+  {
+    "department" : "Workshop",
+    "finishTime" : "2025-02-24T17:00:00Z",
+    "hasFlexibleSchedule" : false,
+    "id" : "29EAE04E-470D-4124-8038-200CCF2D63BC",
+    "name" : "Harrison Hannah",
+    "pin" : "2904",
+    "startTime" : "2025-02-24T08:30:00Z"
+  },
+  {
+    "department" : "Workshop",
+    "finishTime" : "2025-02-24T17:00:00Z",
+    "hasFlexibleSchedule" : false,
+    "id" : "83F0962E-D531-4F32-952D-F84DE2EDD27F",
+    "name" : "Findlay Campbell",
+    "pin" : "8787",
+    "startTime" : "2025-02-24T08:30:00Z"
+  },
+  {
+    "department" : "Workshop",
+    "finishTime" : "2025-02-24T17:00:00Z",
+    "hasFlexibleSchedule" : false,
+    "id" : "2D3EC73F-366E-466C-8516-C0AF231C271E",
+    "name" : "Alan Leckie",
+    "pin" : "1234",
+    "startTime" : "2025-02-24T08:30:00Z"
+  },
+  {
+    "department" : "Admin",
+    "finishTime" : "2025-02-24T20:00:00Z",
+    "hasFlexibleSchedule" : true,
+    "id" : "57BA9115-ECC7-46ED-B99A-48B11ED17B76",
+    "name" : "Ian Pollock",
+    "pin" : "1948",
+    "startTime" : "2025-02-24T16:00:00Z"
   }
 ]
