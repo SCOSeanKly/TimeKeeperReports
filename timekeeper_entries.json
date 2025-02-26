@@ -604,5 +604,11 @@
     "id" : "D7A3A184-29A2-4EC7-AF31-B11E61F23C74",
     "timestamp" : "2025-02-26T09:15:28Z",
     "type" : "Clock In"
+  },
+  {
+    "employeeId" : "CB9E1011-9CB4-457B-A45B-0EFC8AC04354",
+    "id" : "BCEE6F37-753B-4868-9BAE-FB160B0E3405",
+    "timestamp" : "2025-02-26T09:35:45Z",
+    "type" : "Clock In"
   }
 ]
