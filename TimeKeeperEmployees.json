@@ -1,12 +1,12 @@
 [
   {
-    "department" : "Workshop",
-    "finishTime" : "2025-02-24T17:30:00Z",
+    "department" : "Bodyshop",
+    "finishTime" : "2025-02-25T17:30:00Z",
     "hasFlexibleSchedule" : true,
     "id" : "7052DB49-F73F-47F0-9FB3-CF44601A7FC3",
     "name" : "Aimee Kennedy",
     "pin" : "1111",
-    "startTime" : "2025-02-24T08:30:00Z"
+    "startTime" : "2025-02-25T08:30:00Z"
   },
   {
     "department" : "Workshop",
@@ -124,5 +124,14 @@
     "name" : "Ian Pollock",
     "pin" : "1948",
     "startTime" : "2025-02-24T16:00:00Z"
+  },
+  {
+    "department" : "Admin",
+    "finishTime" : "2025-02-26T17:00:00Z",
+    "hasFlexibleSchedule" : true,
+    "id" : "CB9E1011-9CB4-457B-A45B-0EFC8AC04354",
+    "name" : "Test Sync",
+    "pin" : "4467",
+    "startTime" : "2025-02-26T08:30:00Z"
   }
 ]
