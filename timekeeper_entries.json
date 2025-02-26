@@ -1,0 +1,20 @@
+[
+  {
+    "employeeId" : "69C9B51D-48E0-4A73-8F6F-C945337BB161",
+    "id" : "1CB83D40-526D-434B-9D53-9E8041C34BBA",
+    "timestamp" : "2025-02-19T16:38:28Z",
+    "type" : "Clock In"
+  },
+  {
+    "employeeId" : "69C9B51D-48E0-4A73-8F6F-C945337BB161",
+    "id" : "566DCF40-2D20-4F89-8DC8-B2B338FF3A61",
+    "timestamp" : "2025-02-20T16:56:05Z",
+    "type" : "Clock Out"
+  },
+  {
+    "employeeId" : "69C9B51D-48E0-4A73-8F6F-C945337BB161",
+    "id" : "BC98AE51-0FFA-4BBB-9CFF-802EB8A2C90A",
+    "timestamp" : "2025-02-20T16:56:05Z",
+    "type" : "Admin Force Clock Out"
+  }
+]
