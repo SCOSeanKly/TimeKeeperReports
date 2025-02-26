@@ -610,5 +610,11 @@
     "id" : "BCEE6F37-753B-4868-9BAE-FB160B0E3405",
     "timestamp" : "2025-02-26T09:35:45Z",
     "type" : "Clock In"
+  },
+  {
+    "employeeId" : "CB9E1011-9CB4-457B-A45B-0EFC8AC04354",
+    "id" : "8A754F6C-E91D-46EA-B169-F4E77F4C90BF",
+    "timestamp" : "2025-02-26T10:19:08Z",
+    "type" : "Lunch Start"
   }
 ]
