@@ -133,5 +133,14 @@
     "name" : "Test Sync",
     "pin" : "4467",
     "startTime" : "2025-02-26T08:30:00Z"
+  },
+  {
+    "department" : "Admin",
+    "finishTime" : "2025-02-27T17:00:00Z",
+    "hasFlexibleSchedule" : false,
+    "id" : "F0064293-8B19-496C-979F-E3265BEFD5C9",
+    "name" : "Steven Guthrie",
+    "pin" : "7989",
+    "startTime" : "2025-02-27T08:00:00Z"
   }
 ]
