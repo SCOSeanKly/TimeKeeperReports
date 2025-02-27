@@ -994,5 +994,11 @@
     "id" : "E12C64C2-34A4-4540-A0F4-89F7E98C84B2",
     "timestamp" : "2025-02-27T07:59:15Z",
     "type" : "Clock In"
+  },
+  {
+    "employeeId" : "83F0962E-D531-4F32-952D-F84DE2EDD27F",
+    "id" : "C1B11CF2-9944-4D6D-8F05-DB400A307F32",
+    "timestamp" : "2025-02-27T08:15:25Z",
+    "type" : "Clock In"
   }
 ]
