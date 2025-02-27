@@ -1000,5 +1000,11 @@
     "id" : "C1B11CF2-9944-4D6D-8F05-DB400A307F32",
     "timestamp" : "2025-02-27T08:15:25Z",
     "type" : "Clock In"
+  },
+  {
+    "employeeId" : "337733FA-A522-41C0-9B46-2A6B5A1D00F9",
+    "id" : "DC88CB43-CC07-4B7B-816E-B7AE3C7D6534",
+    "timestamp" : "2025-02-27T08:24:58Z",
+    "type" : "Clock In"
   }
 ]
