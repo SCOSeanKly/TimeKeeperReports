@@ -505,15 +505,15 @@
   },
   {
     "employeeId" : "47113FFB-1076-47B6-8E75-0846349BBAA6",
-    "id" : "A4B91D4D-26B0-4B94-978B-76B7B10189FD",
-    "timestamp" : "2025-02-25T17:23:51Z",
-    "type" : "Admin Force Clock Out"
-  },
-  {
-    "employeeId" : "47113FFB-1076-47B6-8E75-0846349BBAA6",
     "id" : "CFD7D1AF-B2B1-4654-8B41-5DD86A5DCCFA",
     "timestamp" : "2025-02-25T17:23:51Z",
     "type" : "Clock Out"
+  },
+  {
+    "employeeId" : "47113FFB-1076-47B6-8E75-0846349BBAA6",
+    "id" : "A4B91D4D-26B0-4B94-978B-76B7B10189FD",
+    "timestamp" : "2025-02-25T17:23:51Z",
+    "type" : "Admin Force Clock Out"
   },
   {
     "employeeId" : "1336224E-1281-4330-976C-6FBEC95D48BC",
@@ -1798,5 +1798,11 @@
     "id" : "9A433BE2-7DEC-49C4-B3B4-80023D6E478F",
     "timestamp" : "2025-02-28T14:32:00Z",
     "type" : "Lunch End"
+  },
+  {
+    "employeeId" : "57BA9115-ECC7-46ED-B99A-48B11ED17B76",
+    "id" : "C13A82CA-99DF-4F8A-A888-8841A187790B",
+    "timestamp" : "2025-02-28T15:50:58Z",
+    "type" : "Clock In"
   }
 ]
