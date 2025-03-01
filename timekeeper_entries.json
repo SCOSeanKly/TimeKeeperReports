@@ -1912,5 +1912,11 @@
     "id" : "B9BF0219-EC2F-4F06-BF39-190E25684479",
     "timestamp" : "2025-03-01T08:00:22Z",
     "type" : "Clock In"
+  },
+  {
+    "employeeId" : "29EAE04E-470D-4124-8038-200CCF2D63BC",
+    "id" : "3140B986-D453-4B22-BB94-C65DD048E861",
+    "timestamp" : "2025-03-01T08:10:57Z",
+    "type" : "Clock In"
   }
 ]
