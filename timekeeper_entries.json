@@ -2032,5 +2032,11 @@
     "id" : "7B59EE88-549F-42B0-9F19-66509C310DD0",
     "timestamp" : "2025-03-03T08:42:48Z",
     "type" : "Clock In"
+  },
+  {
+    "employeeId" : "2D3EC73F-366E-466C-8516-C0AF231C271E",
+    "id" : "5BECA518-E3EC-4A3C-BB70-2B743AF4B2B8",
+    "timestamp" : "2025-03-03T08:26:00Z",
+    "type" : "Clock In"
   }
 ]
