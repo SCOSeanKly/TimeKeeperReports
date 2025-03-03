@@ -1990,5 +1990,11 @@
     "id" : "8BB486B9-3853-43FB-A24C-1B9C52EF94FF",
     "timestamp" : "2025-03-03T07:57:14Z",
     "type" : "Clock In"
+  },
+  {
+    "employeeId" : "66FE14DE-3A62-4015-AA37-1E3ACB7A0632",
+    "id" : "A393D448-1751-4819-AFDE-5DBAA4AC3C24",
+    "timestamp" : "2025-03-03T08:14:38Z",
+    "type" : "Clock In"
   }
 ]
