@@ -2476,5 +2476,11 @@
     "id" : "904CA04A-75CB-4633-A825-20FAFA8C5388",
     "timestamp" : "2025-03-04T09:16:08Z",
     "type" : "Clock In"
+  },
+  {
+    "employeeId" : "2D3EC73F-366E-466C-8516-C0AF231C271E",
+    "id" : "210E435B-A589-4A06-93D9-1AB535D8A4D2",
+    "timestamp" : "2025-03-04T10:12:39Z",
+    "type" : "Break Start"
   }
 ]
