@@ -1,8 +1,8 @@
 {
   "showMessage": true,
-  "title": "Important Test Announcement",
-  "body": "This is a test message",
-  "buttonText": "Acknowledge",
+  "title": "Important Heating Notice",
+  "body": "Please ensure all roller shutter doors remain CLOSED when the workshop heating is in operation. Open doors allow heat to escape, wasting energy and increasing costs. If you need to move vehicles in or out, please close the doors immediately afterward. Thank you for your cooperation.",
+  "buttonText": "I Understand",
   "textColor": "#FFFFFF",
-  "backgroundColor": "#1E3A8A"
+  "backgroundColor": "#D64045"
 }
