@@ -1,7 +1,7 @@
 {
   "showMessage": true,
-  "title": "Important Announcement",
-  "body": "The system will be undergoing maintenance on Friday, March 8th from 18:00 to 22:00. Please ensure all employees are clocked out before this time. Contact IT support if you have any questions.",
+  "title": "Important Test Announcement",
+  "body": "This is a test message",
   "buttonText": "Acknowledge",
   "textColor": "#FFFFFF",
   "backgroundColor": "#1E3A8A"
