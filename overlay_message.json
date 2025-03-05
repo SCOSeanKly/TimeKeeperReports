@@ -1,29 +1,8 @@
-[
-  {
-    "showMessage": true,
-    "department": "workshop",
-    "title": "Workshop Safety Reminder",
+{
+  "showMessage": true,
+ "title": "Workshop Safety Reminder",
     "body": "Keep roller shutter doors CLOSED when workshop heating is on. Open doors waste energy and increase costs. Close doors immediately after moving vehicles.",
     "buttonText": "I Understand",
     "textColor": "#FFFFFF",
     "backgroundColor": "#D64045"
-  },
-  {
-    "showMessage": true,
-    "departments": ["bodyshop", "recovery"],
-    "title": "Maintenance Area Notice",
-    "body": "New safety equipment has been installed in all maintenance areas. Please review the updated safety procedures in your department's safety manual.",
-    "buttonText": "Acknowledged",
-    "textColor": "#FFFFFF",
-    "backgroundColor": "#2E5090"
-  },
-  {
-    "showMessage": true,
-    "showToAllDepartments": true,
-    "title": "Company-Wide Announcement",
-    "body": "The annual company meeting will be held next Friday at 3PM in the main conference room. All staff are required to attend.",
-    "buttonText": "Got It",
-    "textColor": "#FFFFFF",
-    "backgroundColor": "#3D7E3B"
-  }
-]
+}
