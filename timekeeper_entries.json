@@ -3202,5 +3202,11 @@
     "id" : "101ABC2D-61D3-499D-A07C-B103A6FF6073",
     "timestamp" : "2025-03-05T14:39:55Z",
     "type" : "Lunch End"
+  },
+  {
+    "employeeId" : "66FE14DE-3A62-4015-AA37-1E3ACB7A0632",
+    "id" : "20A5EF67-24CB-4D72-8D2E-FCAC15C45603",
+    "timestamp" : "2025-03-05T15:00:42Z",
+    "type" : "Clock Out"
   }
 ]
