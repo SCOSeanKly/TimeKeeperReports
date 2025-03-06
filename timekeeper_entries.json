@@ -3544,5 +3544,11 @@
     "id" : "3D005000-35FA-4F58-87DA-440D34F8BC51",
     "timestamp" : "2025-03-06T13:37:19Z",
     "type" : "Lunch Start"
+  },
+  {
+    "employeeId" : "F0064293-8B19-496C-979F-E3265BEFD5C9",
+    "id" : "FAC91D76-D5A9-4BB4-BEA0-C8FDE3663079",
+    "timestamp" : "2025-03-06T13:46:09Z",
+    "type" : "Break Start"
   }
 ]
