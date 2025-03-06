@@ -3670,5 +3670,17 @@
     "id" : "CAFE8B9D-31A1-4732-BEC0-3C9807A7C87D",
     "timestamp" : "2025-03-06T15:50:00Z",
     "type" : "Clock In"
+  },
+  {
+    "employeeId" : "83F0962E-D531-4F32-952D-F84DE2EDD27F",
+    "id" : "870D35F4-FAA9-45D5-92E2-144BE23ACD59",
+    "timestamp" : "2025-03-06T17:04:09Z",
+    "type" : "Clock Out"
+  },
+  {
+    "employeeId" : "66FE14DE-3A62-4015-AA37-1E3ACB7A0632",
+    "id" : "98E646DB-2F96-406C-AB05-6C7924FC79D0",
+    "timestamp" : "2025-03-06T17:05:10Z",
+    "type" : "Clock Out"
   }
 ]
