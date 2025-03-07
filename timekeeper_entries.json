@@ -3854,7 +3854,7 @@
   {
     "employeeId" : "47113FFB-1076-47B6-8E75-0846349BBAA6",
     "id" : "34F039C1-A709-496B-AA47-64EDB0CD4E29",
-    "timestamp" : "2025-03-07T09:19:24Z",
+    "timestamp" : "2025-03-07T08:30:00Z",
     "type" : "Clock In"
   },
   {
@@ -4017,6 +4017,12 @@
     "employeeId" : "A89B7519-4C5C-4F70-9342-5BBCF890E719",
     "id" : "0978F416-B226-4375-B26D-4F58FAAA21DA",
     "timestamp" : "2025-03-07T10:54:41Z",
+    "type" : "Break End"
+  },
+  {
+    "employeeId" : "2D3EC73F-366E-466C-8516-C0AF231C271E",
+    "id" : "114542CA-213D-4A90-8F91-BC9867607B27",
+    "timestamp" : "2025-03-07T10:47:00Z",
     "type" : "Break End"
   }
 ]
