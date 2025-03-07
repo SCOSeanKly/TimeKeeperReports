@@ -3802,5 +3802,11 @@
     "id" : "8DF1B6B0-7D8F-4ACD-8F7C-955FAEB2E5EC",
     "timestamp" : "2025-03-07T08:00:52Z",
     "type" : "Clock In"
+  },
+  {
+    "employeeId" : "1336224E-1281-4330-976C-6FBEC95D48BC",
+    "id" : "26A4AF53-6D56-478C-B4EC-2AB44F7EE244",
+    "timestamp" : "2025-03-07T08:09:41Z",
+    "type" : "Clock In"
   }
 ]
