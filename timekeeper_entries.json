@@ -3306,6 +3306,12 @@
     "type" : "Auto Clock Out At Midnight"
   },
   {
+    "employeeId" : "1336224E-1281-4330-976C-6FBEC95D48BC",
+    "id" : "9ED43017-8F3D-4D4E-8613-1633A85A8C54",
+    "timestamp" : "2025-03-06T00:00:00Z",
+    "type" : "Sick Day"
+  },
+  {
     "employeeId" : "F0064293-8B19-496C-979F-E3265BEFD5C9",
     "id" : "A78C7C7B-A509-4DCE-95CD-D156C7F793E8",
     "timestamp" : "2025-03-06T07:50:24Z",
