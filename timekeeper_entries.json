@@ -3832,5 +3832,17 @@
     "id" : "6643159C-0C61-4B9D-8E74-5CD2199AF323",
     "timestamp" : "2025-03-07T08:32:02Z",
     "type" : "Clock In"
+  },
+  {
+    "employeeId" : "3C4C3205-2DFC-4646-9AB9-49F73AD47A6A",
+    "id" : "51A4D714-6F35-4916-9B0B-F2F5A4B62C80",
+    "timestamp" : "2025-03-07T09:01:12Z",
+    "type" : "Clock In"
+  },
+  {
+    "employeeId" : "A89B7519-4C5C-4F70-9342-5BBCF890E719",
+    "id" : "078E49E7-2FD5-4EEC-9E2A-38C73479026C",
+    "timestamp" : "2025-03-07T08:00:00Z",
+    "type" : "Clock In"
   }
 ]
