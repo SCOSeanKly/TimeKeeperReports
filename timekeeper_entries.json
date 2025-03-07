@@ -4114,5 +4114,11 @@
     "id" : "95ABAA51-EBAE-4EA3-BD8C-62FD75E005BA",
     "timestamp" : "2025-03-07T13:40:05Z",
     "type" : "Lunch Start"
+  },
+  {
+    "employeeId" : "1336224E-1281-4330-976C-6FBEC95D48BC",
+    "id" : "C9859780-8573-49C3-B1B7-045FCE1E29E4",
+    "timestamp" : "2025-03-06T00:00:00Z",
+    "type" : "Sick Day"
   }
 ]
