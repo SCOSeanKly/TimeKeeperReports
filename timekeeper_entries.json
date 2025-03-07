@@ -4120,5 +4120,11 @@
     "id" : "C9859780-8573-49C3-B1B7-045FCE1E29E4",
     "timestamp" : "2025-03-06T00:00:00Z",
     "type" : "Sick Day"
+  },
+  {
+    "employeeId" : "2D3EC73F-366E-466C-8516-C0AF231C271E",
+    "id" : "BF4DDBB5-FE5E-4BD4-A48A-D0B91932467A",
+    "timestamp" : "2025-03-07T13:50:38Z",
+    "type" : "Lunch End"
   }
 ]
