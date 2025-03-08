@@ -4378,5 +4378,11 @@
     "id" : "FD66E927-C57B-43D1-B5FD-2A90E8BC6445",
     "timestamp" : "2025-03-08T10:09:28Z",
     "type" : "Break Start"
+  },
+  {
+    "employeeId" : "337733FA-A522-41C0-9B46-2A6B5A1D00F9",
+    "id" : "E562E6AF-E59E-465B-9403-54EF7A84FC20",
+    "timestamp" : "2025-03-08T10:30:04Z",
+    "type" : "Break End"
   }
 ]
