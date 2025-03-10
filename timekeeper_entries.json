@@ -5044,5 +5044,11 @@
     "id" : "B23D7894-20F5-4A25-9BA0-D5D2CF72CCAE",
     "timestamp" : "2025-03-10T17:11:27Z",
     "type" : "Clock Out"
+  },
+  {
+    "employeeId" : "337733FA-A522-41C0-9B46-2A6B5A1D00F9",
+    "id" : "970423CE-8A43-438A-9BB9-74C6FACA4B71",
+    "timestamp" : "2025-03-10T17:25:34Z",
+    "type" : "Clock Out"
   }
 ]
