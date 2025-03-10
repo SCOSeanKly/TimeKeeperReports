@@ -4432,5 +4432,17 @@
     "id" : "FF5D259C-1D07-4565-9AF1-BDA3825A802C",
     "timestamp" : "2025-03-08T15:03:57Z",
     "type" : "Clock Out"
+  },
+  {
+    "employeeId" : "29EAE04E-470D-4124-8038-200CCF2D63BC",
+    "id" : "FAB73FF7-AB89-4297-A734-CED9582F53BB",
+    "timestamp" : "2025-03-10T07:41:21Z",
+    "type" : "Clock In"
+  },
+  {
+    "employeeId" : "ABBF1404-78F1-4DB0-A35E-374CD9612909",
+    "id" : "33E3C129-3E79-4AAD-9819-E5DC850E23EA",
+    "timestamp" : "2025-03-10T07:42:40Z",
+    "type" : "Clock In"
   }
 ]
