@@ -4522,5 +4522,17 @@
     "id" : "555CEC08-1422-4A88-B71A-020F378017C8",
     "timestamp" : "2025-03-10T08:26:21Z",
     "type" : "Clock In"
+  },
+  {
+    "employeeId" : "3C4C3205-2DFC-4646-9AB9-49F73AD47A6A",
+    "id" : "4AC9618E-12AB-4970-B7CE-2D2FB220C8A7",
+    "timestamp" : "2025-03-10T08:31:50Z",
+    "type" : "Clock In"
+  },
+  {
+    "employeeId" : "47113FFB-1076-47B6-8E75-0846349BBAA6",
+    "id" : "FDD518F3-64A4-4D71-AEFD-211908FC2A79",
+    "timestamp" : "2025-03-10T08:35:54Z",
+    "type" : "Clock In"
   }
 ]
