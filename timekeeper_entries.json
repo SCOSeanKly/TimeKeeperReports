@@ -5080,5 +5080,11 @@
     "id" : "A0463FED-5E2B-4E70-8533-300F116C53FC",
     "timestamp" : "2025-03-10T19:59:12Z",
     "type" : "Clock Out"
+  },
+  {
+    "employeeId" : "ABBF1404-78F1-4DB0-A35E-374CD9612909",
+    "id" : "7FE69147-3C0E-4F24-BD35-3C8C6D1BD235",
+    "timestamp" : "2025-03-11T07:39:48Z",
+    "type" : "Clock In"
   }
 ]
