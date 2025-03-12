@@ -10360,5 +10360,11 @@
     "id" : "781EF670-5B5E-4FA7-BFFE-52F0306AA924",
     "timestamp" : "2025-03-12T10:50:55Z",
     "type" : "Break End"
+  },
+  {
+    "employeeId" : "1336224E-1281-4330-976C-6FBEC95D48BC",
+    "id" : "654ECFF3-283D-4300-B181-761D30F5E411",
+    "timestamp" : "2025-03-12T12:17:05Z",
+    "type" : "Clock In"
   }
 ]
