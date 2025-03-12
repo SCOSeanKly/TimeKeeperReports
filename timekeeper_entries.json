@@ -10150,5 +10150,11 @@
     "id" : "D18D3D12-0158-4B9D-833F-CF0571D334F0",
     "timestamp" : "2025-03-12T08:00:09Z",
     "type" : "Clock In"
+  },
+  {
+    "employeeId" : "A89B7519-4C5C-4F70-9342-5BBCF890E719",
+    "id" : "7E0EC240-3A22-409D-95B0-DCEB93B6CD2F",
+    "timestamp" : "2025-03-12T08:02:42Z",
+    "type" : "Clock In"
   }
 ]
