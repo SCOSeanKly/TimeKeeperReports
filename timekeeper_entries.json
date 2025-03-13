@@ -11200,5 +11200,11 @@
     "id" : "0EF92B2D-80D3-4A6C-9DE3-F26B5E5CE2A0",
     "timestamp" : "2025-03-13T14:38:45Z",
     "type" : "Lunch End"
+  },
+  {
+    "employeeId" : "393F3D1F-F71E-4F88-8619-1CDD9BF9C9C2",
+    "id" : "EC074D69-0A1F-48E1-BB62-733EAABDB537",
+    "timestamp" : "2025-03-13T16:12:00Z",
+    "type" : "Clock Out"
   }
 ]
