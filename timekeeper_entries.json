@@ -11680,5 +11680,65 @@
     "id" : "B40F7200-4CD0-4AC3-ACEC-E68DB252AE8B",
     "timestamp" : "2025-03-14T13:52:20Z",
     "type" : "Lunch End"
+  },
+  {
+    "employeeId" : "394EE8BC-3145-4010-B8D1-B4965EAA9296",
+    "id" : "A57F4705-4C5D-4118-9507-4749B023B7E5",
+    "timestamp" : "2025-03-14T13:58:05Z",
+    "type" : "Lunch End"
+  },
+  {
+    "employeeId" : "ABBF1404-78F1-4DB0-A35E-374CD9612909",
+    "id" : "49AFD77A-9E66-4E39-8666-5479EAD9E1A0",
+    "timestamp" : "2025-03-14T13:58:38Z",
+    "type" : "Lunch End"
+  },
+  {
+    "employeeId" : "A89B7519-4C5C-4F70-9342-5BBCF890E719",
+    "id" : "0A174EBE-8ED8-4965-BA62-0BE3FAD87B61",
+    "timestamp" : "2025-03-14T13:59:23Z",
+    "type" : "Lunch End"
+  },
+  {
+    "employeeId" : "1336224E-1281-4330-976C-6FBEC95D48BC",
+    "id" : "06E83E3F-7452-4DB9-96E9-60FA9C2D46F9",
+    "timestamp" : "2025-03-14T14:00:29Z",
+    "type" : "Lunch End"
+  },
+  {
+    "employeeId" : "83F0962E-D531-4F32-952D-F84DE2EDD27F",
+    "id" : "AB4EFF33-6433-4123-A695-8ABF455E7F7C",
+    "timestamp" : "2025-03-14T14:00:49Z",
+    "type" : "Lunch End"
+  },
+  {
+    "employeeId" : "393F3D1F-F71E-4F88-8619-1CDD9BF9C9C2",
+    "id" : "589B2C95-1301-40E6-A4C3-BE2600340D34",
+    "timestamp" : "2025-03-14T14:01:45Z",
+    "type" : "Lunch End"
+  },
+  {
+    "employeeId" : "66FE14DE-3A62-4015-AA37-1E3ACB7A0632",
+    "id" : "868B3109-EFB1-40EC-A1FF-3A07816AA418",
+    "timestamp" : "2025-03-14T14:01:54Z",
+    "type" : "Lunch End"
+  },
+  {
+    "employeeId" : "337733FA-A522-41C0-9B46-2A6B5A1D00F9",
+    "id" : "2C8BD696-50EA-49FB-ADCC-1169FC135EDE",
+    "timestamp" : "2025-03-14T14:02:14Z",
+    "type" : "Lunch End"
+  },
+  {
+    "employeeId" : "47113FFB-1076-47B6-8E75-0846349BBAA6",
+    "id" : "9DEBA27D-9F52-495D-B7CA-2E3F5BE8C3F1",
+    "timestamp" : "2025-03-14T14:02:39Z",
+    "type" : "Lunch End"
+  },
+  {
+    "employeeId" : "3C4C3205-2DFC-4646-9AB9-49F73AD47A6A",
+    "id" : "9C410D1C-D592-4D12-92F1-731C79FB1ABE",
+    "timestamp" : "2025-03-14T14:02:48Z",
+    "type" : "Lunch End"
   }
 ]
