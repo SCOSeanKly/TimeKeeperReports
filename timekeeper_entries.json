@@ -12466,5 +12466,11 @@
     "id" : "3DE5D9D1-E4F3-44F7-9CE1-16DC1E7696F9",
     "timestamp" : "2025-03-17T16:32:31Z",
     "type" : "Clock Out"
+  },
+  {
+    "employeeId" : "66FE14DE-3A62-4015-AA37-1E3ACB7A0632",
+    "id" : "C1FF7591-132E-4BE7-A9D8-AE2BE9353750",
+    "timestamp" : "2025-03-17T16:48:50Z",
+    "type" : "Clock Out"
   }
 ]
