@@ -13168,5 +13168,11 @@
     "id" : "B512E276-E303-4D64-9652-A005CFF64A7D",
     "timestamp" : "2025-03-18T17:30:54Z",
     "type" : "Clock Out"
+  },
+  {
+    "employeeId" : "BD0902DD-373B-433A-953A-755F88CBF221",
+    "id" : "67B012B1-3F89-463B-A792-06923F5C83D8",
+    "timestamp" : "2025-03-18T17:50:07Z",
+    "type" : "Clock Out"
   }
 ]
