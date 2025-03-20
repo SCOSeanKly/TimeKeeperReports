@@ -12542,14 +12542,8 @@
   {
     "employeeId" : "BE4E5108-1C7A-4396-BA60-985D0A0D25DC",
     "id" : "70090590-8C4D-4699-B4B2-7DB8EFF58874",
-    "timestamp" : "2025-03-17T21:00:00Z",
+    "timestamp" : "2025-03-17T16:08:00Z",
     "type" : "Clock Out"
-  },
-  {
-    "employeeId" : "BE4E5108-1C7A-4396-BA60-985D0A0D25DC",
-    "id" : "43778A82-AFD5-47CB-BBC5-D1CA1BE25DA7",
-    "timestamp" : "2025-03-17T21:00:00Z",
-    "type" : "Auto Clock Out At Midnight"
   },
   {
     "employeeId" : "D56675E7-D446-4F6D-BC07-06072C9146BE",
@@ -13906,5 +13900,23 @@
     "id" : "C44FA0D0-6CFC-4A05-B57F-5589A80ACAD7",
     "timestamp" : "2025-03-20T07:51:00Z",
     "type" : "Clock In"
+  },
+  {
+    "employeeId" : "BE4E5108-1C7A-4396-BA60-985D0A0D25DC",
+    "id" : "8B81302B-E33F-44E5-96C1-721A03C08F6E",
+    "timestamp" : "2025-03-19T07:51:00Z",
+    "type" : "Clock In"
+  },
+  {
+    "employeeId" : "BE4E5108-1C7A-4396-BA60-985D0A0D25DC",
+    "id" : "FBB677AD-5919-4071-85A5-ADF035915943",
+    "timestamp" : "2025-03-19T16:24:00Z",
+    "type" : "Clock Out"
+  },
+  {
+    "employeeId" : "394EE8BC-3145-4010-B8D1-B4965EAA9296",
+    "id" : "E587F711-2BEB-470C-8878-775637FE06EA",
+    "timestamp" : "2025-03-20T10:28:24Z",
+    "type" : "Break Start"
   }
 ]
