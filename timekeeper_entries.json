@@ -14956,5 +14956,65 @@
     "id" : "1FD7A1B6-CC76-49AB-8671-EC8CDB498A16",
     "timestamp" : "2025-03-22T12:30:07Z",
     "type" : "Clock Out"
+  },
+  {
+    "employeeId" : "7052DB49-F73F-47F0-9FB3-CF44601A7FC3",
+    "id" : "6764B02C-CFBB-4C96-B22B-3893199D53BE",
+    "timestamp" : "2025-03-22T13:00:14Z",
+    "type" : "Clock Out"
+  },
+  {
+    "employeeId" : "BD0902DD-373B-433A-953A-755F88CBF221",
+    "id" : "D92DCAEC-FF15-41A1-ABBC-980643D2229F",
+    "timestamp" : "2025-03-22T13:00:24Z",
+    "type" : "Clock Out"
+  },
+  {
+    "employeeId" : "D56675E7-D446-4F6D-BC07-06072C9146BE",
+    "id" : "2A1CCF3F-884E-44AC-B782-4D2FF279ED66",
+    "timestamp" : "2025-03-22T13:00:43Z",
+    "type" : "Clock Out"
+  },
+  {
+    "employeeId" : "29EAE04E-470D-4124-8038-200CCF2D63BC",
+    "id" : "C6768759-1475-431C-A7AF-F5E80508C2B3",
+    "timestamp" : "2025-03-22T13:00:50Z",
+    "type" : "Break Start"
+  },
+  {
+    "employeeId" : "29EAE04E-470D-4124-8038-200CCF2D63BC",
+    "id" : "5D241A61-5422-4A08-B847-3F870F0C255B",
+    "timestamp" : "2025-03-22T13:00:51Z",
+    "type" : "Break End"
+  },
+  {
+    "employeeId" : "29EAE04E-470D-4124-8038-200CCF2D63BC",
+    "id" : "058C8EDD-EC2A-42EA-B717-5E5765CF9A2C",
+    "timestamp" : "2025-03-22T13:00:54Z",
+    "type" : "Clock Out"
+  },
+  {
+    "employeeId" : "337733FA-A522-41C0-9B46-2A6B5A1D00F9",
+    "id" : "5F634195-10E4-498A-BA82-EEFBB0238C26",
+    "timestamp" : "2025-03-22T13:01:17Z",
+    "type" : "Break Start"
+  },
+  {
+    "employeeId" : "337733FA-A522-41C0-9B46-2A6B5A1D00F9",
+    "id" : "5FBE1A98-2379-4F9D-B19F-2C92F2C5F186",
+    "timestamp" : "2025-03-22T13:01:18Z",
+    "type" : "Break End"
+  },
+  {
+    "employeeId" : "337733FA-A522-41C0-9B46-2A6B5A1D00F9",
+    "id" : "4224AB80-2D13-4982-ABD4-ADD6739128DA",
+    "timestamp" : "2025-03-22T13:01:21Z",
+    "type" : "Clock Out"
+  },
+  {
+    "employeeId" : "1336224E-1281-4330-976C-6FBEC95D48BC",
+    "id" : "18EEF04C-96A1-4B96-96EF-BBEC7866B632",
+    "timestamp" : "2025-03-22T13:01:33Z",
+    "type" : "Clock Out"
   }
 ]
