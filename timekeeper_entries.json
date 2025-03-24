@@ -15190,5 +15190,11 @@
     "id" : "83A3F94B-C9B5-46A0-AD3C-3D3C70D99083",
     "timestamp" : "2025-03-24T10:36:14Z",
     "type" : "Break Start"
+  },
+  {
+    "employeeId" : "2D3EC73F-366E-466C-8516-C0AF231C271E",
+    "id" : "8A5684EE-D715-431A-8F38-D3A7C91761F0",
+    "timestamp" : "2025-03-24T10:39:35Z",
+    "type" : "Break End"
   }
 ]
