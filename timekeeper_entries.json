@@ -15094,5 +15094,23 @@
     "id" : "328A93BA-1B3D-44DF-834E-920F0886081D",
     "timestamp" : "2025-03-24T08:32:01Z",
     "type" : "Clock In"
+  },
+  {
+    "employeeId" : "3C4C3205-2DFC-4646-9AB9-49F73AD47A6A",
+    "id" : "1046BBD6-9DD0-4591-A6C2-AF447354C62F",
+    "timestamp" : "2025-03-24T08:34:57Z",
+    "type" : "Clock In"
+  },
+  {
+    "employeeId" : "953EA2A7-6C38-4C9B-98AD-A7927077E363",
+    "id" : "1BA744F3-2487-41B5-95A5-174EF7E4DB18",
+    "timestamp" : "2025-03-24T09:14:08Z",
+    "type" : "Clock In"
+  },
+  {
+    "employeeId" : "1336224E-1281-4330-976C-6FBEC95D48BC",
+    "id" : "F42EC501-9A06-4192-8995-6FC4F0ACCC3E",
+    "timestamp" : "2025-03-24T00:00:00Z",
+    "type" : "Sick Day"
   }
 ]
