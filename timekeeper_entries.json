@@ -15652,5 +15652,11 @@
     "id" : "27553431-1C37-4075-8A6F-CE5F35AE6597",
     "timestamp" : "2025-03-25T00:00:00Z",
     "type" : "Sick Day"
+  },
+  {
+    "employeeId" : "953EA2A7-6C38-4C9B-98AD-A7927077E363",
+    "id" : "B46AEA28-246D-4D49-9C3B-2DEAB79020EC",
+    "timestamp" : "2025-03-25T09:14:13Z",
+    "type" : "Clock In"
   }
 ]
