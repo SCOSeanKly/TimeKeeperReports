@@ -15640,5 +15640,17 @@
     "id" : "6D7B9C67-CDA0-49B6-927F-B1A4740EB604",
     "timestamp" : "2025-03-25T08:29:40Z",
     "type" : "Clock In"
+  },
+  {
+    "employeeId" : "1336224E-1281-4330-976C-6FBEC95D48BC",
+    "id" : "908DDEB1-301A-451A-A730-96679E7BA332",
+    "timestamp" : "2025-03-25T00:00:00Z",
+    "type" : "Sick Day"
+  },
+  {
+    "employeeId" : "47113FFB-1076-47B6-8E75-0846349BBAA6",
+    "id" : "27553431-1C37-4075-8A6F-CE5F35AE6597",
+    "timestamp" : "2025-03-25T00:00:00Z",
+    "type" : "Sick Day"
   }
 ]
