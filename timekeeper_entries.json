@@ -15604,5 +15604,17 @@
     "id" : "A9A3542C-B35E-43C8-8698-B0EA2E9570E1",
     "timestamp" : "2025-03-25T07:57:35Z",
     "type" : "Clock In"
+  },
+  {
+    "employeeId" : "D56675E7-D446-4F6D-BC07-06072C9146BE",
+    "id" : "42C7CDA3-E195-44D5-AB41-AF94E72F2920",
+    "timestamp" : "2025-03-25T07:59:36Z",
+    "type" : "Clock In"
+  },
+  {
+    "employeeId" : "394EE8BC-3145-4010-B8D1-B4965EAA9296",
+    "id" : "445E13C2-90E0-46DA-AB55-E64CD2C7DCE2",
+    "timestamp" : "2025-03-25T08:00:14Z",
+    "type" : "Clock In"
   }
 ]
