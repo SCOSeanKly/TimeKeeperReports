@@ -16516,5 +16516,17 @@
     "id" : "7B716C41-5835-44B2-815B-AEC19AB91718",
     "timestamp" : "2025-03-26T00:00:00Z",
     "type" : "Sick Day"
+  },
+  {
+    "employeeId" : "F0064293-8B19-496C-979F-E3265BEFD5C9",
+    "id" : "EDCFE56C-9FB9-421B-90E7-7CE47CF03167",
+    "timestamp" : "2025-03-26T17:00:05Z",
+    "type" : "Clock Out"
+  },
+  {
+    "employeeId" : "47113FFB-1076-47B6-8E75-0846349BBAA6",
+    "id" : "6B8FDFB1-4AC7-42FF-8B1A-61D16FBF38A6",
+    "timestamp" : "2025-03-26T17:03:59Z",
+    "type" : "Clock Out"
   }
 ]
