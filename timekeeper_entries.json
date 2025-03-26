@@ -15986,7 +15986,7 @@
   {
     "employeeId" : "66FE14DE-3A62-4015-AA37-1E3ACB7A0632",
     "id" : "128C23E6-082A-4769-B421-D7975D16C02E",
-    "timestamp" : "2025-03-25T17:01:50Z",
+    "timestamp" : "2025-03-25T14:01:00Z",
     "type" : "Lunch End"
   },
   {
@@ -16024,5 +16024,65 @@
     "id" : "E761E5DB-B633-434D-AE7D-05595D28B326",
     "timestamp" : "2025-03-25T17:31:47Z",
     "type" : "Clock Out"
+  },
+  {
+    "employeeId" : "BD0902DD-373B-433A-953A-755F88CBF221",
+    "id" : "F9582D15-2DBD-43CF-9A9B-27AA12D78804",
+    "timestamp" : "2025-03-25T17:38:45Z",
+    "type" : "Clock Out"
+  },
+  {
+    "employeeId" : "D56675E7-D446-4F6D-BC07-06072C9146BE",
+    "id" : "86037B59-18A6-47D6-88CA-50026C0C644A",
+    "timestamp" : "2025-03-25T17:42:48Z",
+    "type" : "Clock Out"
+  },
+  {
+    "employeeId" : "BE4E5108-1C7A-4396-BA60-985D0A0D25DC",
+    "id" : "516880EC-473E-4216-9324-07BCBF02C30D",
+    "timestamp" : "2025-03-25T21:00:00Z",
+    "type" : "Clock Out"
+  },
+  {
+    "employeeId" : "BE4E5108-1C7A-4396-BA60-985D0A0D25DC",
+    "id" : "D1756B7E-8857-4F15-8D6B-C70D440105F2",
+    "timestamp" : "2025-03-25T21:00:00Z",
+    "type" : "Auto Clock Out At Midnight"
+  },
+  {
+    "employeeId" : "1336224E-1281-4330-976C-6FBEC95D48BC",
+    "id" : "862636AC-439A-4D93-B695-96B171391493",
+    "timestamp" : "2025-03-25T21:00:00Z",
+    "type" : "Clock Out"
+  },
+  {
+    "employeeId" : "1336224E-1281-4330-976C-6FBEC95D48BC",
+    "id" : "BC6175AB-80A2-4C59-AA84-7548247FA1BB",
+    "timestamp" : "2025-03-25T21:00:00Z",
+    "type" : "Auto Clock Out At Midnight"
+  },
+  {
+    "employeeId" : "47113FFB-1076-47B6-8E75-0846349BBAA6",
+    "id" : "84140CF4-A5C0-4B86-A91E-6B32872C8419",
+    "timestamp" : "2025-03-25T21:00:00Z",
+    "type" : "Clock Out"
+  },
+  {
+    "employeeId" : "47113FFB-1076-47B6-8E75-0846349BBAA6",
+    "id" : "084D3023-E7CE-4F32-A2E7-209273BD138A",
+    "timestamp" : "2025-03-25T21:00:00Z",
+    "type" : "Auto Clock Out At Midnight"
+  },
+  {
+    "employeeId" : "ABBF1404-78F1-4DB0-A35E-374CD9612909",
+    "id" : "4009432A-F31C-4930-B209-946560A0937F",
+    "timestamp" : "2025-03-25T21:00:00Z",
+    "type" : "Clock Out"
+  },
+  {
+    "employeeId" : "ABBF1404-78F1-4DB0-A35E-374CD9612909",
+    "id" : "3ED8BB99-4143-42C6-8F32-88C88270E9A4",
+    "timestamp" : "2025-03-25T21:00:00Z",
+    "type" : "Auto Clock Out At Midnight"
   }
 ]
