@@ -16510,5 +16510,11 @@
     "id" : "936D6630-F934-412D-AA2B-9FDFED063BA2",
     "timestamp" : "2025-03-26T16:37:10Z",
     "type" : "Clock Out"
+  },
+  {
+    "employeeId" : "1336224E-1281-4330-976C-6FBEC95D48BC",
+    "id" : "7B716C41-5835-44B2-815B-AEC19AB91718",
+    "timestamp" : "2025-03-26T00:00:00Z",
+    "type" : "Sick Day"
   }
 ]
