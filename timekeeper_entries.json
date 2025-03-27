@@ -16600,5 +16600,11 @@
     "id" : "24EA4C5D-7CB5-4681-859C-FEEC062E7064",
     "timestamp" : "2025-03-26T21:00:00Z",
     "type" : "Auto Clock Out At Midnight"
+  },
+  {
+    "employeeId" : "ABBF1404-78F1-4DB0-A35E-374CD9612909",
+    "id" : "64DBDB9D-D30B-48C2-8D36-41E0A6845655",
+    "timestamp" : "2025-03-27T07:40:28Z",
+    "type" : "Clock In"
   }
 ]
