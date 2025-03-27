@@ -16680,12 +16680,6 @@
     "type" : "Clock In"
   },
   {
-    "employeeId" : "29EAE04E-470D-4124-8038-200CCF2D63BC",
-    "id" : "580F80FB-0154-4117-897F-BB2895491431",
-    "timestamp" : "2025-03-27T00:00:00Z",
-    "type" : "Sick Day"
-  },
-  {
     "employeeId" : "ABBF1404-78F1-4DB0-A35E-374CD9612909",
     "id" : "7A164DC7-F66B-4B29-9702-2355F326202D",
     "timestamp" : "2025-03-27T10:30:24Z",
@@ -16930,5 +16924,17 @@
     "id" : "422A474E-F8D2-4E16-84F9-93193EAE29DC",
     "timestamp" : "2025-03-27T14:10:18Z",
     "type" : "Lunch Start"
+  },
+  {
+    "employeeId" : "953EA2A7-6C38-4C9B-98AD-A7927077E363",
+    "id" : "CFAE0828-17B4-4564-B165-12BFE6A68767",
+    "timestamp" : "2025-03-27T14:13:00Z",
+    "type" : "Lunch Start"
+  },
+  {
+    "employeeId" : "F0064293-8B19-496C-979F-E3265BEFD5C9",
+    "id" : "B27DA2CC-AA3F-41A9-B33B-E0DE7B9A3D2F",
+    "timestamp" : "2025-03-27T14:25:57Z",
+    "type" : "Lunch End"
   }
 ]
