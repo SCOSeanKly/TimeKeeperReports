@@ -18022,5 +18022,17 @@
     "id" : "F1F716D3-8C76-410E-9E5A-1505B75CACDB",
     "timestamp" : "2025-03-31T13:38:14Z",
     "type" : "Lunch End"
+  },
+  {
+    "employeeId" : "394EE8BC-3145-4010-B8D1-B4965EAA9296",
+    "id" : "3A595EAA-EE35-48BF-A011-C8C5AD7DF029",
+    "timestamp" : "2025-03-31T15:34:36Z",
+    "type" : "Clock Out"
+  },
+  {
+    "employeeId" : "A89B7519-4C5C-4F70-9342-5BBCF890E719",
+    "id" : "2B671330-E01F-4C80-ABEE-723FFB67D7AB",
+    "timestamp" : "2025-03-31T15:34:45Z",
+    "type" : "Clock Out"
   }
 ]
