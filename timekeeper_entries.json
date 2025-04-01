@@ -18454,5 +18454,11 @@
     "id" : "7D83D557-D181-41AE-B733-4B10C98E56BD",
     "timestamp" : "2025-04-01T12:40:58Z",
     "type" : "Lunch Start"
+  },
+  {
+    "employeeId" : "ABBF1404-78F1-4DB0-A35E-374CD9612909",
+    "id" : "336D808B-7087-4986-A680-B7C92C1E744E",
+    "timestamp" : "2025-04-01T12:52:15Z",
+    "type" : "Lunch End"
   }
 ]
