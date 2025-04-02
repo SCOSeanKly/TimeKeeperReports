@@ -18664,5 +18664,17 @@
     "id" : "5BDBF00B-1C50-4649-ACE6-53ED9A0B3272",
     "timestamp" : "2025-04-02T06:40:41Z",
     "type" : "Clock In"
+  },
+  {
+    "employeeId" : "FB905CE7-9CA9-46C5-AD56-97C41D7FF9CE",
+    "id" : "63613FFC-F3AD-49BE-8B44-2742B98F310E",
+    "timestamp" : "2025-04-02T06:46:15Z",
+    "type" : "Clock In"
+  },
+  {
+    "employeeId" : "2D3EC73F-366E-466C-8516-C0AF231C271E",
+    "id" : "923DA08E-7F9E-4578-AB09-C89B33F9A66A",
+    "timestamp" : "2025-04-02T06:47:29Z",
+    "type" : "Clock In"
   }
 ]
