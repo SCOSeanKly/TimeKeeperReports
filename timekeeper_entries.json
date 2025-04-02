@@ -19006,5 +19006,11 @@
     "id" : "5F42B631-3AC8-420F-8587-5ADD53DEE866",
     "timestamp" : "2025-04-02T12:41:53Z",
     "type" : "Lunch Start"
+  },
+  {
+    "employeeId" : "BD0902DD-373B-433A-953A-755F88CBF221",
+    "id" : "D6C3F906-D32D-4BA3-8F0E-053B5B77D2D6",
+    "timestamp" : "2025-04-02T12:50:16Z",
+    "type" : "Lunch End"
   }
 ]
