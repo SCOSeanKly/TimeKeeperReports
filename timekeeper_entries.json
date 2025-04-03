@@ -19480,5 +19480,17 @@
     "id" : "701FE68C-B459-483D-8F38-02BACF735A17",
     "timestamp" : "2025-04-03T09:49:17Z",
     "type" : "Break End"
+  },
+  {
+    "employeeId" : "29EAE04E-470D-4124-8038-200CCF2D63BC",
+    "id" : "94704D45-207B-4EAC-920C-B47FAFFBD8BF",
+    "timestamp" : "2025-04-03T09:55:09Z",
+    "type" : "Break End"
+  },
+  {
+    "employeeId" : "83F0962E-D531-4F32-952D-F84DE2EDD27F",
+    "id" : "1C4D8979-9612-4632-8143-3A72C7F08DC3",
+    "timestamp" : "2025-04-03T09:59:44Z",
+    "type" : "Break End"
   }
 ]
