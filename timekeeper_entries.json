@@ -21046,5 +21046,11 @@
     "id" : "25D6BD15-8012-4FF2-AF30-159B025ABD85",
     "timestamp" : "2025-04-07T20:00:00Z",
     "type" : "Auto Clock Out At Midnight"
+  },
+  {
+    "employeeId" : "29EAE04E-470D-4124-8038-200CCF2D63BC",
+    "id" : "40B97186-9AF5-46B5-9F4D-D86480C91329",
+    "timestamp" : "2025-04-08T06:38:33Z",
+    "type" : "Clock In"
   }
 ]
