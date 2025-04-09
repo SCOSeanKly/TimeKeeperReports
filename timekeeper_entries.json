@@ -22120,5 +22120,11 @@
     "id" : "219C8225-3896-47B2-8015-A37A73B3089B",
     "timestamp" : "2025-04-09T13:08:05Z",
     "type" : "Lunch End"
+  },
+  {
+    "employeeId" : "57BA9115-ECC7-46ED-B99A-48B11ED17B76",
+    "id" : "868DAAAE-1432-498B-9201-A62282D37A8E",
+    "timestamp" : "2025-04-09T14:49:17Z",
+    "type" : "Clock In"
   }
 ]
