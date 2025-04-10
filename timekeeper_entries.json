@@ -22258,5 +22258,17 @@
     "id" : "A36F1E58-76C0-4B95-B0C6-579A9E425B3B",
     "timestamp" : "2025-04-10T06:44:23Z",
     "type" : "Clock In"
+  },
+  {
+    "employeeId" : "2D3EC73F-366E-466C-8516-C0AF231C271E",
+    "id" : "F9D61BC4-43E3-4D76-8D4E-81C55A95080F",
+    "timestamp" : "2025-04-10T06:50:26Z",
+    "type" : "Clock In"
+  },
+  {
+    "employeeId" : "D56675E7-D446-4F6D-BC07-06072C9146BE",
+    "id" : "15966F9F-CEB5-4EAB-82C2-F93AAA04A6D6",
+    "timestamp" : "2025-04-10T06:55:14Z",
+    "type" : "Clock In"
   }
 ]
