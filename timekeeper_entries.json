@@ -22300,5 +22300,17 @@
     "id" : "3E5F6A23-D519-48DB-857B-52332B0740C9",
     "timestamp" : "2025-04-10T07:18:58Z",
     "type" : "Clock In"
+  },
+  {
+    "employeeId" : "3C4C3205-2DFC-4646-9AB9-49F73AD47A6A",
+    "id" : "12DA352F-878D-4676-B704-ED1AC8992784",
+    "timestamp" : "2025-04-10T07:27:15Z",
+    "type" : "Clock In"
+  },
+  {
+    "employeeId" : "7052DB49-F73F-47F0-9FB3-CF44601A7FC3",
+    "id" : "18C97729-9AFC-4B73-9400-B146A21C1731",
+    "timestamp" : "2025-04-10T07:29:43Z",
+    "type" : "Clock In"
   }
 ]
