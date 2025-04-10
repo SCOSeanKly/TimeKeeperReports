@@ -22660,5 +22660,23 @@
     "id" : "7A8505AD-4649-4430-9240-56588BE68693",
     "timestamp" : "2025-04-10T15:32:12Z",
     "type" : "Clock Out"
+  },
+  {
+    "employeeId" : "F0064293-8B19-496C-979F-E3265BEFD5C9",
+    "id" : "40823BD6-7F64-4EC0-9911-4A38B64DB20A",
+    "timestamp" : "2025-04-10T16:00:01Z",
+    "type" : "Clock Out"
+  },
+  {
+    "employeeId" : "2D3EC73F-366E-466C-8516-C0AF231C271E",
+    "id" : "38A7B8DC-1D74-439B-8614-366ED6E9BE50",
+    "timestamp" : "2025-04-10T16:00:21Z",
+    "type" : "Clock Out"
+  },
+  {
+    "employeeId" : "47113FFB-1076-47B6-8E75-0846349BBAA6",
+    "id" : "CFE6A62E-81CF-4239-9495-3AF232C82039",
+    "timestamp" : "2025-04-10T16:01:51Z",
+    "type" : "Clock Out"
   }
 ]
