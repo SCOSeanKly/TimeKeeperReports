@@ -26422,5 +26422,11 @@
     "id" : "67F125E0-1E62-47E5-BEA6-23B5D3798C71",
     "timestamp" : "2025-04-21T07:51:47Z",
     "type" : "Clock In"
+  },
+  {
+    "employeeId" : "F0064293-8B19-496C-979F-E3265BEFD5C9",
+    "id" : "42C579F5-83F4-45E2-A3CE-60D2C18B556B",
+    "timestamp" : "2025-04-21T09:21:30Z",
+    "type" : "Break Start"
   }
 ]
