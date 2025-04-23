@@ -27364,5 +27364,17 @@
     "id" : "F4999C3F-5C8A-4B19-BA54-39A46CB67719",
     "timestamp" : "2025-04-23T06:46:48Z",
     "type" : "Clock In"
+  },
+  {
+    "employeeId" : "ABBF1404-78F1-4DB0-A35E-374CD9612909",
+    "id" : "CCAC8CCA-673B-4B26-B56D-F605818EA866",
+    "timestamp" : "2025-04-23T06:48:49Z",
+    "type" : "Clock In"
+  },
+  {
+    "employeeId" : "FB905CE7-9CA9-46C5-AD56-97C41D7FF9CE",
+    "id" : "AEAD92CE-2366-4FF0-8DCE-5451C3A05178",
+    "timestamp" : "2025-04-23T06:51:18Z",
+    "type" : "Clock In"
   }
 ]
