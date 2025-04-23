@@ -26788,5 +26788,17 @@
     "id" : "FA4B3EF8-A111-406D-8247-3C3C98E03401",
     "timestamp" : "2025-04-23T09:52:30Z",
     "type" : "Break End"
+  },
+  {
+    "employeeId" : "57BA9115-ECC7-46ED-B99A-48B11ED17B76",
+    "id" : "4E23F638-A467-4BD5-995E-06E584A09326",
+    "timestamp" : "2025-04-22T15:00:00Z",
+    "type" : "Clock In"
+  },
+  {
+    "employeeId" : "57BA9115-ECC7-46ED-B99A-48B11ED17B76",
+    "id" : "71A42348-96D6-4950-A5A5-6098A91C9C0A",
+    "timestamp" : "2025-04-22T19:10:00Z",
+    "type" : "Clock Out"
   }
 ]
