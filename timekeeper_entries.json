@@ -28132,5 +28132,11 @@
     "id" : "4BB2047D-8A83-410A-A28B-A736B052764C",
     "timestamp" : "2025-04-26T11:59:14Z",
     "type" : "Clock Out"
+  },
+  {
+    "employeeId" : "57BA9115-ECC7-46ED-B99A-48B11ED17B76",
+    "id" : "9F1F8D3C-5313-4CC9-8C6A-CF592769BED5",
+    "timestamp" : "2025-04-26T13:59:10Z",
+    "type" : "Clock Out"
   }
 ]
