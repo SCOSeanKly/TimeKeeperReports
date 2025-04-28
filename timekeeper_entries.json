@@ -28138,5 +28138,11 @@
     "id" : "9F1F8D3C-5313-4CC9-8C6A-CF592769BED5",
     "timestamp" : "2025-04-26T13:59:10Z",
     "type" : "Clock Out"
+  },
+  {
+    "employeeId" : "29EAE04E-470D-4124-8038-200CCF2D63BC",
+    "id" : "B485EA1C-F3F0-4E29-8148-AE988651BEC7",
+    "timestamp" : "2025-04-28T06:37:25Z",
+    "type" : "Clock In"
   }
 ]
