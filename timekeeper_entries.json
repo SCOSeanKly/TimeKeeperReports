@@ -28600,5 +28600,35 @@
     "id" : "CFB0C58E-5735-49DA-8344-F3E3ED4541EF",
     "timestamp" : "2025-04-28T15:41:11Z",
     "type" : "Clock Out"
+  },
+  {
+    "employeeId" : "2D3EC73F-366E-466C-8516-C0AF231C271E",
+    "id" : "EF61246E-D314-42F4-AE08-77C76955E43F",
+    "timestamp" : "2025-04-28T16:00:17Z",
+    "type" : "Clock Out"
+  },
+  {
+    "employeeId" : "ABBF1404-78F1-4DB0-A35E-374CD9612909",
+    "id" : "4B9E18F5-2AF1-4A0D-A93B-676D9B00C322",
+    "timestamp" : "2025-04-28T16:00:29Z",
+    "type" : "Clock Out"
+  },
+  {
+    "employeeId" : "F0064293-8B19-496C-979F-E3265BEFD5C9",
+    "id" : "46CE75BE-2210-4E0F-8D61-914F1779A84C",
+    "timestamp" : "2025-04-28T16:00:47Z",
+    "type" : "Clock Out"
+  },
+  {
+    "employeeId" : "83F0962E-D531-4F32-952D-F84DE2EDD27F",
+    "id" : "13B639FD-E8F7-4B8B-91C0-BF8B17F72893",
+    "timestamp" : "2025-04-28T16:01:54Z",
+    "type" : "Clock Out"
+  },
+  {
+    "employeeId" : "47113FFB-1076-47B6-8E75-0846349BBAA6",
+    "id" : "77B220A8-01B3-47EB-9104-842FB58AA8F3",
+    "timestamp" : "2025-04-28T16:04:01Z",
+    "type" : "Clock Out"
   }
 ]
