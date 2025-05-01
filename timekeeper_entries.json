@@ -30208,5 +30208,11 @@
     "id" : "D3003F70-8431-449E-8D93-94E89EEBD5F6",
     "timestamp" : "2025-05-01T13:38:46Z",
     "type" : "Lunch End"
+  },
+  {
+    "employeeId" : "57BA9115-ECC7-46ED-B99A-48B11ED17B76",
+    "id" : "4906829B-0B07-4BDD-BD57-D09A5639BC9E",
+    "timestamp" : "2025-05-01T14:47:23Z",
+    "type" : "Clock In"
   }
 ]
