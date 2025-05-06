@@ -31456,5 +31456,17 @@
     "id" : "672F7515-25E2-4C43-B924-E6E21BD3CF5D",
     "timestamp" : "2025-05-06T09:53:12Z",
     "type" : "Break End"
+  },
+  {
+    "employeeId" : "D56675E7-D446-4F6D-BC07-06072C9146BE",
+    "id" : "A8B9F7B7-BF38-4D5D-AF3B-F72D9064D2C9",
+    "timestamp" : "2025-05-06T09:55:48Z",
+    "type" : "Break End"
+  },
+  {
+    "employeeId" : "2D3EC73F-366E-466C-8516-C0AF231C271E",
+    "id" : "9AC8C3F2-1050-4516-9C11-4871A86E366E",
+    "timestamp" : "2025-05-06T10:00:09Z",
+    "type" : "Break Start"
   }
 ]
