@@ -32224,5 +32224,11 @@
     "id" : "586163BF-B9A1-4F37-81A0-A11B6ED45C5A",
     "timestamp" : "2025-05-07T14:46:19Z",
     "type" : "Clock In"
+  },
+  {
+    "employeeId" : "BE4E5108-1C7A-4396-BA60-985D0A0D25DC",
+    "id" : "AAAB27DD-9557-4100-84E4-804BA98E1CD0",
+    "timestamp" : "2025-05-07T14:58:10Z",
+    "type" : "Clock Out"
   }
 ]
