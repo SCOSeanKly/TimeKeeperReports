@@ -32302,5 +32302,23 @@
     "id" : "0D40EC0C-C176-43E5-B8B5-4F4A5B7AD661",
     "timestamp" : "2025-05-07T16:26:45Z",
     "type" : "Clock Out"
+  },
+  {
+    "employeeId" : "D56675E7-D446-4F6D-BC07-06072C9146BE",
+    "id" : "D2CE1693-014D-45E0-A73C-D63D43FA5363",
+    "timestamp" : "2025-05-07T16:31:12Z",
+    "type" : "Clock Out"
+  },
+  {
+    "employeeId" : "7052DB49-F73F-47F0-9FB3-CF44601A7FC3",
+    "id" : "C7F768B0-C325-47C1-83A5-A384E859552F",
+    "timestamp" : "2025-05-07T16:31:21Z",
+    "type" : "Clock Out"
+  },
+  {
+    "employeeId" : "953EA2A7-6C38-4C9B-98AD-A7927077E363",
+    "id" : "F4242893-F647-4B0B-AC17-7FEBA66F5DEA",
+    "timestamp" : "2025-05-07T16:31:35Z",
+    "type" : "Clock Out"
   }
 ]
