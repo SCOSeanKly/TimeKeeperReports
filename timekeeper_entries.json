@@ -32494,5 +32494,17 @@
     "id" : "7A3CB920-37F8-45C8-9D95-300F99A74796",
     "timestamp" : "2025-05-08T09:33:52Z",
     "type" : "Break Start"
+  },
+  {
+    "employeeId" : "393F3D1F-F71E-4F88-8619-1CDD9BF9C9C2",
+    "id" : "371794CE-83E4-4538-B90D-BD179B4F0802",
+    "timestamp" : "2025-05-08T09:38:27Z",
+    "type" : "Break Start"
+  },
+  {
+    "employeeId" : "ABBF1404-78F1-4DB0-A35E-374CD9612909",
+    "id" : "E6E856EC-150E-4179-A463-A5A772A192DF",
+    "timestamp" : "2025-05-08T09:41:22Z",
+    "type" : "Break End"
   }
 ]
