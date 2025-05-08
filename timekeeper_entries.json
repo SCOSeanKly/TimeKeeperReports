@@ -32380,5 +32380,23 @@
     "id" : "3D9415DF-3020-4D9F-B21D-C04AC3C829C5",
     "timestamp" : "2025-05-08T06:57:38Z",
     "type" : "Clock In"
+  },
+  {
+    "employeeId" : "393F3D1F-F71E-4F88-8619-1CDD9BF9C9C2",
+    "id" : "E35221FF-56F3-40C3-AD6C-6FDE29BC16A0",
+    "timestamp" : "2025-05-08T07:00:49Z",
+    "type" : "Clock In"
+  },
+  {
+    "employeeId" : "394EE8BC-3145-4010-B8D1-B4965EAA9296",
+    "id" : "FBE0CAF5-9A65-48C6-A6A6-2E40DD5EF2AB",
+    "timestamp" : "2025-05-08T07:01:25Z",
+    "type" : "Clock In"
+  },
+  {
+    "employeeId" : "A89B7519-4C5C-4F70-9342-5BBCF890E719",
+    "id" : "550CB1A2-2441-4B88-A1E1-3550A7B0BF31",
+    "timestamp" : "2025-05-08T07:05:10Z",
+    "type" : "Clock In"
   }
 ]
