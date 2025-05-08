@@ -32770,5 +32770,11 @@
     "id" : "FA5422C2-B7A6-4468-83BA-ED458E35E815",
     "timestamp" : "2025-05-08T13:37:57Z",
     "type" : "Lunch End"
+  },
+  {
+    "employeeId" : "57BA9115-ECC7-46ED-B99A-48B11ED17B76",
+    "id" : "3C0F02D2-2336-43AA-9E72-B0A0E4973F6E",
+    "timestamp" : "2025-05-08T14:48:50Z",
+    "type" : "Clock In"
   }
 ]
