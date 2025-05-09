@@ -32908,5 +32908,11 @@
     "id" : "2A102431-9876-4132-9680-B714B35CFF73",
     "timestamp" : "2025-05-09T06:50:04Z",
     "type" : "Clock In"
+  },
+  {
+    "employeeId" : "BE4E5108-1C7A-4396-BA60-985D0A0D25DC",
+    "id" : "E1C9490C-9A0E-454D-BE96-612EF8EAAC32",
+    "timestamp" : "2025-05-09T06:55:11Z",
+    "type" : "Clock In"
   }
 ]
