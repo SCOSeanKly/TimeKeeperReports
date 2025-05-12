@@ -33640,5 +33640,23 @@
     "id" : "B71B8A88-3AFE-4D37-A15B-4011C35B838B",
     "timestamp" : "2025-05-12T06:58:38Z",
     "type" : "Clock In"
+  },
+  {
+    "employeeId" : "394EE8BC-3145-4010-B8D1-B4965EAA9296",
+    "id" : "7CCC67EA-7259-4118-B10D-F0F91B0C5009",
+    "timestamp" : "2025-05-12T07:04:22Z",
+    "type" : "Clock In"
+  },
+  {
+    "employeeId" : "A89B7519-4C5C-4F70-9342-5BBCF890E719",
+    "id" : "E5BBF3D7-5CB7-4625-92F5-1ECBB66CA4E7",
+    "timestamp" : "2025-05-12T07:06:04Z",
+    "type" : "Clock In"
+  },
+  {
+    "employeeId" : "47113FFB-1076-47B6-8E75-0846349BBAA6",
+    "id" : "56B9B980-AFF5-4C9F-9DF1-6C8DA3BE3011",
+    "timestamp" : "2025-05-12T07:06:12Z",
+    "type" : "Clock In"
   }
 ]
