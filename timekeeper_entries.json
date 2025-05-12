@@ -34120,5 +34120,11 @@
     "id" : "A2F279B1-A3BC-472E-98A9-86D52D6EC105",
     "timestamp" : "2025-05-12T13:48:47Z",
     "type" : "Lunch End"
+  },
+  {
+    "employeeId" : "57BA9115-ECC7-46ED-B99A-48B11ED17B76",
+    "id" : "63AA51A3-32A1-4E5E-B983-BBCEE3CEBC41",
+    "timestamp" : "2025-05-12T14:45:54Z",
+    "type" : "Clock In"
   }
 ]
