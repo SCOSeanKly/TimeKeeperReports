@@ -33590,14 +33590,8 @@
   {
     "employeeId" : "47113FFB-1076-47B6-8E75-0846349BBAA6",
     "id" : "A7F60323-6EF1-4838-A85E-721193B628EB",
-    "timestamp" : "2025-05-10T20:00:00Z",
+    "timestamp" : "2025-05-10T11:30:00Z",
     "type" : "Clock Out"
-  },
-  {
-    "employeeId" : "47113FFB-1076-47B6-8E75-0846349BBAA6",
-    "id" : "B497D367-25D3-4180-9032-5939594C5AE3",
-    "timestamp" : "2025-05-10T20:00:00Z",
-    "type" : "Auto Clock Out At Midnight"
   },
   {
     "employeeId" : "ABBF1404-78F1-4DB0-A35E-374CD9612909",
