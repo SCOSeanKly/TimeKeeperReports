@@ -34780,5 +34780,11 @@
     "id" : "25EBFA6F-8600-4FBC-9362-375C63E9FB74",
     "timestamp" : "2025-05-13T13:40:27Z",
     "type" : "Lunch End"
+  },
+  {
+    "employeeId" : "57BA9115-ECC7-46ED-B99A-48B11ED17B76",
+    "id" : "79DDBCD0-30EE-445B-B7DB-C7F35E595B63",
+    "timestamp" : "2025-05-13T14:47:38Z",
+    "type" : "Clock In"
   }
 ]
