@@ -35512,5 +35512,23 @@
     "id" : "8ACF0CAC-88C5-4622-933D-9E594D04C67A",
     "timestamp" : "2025-05-14T20:00:00Z",
     "type" : "Auto Clock Out At Midnight"
+  },
+  {
+    "employeeId" : "ABBF1404-78F1-4DB0-A35E-374CD9612909",
+    "id" : "DA8A58EE-B01E-4728-A595-6588E907B0CC",
+    "timestamp" : "2025-05-15T06:45:35Z",
+    "type" : "Clock In"
+  },
+  {
+    "employeeId" : "FB905CE7-9CA9-46C5-AD56-97C41D7FF9CE",
+    "id" : "2CE7DD82-C64E-4FD1-981E-5F802B4458D9",
+    "timestamp" : "2025-05-15T06:47:32Z",
+    "type" : "Clock In"
+  },
+  {
+    "employeeId" : "2D3EC73F-366E-466C-8516-C0AF231C271E",
+    "id" : "00B2F493-3D80-43C7-BA5B-4ECA0B175FB0",
+    "timestamp" : "2025-05-15T06:48:35Z",
+    "type" : "Clock In"
   }
 ]
