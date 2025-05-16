@@ -36160,5 +36160,23 @@
     "id" : "D7814729-1082-41AC-9442-85AA74623D71",
     "timestamp" : "2025-05-16T07:38:17Z",
     "type" : "Clock In"
+  },
+  {
+    "employeeId" : "57BA9115-ECC7-46ED-B99A-48B11ED17B76",
+    "id" : "4FD754A3-9003-436F-BA2C-C6C11991DA19",
+    "timestamp" : "2025-05-15T15:00:00Z",
+    "type" : "Clock In"
+  },
+  {
+    "employeeId" : "57BA9115-ECC7-46ED-B99A-48B11ED17B76",
+    "id" : "6B0014EC-49E1-40B6-A815-B6F59508F122",
+    "timestamp" : "2025-05-15T19:11:00Z",
+    "type" : "Clock Out"
+  },
+  {
+    "employeeId" : "953EA2A7-6C38-4C9B-98AD-A7927077E363",
+    "id" : "89185EF6-4A4D-448C-AE4E-6020F2849B74",
+    "timestamp" : "2025-05-16T08:13:56Z",
+    "type" : "Clock In"
   }
 ]
