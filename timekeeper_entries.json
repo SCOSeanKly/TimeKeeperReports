@@ -37054,5 +37054,17 @@
     "id" : "043529BF-84F9-4FF4-9661-26D54FF3C863",
     "timestamp" : "2025-05-19T12:36:22Z",
     "type" : "Lunch Start"
+  },
+  {
+    "employeeId" : "6F88A111-9F7F-4ADC-AD62-ADF30BC2715E",
+    "id" : "EB51C9D0-B4F4-4927-87AE-4BD6D8AC4638",
+    "timestamp" : "2025-05-19T12:38:55Z",
+    "type" : "Break Start"
+  },
+  {
+    "employeeId" : "2D3EC73F-366E-466C-8516-C0AF231C271E",
+    "id" : "E9E8D26E-3A4E-4AC2-8C8D-C05B147B829F",
+    "timestamp" : "2025-05-19T12:42:10Z",
+    "type" : "Lunch Start"
   }
 ]
