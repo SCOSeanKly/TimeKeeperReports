@@ -38038,5 +38038,17 @@
     "id" : "96451E4F-6A80-4D12-B8D8-C05F043F3A76",
     "timestamp" : "2025-05-21T07:30:24Z",
     "type" : "Clock In"
+  },
+  {
+    "employeeId" : "953EA2A7-6C38-4C9B-98AD-A7927077E363",
+    "id" : "ADB98191-B34F-48A8-BBC1-A5C7915BFD1A",
+    "timestamp" : "2025-05-21T08:15:00Z",
+    "type" : "Clock In"
+  },
+  {
+    "employeeId" : "394EE8BC-3145-4010-B8D1-B4965EAA9296",
+    "id" : "F6AC5BC7-631E-403D-ABE4-A2165D699015",
+    "timestamp" : "2025-05-21T08:17:31Z",
+    "type" : "Clock In"
   }
 ]
