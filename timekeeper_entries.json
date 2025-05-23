@@ -39154,5 +39154,11 @@
     "id" : "A48FCF99-F330-4CA9-A028-28194D362943",
     "timestamp" : "2025-05-22T20:00:00Z",
     "type" : "Auto Clock Out At Midnight"
+  },
+  {
+    "employeeId" : "ABBF1404-78F1-4DB0-A35E-374CD9612909",
+    "id" : "BC45F094-6D3C-40C9-AD37-120622182ABB",
+    "timestamp" : "2025-05-23T06:44:00Z",
+    "type" : "Clock In"
   }
 ]
