@@ -40342,5 +40342,11 @@
     "id" : "8B7B7072-FB03-4697-ADE8-C7456106B73F",
     "timestamp" : "2025-05-26T14:46:48Z",
     "type" : "Clock In"
+  },
+  {
+    "employeeId" : "394EE8BC-3145-4010-B8D1-B4965EAA9296",
+    "id" : "EBAA5C1C-8B11-4C43-AEB4-EED615EAA1E3",
+    "timestamp" : "2025-05-26T15:27:35Z",
+    "type" : "Clock Out"
   }
 ]
