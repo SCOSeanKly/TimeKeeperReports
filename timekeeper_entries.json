@@ -40336,5 +40336,11 @@
     "id" : "116E3663-0E89-4018-A543-26A69BF25D70",
     "timestamp" : "2025-05-26T13:41:04Z",
     "type" : "Lunch End"
+  },
+  {
+    "employeeId" : "57BA9115-ECC7-46ED-B99A-48B11ED17B76",
+    "id" : "8B7B7072-FB03-4697-ADE8-C7456106B73F",
+    "timestamp" : "2025-05-26T14:46:48Z",
+    "type" : "Clock In"
   }
 ]
