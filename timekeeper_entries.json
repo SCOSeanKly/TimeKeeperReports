@@ -40312,5 +40312,23 @@
     "id" : "A142886B-B0B7-4ADA-85B1-1E118876726F",
     "timestamp" : "2025-05-26T13:11:19Z",
     "type" : "Lunch Start"
+  },
+  {
+    "employeeId" : "FB905CE7-9CA9-46C5-AD56-97C41D7FF9CE",
+    "id" : "0602353E-949F-453A-B42E-DE49B757A01F",
+    "timestamp" : "2025-05-26T13:35:40Z",
+    "type" : "Lunch End"
+  },
+  {
+    "employeeId" : "394EE8BC-3145-4010-B8D1-B4965EAA9296",
+    "id" : "B3668D9D-406E-4AEE-9348-E6668E64A2DE",
+    "timestamp" : "2025-05-26T13:37:52Z",
+    "type" : "Lunch Start"
+  },
+  {
+    "employeeId" : "394EE8BC-3145-4010-B8D1-B4965EAA9296",
+    "id" : "C44C830B-6091-443C-ADD2-4E42ECABC0B5",
+    "timestamp" : "2025-05-26T13:37:55Z",
+    "type" : "Lunch End"
   }
 ]
