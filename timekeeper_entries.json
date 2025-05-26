@@ -40210,5 +40210,23 @@
     "id" : "472ECAC0-517B-40ED-86A3-110ABDDE05C7",
     "timestamp" : "2025-05-26T12:34:49Z",
     "type" : "Lunch Start"
+  },
+  {
+    "employeeId" : "FB905CE7-9CA9-46C5-AD56-97C41D7FF9CE",
+    "id" : "417EAF79-C91B-4466-BBBC-2CDF45864DA5",
+    "timestamp" : "2025-05-26T12:38:38Z",
+    "type" : "Lunch Start"
+  },
+  {
+    "employeeId" : "6F88A111-9F7F-4ADC-AD62-ADF30BC2715E",
+    "id" : "B25E6839-D9D8-4DF5-8796-AD30260F0ABF",
+    "timestamp" : "2025-05-26T12:42:35Z",
+    "type" : "Break End"
+  },
+  {
+    "employeeId" : "6F88A111-9F7F-4ADC-AD62-ADF30BC2715E",
+    "id" : "02307EA5-6780-49E2-A562-DBC280DE9F73",
+    "timestamp" : "2025-05-26T12:43:06Z",
+    "type" : "Lunch Start"
   }
 ]
