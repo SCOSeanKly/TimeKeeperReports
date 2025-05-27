@@ -40220,7 +40220,7 @@
   {
     "employeeId" : "6F88A111-9F7F-4ADC-AD62-ADF30BC2715E",
     "id" : "B25E6839-D9D8-4DF5-8796-AD30260F0ABF",
-    "timestamp" : "2025-05-26T12:42:35Z",
+    "timestamp" : "2025-05-26T10:00:00Z",
     "type" : "Break End"
   },
   {
@@ -40760,7 +40760,7 @@
   {
     "employeeId" : "2D3EC73F-366E-466C-8516-C0AF231C271E",
     "id" : "28EEC8CA-1E6A-483D-BC4F-EAFE6E7C8DC6",
-    "timestamp" : "2025-05-27T12:30:48Z",
+    "timestamp" : "2025-05-27T09:46:00Z",
     "type" : "Break End"
   },
   {
@@ -40948,5 +40948,11 @@
     "id" : "2CCFE006-DD58-4002-B0D3-07E9D1A3C048",
     "timestamp" : "2025-05-27T13:39:40Z",
     "type" : "Lunch End"
+  },
+  {
+    "employeeId" : "57BA9115-ECC7-46ED-B99A-48B11ED17B76",
+    "id" : "415B3940-0F86-489C-82D5-B9180EA7D801",
+    "timestamp" : "2025-05-27T14:45:20Z",
+    "type" : "Clock In"
   }
 ]
