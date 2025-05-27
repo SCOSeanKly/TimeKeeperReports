@@ -40882,5 +40882,65 @@
     "id" : "C15D674A-6C1B-4D5D-B1D2-418A6E5AE6DA",
     "timestamp" : "2025-05-27T12:59:00Z",
     "type" : "Lunch End"
+  },
+  {
+    "employeeId" : "3C4C3205-2DFC-4646-9AB9-49F73AD47A6A",
+    "id" : "83120B8A-7804-4945-AC9C-D31919436F66",
+    "timestamp" : "2025-05-27T12:59:59Z",
+    "type" : "Lunch End"
+  },
+  {
+    "employeeId" : "394EE8BC-3145-4010-B8D1-B4965EAA9296",
+    "id" : "8E0D568C-0296-4EEE-8961-4A141A2D965C",
+    "timestamp" : "2025-05-27T13:00:12Z",
+    "type" : "Lunch End"
+  },
+  {
+    "employeeId" : "A89B7519-4C5C-4F70-9342-5BBCF890E719",
+    "id" : "53EB69D9-0237-4720-A9CB-8CC6280ED6DD",
+    "timestamp" : "2025-05-27T13:00:36Z",
+    "type" : "Lunch End"
+  },
+  {
+    "employeeId" : "393F3D1F-F71E-4F88-8619-1CDD9BF9C9C2",
+    "id" : "955A28CF-58E2-40F7-B3E8-A4CC2E4B3546",
+    "timestamp" : "2025-05-27T13:03:38Z",
+    "type" : "Lunch End"
+  },
+  {
+    "employeeId" : "700FAFD2-9453-467E-BDE4-B0B8343BDAC6",
+    "id" : "B80025F1-3651-41DD-8BA6-13CA77974406",
+    "timestamp" : "2025-05-27T13:03:52Z",
+    "type" : "Lunch End"
+  },
+  {
+    "employeeId" : "29EAE04E-470D-4124-8038-200CCF2D63BC",
+    "id" : "45B147E5-2906-406E-946B-D1071DE1D6F3",
+    "timestamp" : "2025-05-27T13:04:07Z",
+    "type" : "Lunch End"
+  },
+  {
+    "employeeId" : "83F0962E-D531-4F32-952D-F84DE2EDD27F",
+    "id" : "B07D7B22-01CB-4579-B353-80AC2A2BF962",
+    "timestamp" : "2025-05-27T13:04:12Z",
+    "type" : "Lunch End"
+  },
+  {
+    "employeeId" : "7052DB49-F73F-47F0-9FB3-CF44601A7FC3",
+    "id" : "362FC9CA-B098-4E92-98F0-919632347441",
+    "timestamp" : "2025-05-27T13:04:20Z",
+    "type" : "Lunch End"
+  },
+  {
+    "employeeId" : "337733FA-A522-41C0-9B46-2A6B5A1D00F9",
+    "id" : "458A3EF3-5D2F-4883-8541-4A00155C0F4C",
+    "timestamp" : "2025-05-27T13:05:02Z",
+    "type" : "Lunch End"
+  },
+  {
+    "employeeId" : "953EA2A7-6C38-4C9B-98AD-A7927077E363",
+    "id" : "D05E0A53-BA0E-444D-92BA-0DA267AB4FB8",
+    "timestamp" : "2025-05-27T13:08:56Z",
+    "type" : "Lunch Start"
   }
 ]
