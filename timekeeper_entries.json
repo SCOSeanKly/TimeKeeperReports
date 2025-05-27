@@ -40942,5 +40942,11 @@
     "id" : "D05E0A53-BA0E-444D-92BA-0DA267AB4FB8",
     "timestamp" : "2025-05-27T13:08:56Z",
     "type" : "Lunch Start"
+  },
+  {
+    "employeeId" : "953EA2A7-6C38-4C9B-98AD-A7927077E363",
+    "id" : "2CCFE006-DD58-4002-B0D3-07E9D1A3C048",
+    "timestamp" : "2025-05-27T13:39:40Z",
+    "type" : "Lunch End"
   }
 ]
