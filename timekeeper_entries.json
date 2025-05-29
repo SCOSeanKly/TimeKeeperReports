@@ -42160,5 +42160,11 @@
     "id" : "95FFA749-16A1-4A1E-AB10-21A8CFF621DD",
     "timestamp" : "2025-05-29T13:08:04Z",
     "type" : "Lunch Start"
+  },
+  {
+    "employeeId" : "953EA2A7-6C38-4C9B-98AD-A7927077E363",
+    "id" : "2C4FF752-7CB4-44AF-BCEA-FD7BD81467BC",
+    "timestamp" : "2025-05-29T13:37:52Z",
+    "type" : "Lunch End"
   }
 ]
