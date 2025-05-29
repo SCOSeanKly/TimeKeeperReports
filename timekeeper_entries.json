@@ -42172,5 +42172,11 @@
     "id" : "DAAC867A-7D59-464D-9009-64772A8E9F01",
     "timestamp" : "2025-05-29T14:45:00Z",
     "type" : "Clock In"
+  },
+  {
+    "employeeId" : "BE4E5108-1C7A-4396-BA60-985D0A0D25DC",
+    "id" : "30DCA45C-F139-4B6E-ACFD-ED5AB8EDFD40",
+    "timestamp" : "2025-05-29T15:11:34Z",
+    "type" : "Clock Out"
   }
 ]
