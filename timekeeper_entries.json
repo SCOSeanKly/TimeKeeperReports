@@ -43216,5 +43216,11 @@
     "id" : "68BC2F79-DCC1-40FD-92DC-ED1E5C3F6FC7",
     "timestamp" : "2025-06-02T11:38:46Z",
     "type" : "Clock In"
+  },
+  {
+    "employeeId" : "394EE8BC-3145-4010-B8D1-B4965EAA9296",
+    "id" : "A2DE26C6-FCE7-456A-93B5-702CF8538532",
+    "timestamp" : "2025-06-02T12:27:14Z",
+    "type" : "Lunch Start"
   }
 ]
