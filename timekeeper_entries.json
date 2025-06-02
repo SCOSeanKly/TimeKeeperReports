@@ -43210,5 +43210,11 @@
     "id" : "50DECD5E-BD60-42B7-A856-0D09A5AC46C7",
     "timestamp" : "2025-06-02T09:56:25Z",
     "type" : "Break End"
+  },
+  {
+    "employeeId" : "700FAFD2-9453-467E-BDE4-B0B8343BDAC6",
+    "id" : "68BC2F79-DCC1-40FD-92DC-ED1E5C3F6FC7",
+    "timestamp" : "2025-06-02T11:38:46Z",
+    "type" : "Clock In"
   }
 ]
