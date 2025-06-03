@@ -44104,5 +44104,11 @@
     "id" : "EC816827-4F6A-4F58-AB3C-3FD018BC8902",
     "timestamp" : "2025-06-03T14:43:11Z",
     "type" : "Clock In"
+  },
+  {
+    "employeeId" : "BE4E5108-1C7A-4396-BA60-985D0A0D25DC",
+    "id" : "2FD286FC-3CB4-4D09-8129-AA9F9B17AF70",
+    "timestamp" : "2025-06-03T15:01:18Z",
+    "type" : "Clock Out"
   }
 ]
