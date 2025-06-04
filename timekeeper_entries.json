@@ -44788,5 +44788,11 @@
     "id" : "B805F765-EEE4-46FD-A5BC-A43DBAFBE08D",
     "timestamp" : "2025-06-04T16:05:20Z",
     "type" : "Clock Out"
+  },
+  {
+    "employeeId" : "83F0962E-D531-4F32-952D-F84DE2EDD27F",
+    "id" : "C55D2E36-09CC-4CA9-BE68-A6283B139D6F",
+    "timestamp" : "2025-06-04T16:05:29Z",
+    "type" : "Clock Out"
   }
 ]
