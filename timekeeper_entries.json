@@ -45304,5 +45304,11 @@
     "id" : "C086EA1B-2215-427F-A61D-99E7B7BDF330",
     "timestamp" : "2025-06-05T13:08:43Z",
     "type" : "Lunch Start"
+  },
+  {
+    "employeeId" : "57BA9115-ECC7-46ED-B99A-48B11ED17B76",
+    "id" : "53F692A4-B375-49A4-9619-648C52AD4E32",
+    "timestamp" : "2025-06-05T14:47:51Z",
+    "type" : "Clock In"
   }
 ]
