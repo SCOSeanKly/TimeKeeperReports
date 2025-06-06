@@ -45808,5 +45808,11 @@
     "id" : "407B3323-1AAC-46BE-BB19-43713AD30E01",
     "timestamp" : "2025-06-06T12:39:19Z",
     "type" : "Lunch Start"
+  },
+  {
+    "employeeId" : "2D3EC73F-366E-466C-8516-C0AF231C271E",
+    "id" : "6CDF4A00-51A9-4D22-A7BF-B72773BBEC58",
+    "timestamp" : "2025-06-06T12:51:18Z",
+    "type" : "Lunch End"
   }
 ]
