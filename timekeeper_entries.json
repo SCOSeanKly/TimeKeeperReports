@@ -45490,5 +45490,23 @@
     "id" : "79FAD949-58B1-4BF8-B574-90C219484379",
     "timestamp" : "2025-06-06T07:18:40Z",
     "type" : "Clock In"
+  },
+  {
+    "employeeId" : "6F88A111-9F7F-4ADC-AD62-ADF30BC2715E",
+    "id" : "1C0FF4DA-3246-4D20-BF48-4B9621353A30",
+    "timestamp" : "2025-06-06T07:23:56Z",
+    "type" : "Clock In"
+  },
+  {
+    "employeeId" : "3C4C3205-2DFC-4646-9AB9-49F73AD47A6A",
+    "id" : "70DB4837-0D74-41D7-8731-69364D6997EB",
+    "timestamp" : "2025-06-06T07:24:08Z",
+    "type" : "Clock In"
+  },
+  {
+    "employeeId" : "337733FA-A522-41C0-9B46-2A6B5A1D00F9",
+    "id" : "D0602A65-5641-417A-9EF5-AFB133F3623A",
+    "timestamp" : "2025-06-06T07:26:58Z",
+    "type" : "Clock In"
   }
 ]
