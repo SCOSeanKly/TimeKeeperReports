@@ -47086,5 +47086,11 @@
     "id" : "4CDBA0E6-0EB4-47FA-AFF1-3177B60C8992",
     "timestamp" : "2025-06-10T13:10:12Z",
     "type" : "Lunch Start"
+  },
+  {
+    "employeeId" : "57BA9115-ECC7-46ED-B99A-48B11ED17B76",
+    "id" : "F768D226-D4A2-4CC4-B272-6FEAB26243D5",
+    "timestamp" : "2025-06-10T14:46:42Z",
+    "type" : "Clock In"
   }
 ]
