@@ -46702,5 +46702,17 @@
     "id" : "CC9BA77A-D23B-4CB3-8609-D29D9F355899",
     "timestamp" : "2025-06-10T06:43:30Z",
     "type" : "Clock In"
+  },
+  {
+    "employeeId" : "FB905CE7-9CA9-46C5-AD56-97C41D7FF9CE",
+    "id" : "D1DE8F83-F660-4E37-9B93-730E4152E397",
+    "timestamp" : "2025-06-10T06:49:02Z",
+    "type" : "Clock In"
+  },
+  {
+    "employeeId" : "F0064293-8B19-496C-979F-E3265BEFD5C9",
+    "id" : "347A7D1E-0244-4E27-92DE-08CDA5BB82FB",
+    "timestamp" : "2025-06-10T06:51:51Z",
+    "type" : "Clock In"
   }
 ]
