@@ -1,8 +1,8 @@
 {
-  "showMessage": false,
- "title": "Workshop Safety Reminder",
-    "body": "Keep roller shutter doors CLOSED when workshop heating is on. Open doors waste energy and increase costs. Close doors immediately after moving vehicles.",
-    "buttonText": "I Understand",
+  "showMessage": true,
+ "title": "Holidays",
+    "body": "Your holidays can be checked on the Intranet page. Ask your manager how to view them.",
+    "buttonText": "Continue",
   "textColor": "#FFFFFF",
   "backgroundColor": "#1E3A8A"
 }
