@@ -47284,5 +47284,11 @@
     "id" : "FDA8454C-B545-43F0-925B-1A3D4E988D5B",
     "timestamp" : "2025-06-11T08:13:21Z",
     "type" : "Clock In"
+  },
+  {
+    "employeeId" : "394EE8BC-3145-4010-B8D1-B4965EAA9296",
+    "id" : "4BE8F93A-8084-4129-881F-6DB383C36F4B",
+    "timestamp" : "2025-06-11T09:25:01Z",
+    "type" : "Break Start"
   }
 ]
