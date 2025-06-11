@@ -47236,5 +47236,35 @@
     "id" : "94C5238A-FF80-41C4-BFEC-17D35641FAEC",
     "timestamp" : "2025-06-11T07:01:36Z",
     "type" : "Clock In"
+  },
+  {
+    "employeeId" : "BD0902DD-373B-433A-953A-755F88CBF221",
+    "id" : "2D22208D-23CF-4841-A0A2-D0F32AA6F723",
+    "timestamp" : "2025-06-11T07:21:19Z",
+    "type" : "Clock In"
+  },
+  {
+    "employeeId" : "393F3D1F-F71E-4F88-8619-1CDD9BF9C9C2",
+    "id" : "763C4FDD-05C1-470F-B14C-B4F390725117",
+    "timestamp" : "2025-06-10T23:00:00Z",
+    "type" : "Sick Day"
+  },
+  {
+    "employeeId" : "337733FA-A522-41C0-9B46-2A6B5A1D00F9",
+    "id" : "C4078943-CA55-49EF-BD93-FA5C47259CCC",
+    "timestamp" : "2025-06-11T07:23:12Z",
+    "type" : "Clock In"
+  },
+  {
+    "employeeId" : "6F88A111-9F7F-4ADC-AD62-ADF30BC2715E",
+    "id" : "66B1C157-2B9A-426A-9902-7FE34114652C",
+    "timestamp" : "2025-06-11T07:23:28Z",
+    "type" : "Clock In"
+  },
+  {
+    "employeeId" : "66FE14DE-3A62-4015-AA37-1E3ACB7A0632",
+    "id" : "C4E1AF6A-D67A-49FA-82C8-E77BA36D7DF3",
+    "timestamp" : "2025-06-11T07:24:17Z",
+    "type" : "Clock In"
   }
 ]
