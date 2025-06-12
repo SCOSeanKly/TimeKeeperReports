@@ -47776,5 +47776,11 @@
     "id" : "807BB473-3EB8-4528-B4B5-8A332D00586F",
     "timestamp" : "2025-06-12T08:15:13Z",
     "type" : "Clock In"
+  },
+  {
+    "employeeId" : "394EE8BC-3145-4010-B8D1-B4965EAA9296",
+    "id" : "FEFD7DF1-A83C-48D6-B0B6-041176A9E256",
+    "timestamp" : "2025-06-12T09:25:14Z",
+    "type" : "Break Start"
   }
 ]
