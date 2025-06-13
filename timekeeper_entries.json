@@ -48388,5 +48388,11 @@
     "id" : "3D91CD63-B3C1-43DE-B974-624DC7932735",
     "timestamp" : "2025-06-13T09:56:22Z",
     "type" : "Break End"
+  },
+  {
+    "employeeId" : "7052DB49-F73F-47F0-9FB3-CF44601A7FC3",
+    "id" : "7D7FBF15-3EF8-42CA-9FFB-64BDD45B74E8",
+    "timestamp" : "2025-06-13T11:31:33Z",
+    "type" : "Clock Out"
   }
 ]
