@@ -49168,5 +49168,11 @@
     "id" : "060C0C4B-04D3-4FD5-8520-B15681F02146",
     "timestamp" : "2025-06-16T13:37:10Z",
     "type" : "Lunch End"
+  },
+  {
+    "employeeId" : "57BA9115-ECC7-46ED-B99A-48B11ED17B76",
+    "id" : "9188A4E1-57A4-4B24-AB85-5F5C2B06797A",
+    "timestamp" : "2025-06-16T14:49:17Z",
+    "type" : "Clock In"
   }
 ]
