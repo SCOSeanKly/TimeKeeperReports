@@ -49156,5 +49156,11 @@
     "id" : "69C80CD7-6341-45A0-B400-1CCC6F85E7D1",
     "timestamp" : "2025-06-16T13:08:49Z",
     "type" : "Lunch Start"
+  },
+  {
+    "employeeId" : "FB905CE7-9CA9-46C5-AD56-97C41D7FF9CE",
+    "id" : "FD866275-37E3-4924-8566-84D33BB6C61E",
+    "timestamp" : "2025-06-16T13:14:41Z",
+    "type" : "Lunch End"
   }
 ]
