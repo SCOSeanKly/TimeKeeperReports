@@ -49618,5 +49618,23 @@
     "id" : "6FC0C30F-6C38-4DD1-9240-5C99D11490E1",
     "timestamp" : "2025-06-17T12:57:23Z",
     "type" : "Lunch End"
+  },
+  {
+    "employeeId" : "394EE8BC-3145-4010-B8D1-B4965EAA9296",
+    "id" : "B84BE258-C074-4F08-A534-0CCB0DA67675",
+    "timestamp" : "2025-06-17T12:59:23Z",
+    "type" : "Lunch End"
+  },
+  {
+    "employeeId" : "66FE14DE-3A62-4015-AA37-1E3ACB7A0632",
+    "id" : "67C91D0D-8BB7-4D7D-85A9-E6CD9F5C75D2",
+    "timestamp" : "2025-06-17T13:01:04Z",
+    "type" : "Lunch End"
+  },
+  {
+    "employeeId" : "F0064293-8B19-496C-979F-E3265BEFD5C9",
+    "id" : "85AF4FA3-3537-4B67-AB38-BD2B364BCA7B",
+    "timestamp" : "2025-06-17T13:01:14Z",
+    "type" : "Lunch End"
   }
 ]
