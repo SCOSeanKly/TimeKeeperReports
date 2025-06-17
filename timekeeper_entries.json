@@ -49600,5 +49600,11 @@
     "id" : "28BC4206-672E-4D56-910B-00F3864066E4",
     "timestamp" : "2025-06-17T12:39:10Z",
     "type" : "Lunch Start"
+  },
+  {
+    "employeeId" : "2D3EC73F-366E-466C-8516-C0AF231C271E",
+    "id" : "682BDF55-D2BE-4ABE-9687-CDD3E67684F8",
+    "timestamp" : "2025-06-17T12:51:22Z",
+    "type" : "Lunch End"
   }
 ]
