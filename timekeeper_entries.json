@@ -49288,5 +49288,11 @@
     "id" : "1C9A791A-DF52-4F62-8B12-DD98277F1DEB",
     "timestamp" : "2025-06-16T20:00:00Z",
     "type" : "Auto Clock Out At Midnight"
+  },
+  {
+    "employeeId" : "29EAE04E-470D-4124-8038-200CCF2D63BC",
+    "id" : "2795696A-C36A-45DF-84E3-61EC6AD20123",
+    "timestamp" : "2025-06-17T06:35:34Z",
+    "type" : "Clock In"
   }
 ]
