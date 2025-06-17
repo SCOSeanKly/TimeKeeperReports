@@ -49342,5 +49342,23 @@
     "id" : "795CC5B3-4FB1-428E-A7E8-D49F769D8913",
     "timestamp" : "2025-06-17T07:06:13Z",
     "type" : "Clock In"
+  },
+  {
+    "employeeId" : "66FE14DE-3A62-4015-AA37-1E3ACB7A0632",
+    "id" : "62D1140C-05C4-4FE8-A565-7AF7B94CEB9C",
+    "timestamp" : "2025-06-17T07:20:32Z",
+    "type" : "Clock In"
+  },
+  {
+    "employeeId" : "47113FFB-1076-47B6-8E75-0846349BBAA6",
+    "id" : "FF6A2BC7-6040-4625-A38D-2C5EAF37FCC5",
+    "timestamp" : "2025-06-17T07:20:58Z",
+    "type" : "Clock In"
+  },
+  {
+    "employeeId" : "337733FA-A522-41C0-9B46-2A6B5A1D00F9",
+    "id" : "A1AC78F2-6D7E-4CB4-9894-1CEEB3AF289F",
+    "timestamp" : "2025-06-17T07:24:26Z",
+    "type" : "Clock In"
   }
 ]
