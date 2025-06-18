@@ -1,7 +1,7 @@
 {
-  "showMessage": false,
- "title": "Holidays",
-    "body": "Your holidays can be checked on the Intranet page. Ask your manager how to view them.",
+  "showMessage": true,
+ "title": "Outside Bins",
+    "body": "Do not put any food or food containers in the bins or small skips outside. Use the canteen bin",
     "buttonText": "Continue",
   "textColor": "#FFFFFF",
   "backgroundColor": "#1E3A8A"
