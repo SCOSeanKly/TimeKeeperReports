@@ -50848,5 +50848,17 @@
     "id" : "5E372AA5-A752-4D9C-A046-0B04569C0378",
     "timestamp" : "2025-06-19T16:13:53Z",
     "type" : "Clock Out"
+  },
+  {
+    "employeeId" : "953EA2A7-6C38-4C9B-98AD-A7927077E363",
+    "id" : "C0C35B52-A46C-43D0-8F3E-A2D976D7054B",
+    "timestamp" : "2025-06-19T16:28:59Z",
+    "type" : "Clock Out"
+  },
+  {
+    "employeeId" : "29EAE04E-470D-4124-8038-200CCF2D63BC",
+    "id" : "1AF02DEE-B7A6-45DC-852E-EA4FFBBFA8E4",
+    "timestamp" : "2025-06-19T16:30:12Z",
+    "type" : "Clock Out"
   }
 ]
