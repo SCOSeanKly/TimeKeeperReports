@@ -50416,5 +50416,17 @@
     "id" : "A66BD1F5-3816-49B0-9FA8-5B24375A59F5",
     "timestamp" : "2025-06-19T07:04:54Z",
     "type" : "Clock In"
+  },
+  {
+    "employeeId" : "66FE14DE-3A62-4015-AA37-1E3ACB7A0632",
+    "id" : "58AEB8CD-9844-45AD-8B43-656FF3AD23B8",
+    "timestamp" : "2025-06-19T07:22:44Z",
+    "type" : "Clock In"
+  },
+  {
+    "employeeId" : "3C4C3205-2DFC-4646-9AB9-49F73AD47A6A",
+    "id" : "E7DF5BA9-8BC9-4E85-96DF-8EBF6B7AE518",
+    "timestamp" : "2025-06-19T07:24:07Z",
+    "type" : "Clock In"
   }
 ]
