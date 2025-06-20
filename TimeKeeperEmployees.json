@@ -66,15 +66,6 @@
     "department" : "Workshop",
     "finishTime" : "2025-02-24T17:00:00Z",
     "hasFlexibleSchedule" : false,
-    "id" : "1336224E-1281-4330-976C-6FBEC95D48BC",
-    "name" : "Kyle Wright",
-    "pin" : "1690",
-    "startTime" : "2025-02-24T08:30:00Z"
-  },
-  {
-    "department" : "Workshop",
-    "finishTime" : "2025-02-24T17:00:00Z",
-    "hasFlexibleSchedule" : false,
     "id" : "337733FA-A522-41C0-9B46-2A6B5A1D00F9",
     "name" : "Scott Graham",
     "pin" : "4236",
@@ -178,5 +169,23 @@
     "name" : "Dario Baldassarra",
     "pin" : "1967",
     "startTime" : "2025-03-06T08:00:00Z"
+  },
+  {
+    "department" : "Workshop",
+    "finishTime" : "2025-05-08T16:00:00Z",
+    "hasFlexibleSchedule" : false,
+    "id" : "700FAFD2-9453-467E-BDE4-B0B8343BDAC6",
+    "name" : "Kyle Wright",
+    "pin" : "5566",
+    "startTime" : "2025-05-08T07:30:00Z"
+  },
+  {
+    "department" : "Admin",
+    "finishTime" : "2025-05-19T16:00:00Z",
+    "hasFlexibleSchedule" : false,
+    "id" : "6F88A111-9F7F-4ADC-AD62-ADF30BC2715E",
+    "name" : "Lewis Walker",
+    "pin" : "1905",
+    "startTime" : "2025-05-19T07:30:00Z"
   }
 ]
