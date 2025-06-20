@@ -51352,5 +51352,17 @@
     "id" : "B84B8B11-0DE1-499E-9D00-1D397271444B",
     "timestamp" : "2025-06-20T16:11:01Z",
     "type" : "Lunch End"
+  },
+  {
+    "employeeId" : "337733FA-A522-41C0-9B46-2A6B5A1D00F9",
+    "id" : "33091381-7E78-45FD-B097-1E27476F3D22",
+    "timestamp" : "2025-06-20T16:20:04Z",
+    "type" : "Clock Out"
+  },
+  {
+    "employeeId" : "3C4C3205-2DFC-4646-9AB9-49F73AD47A6A",
+    "id" : "0F8AA53E-594D-442A-B2E1-71D796D37B62",
+    "timestamp" : "2025-06-20T16:22:14Z",
+    "type" : "Clock Out"
   }
 ]
