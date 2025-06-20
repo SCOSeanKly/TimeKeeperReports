@@ -51298,5 +51298,11 @@
     "id" : "2D67884F-62B3-4EE8-A308-F4B8CA4DE7A3",
     "timestamp" : "2025-06-20T15:00:25Z",
     "type" : "Clock Out"
+  },
+  {
+    "employeeId" : "394EE8BC-3145-4010-B8D1-B4965EAA9296",
+    "id" : "05E0E83B-7E04-4328-8A46-2E528B787595",
+    "timestamp" : "2025-06-20T15:12:10Z",
+    "type" : "Clock Out"
   }
 ]
