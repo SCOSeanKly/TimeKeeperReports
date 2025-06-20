@@ -51310,5 +51310,23 @@
     "id" : "31E0982F-3CB5-44AF-9684-931D9D7D9861",
     "timestamp" : "2025-06-20T15:17:49Z",
     "type" : "Clock Out"
+  },
+  {
+    "employeeId" : "393F3D1F-F71E-4F88-8619-1CDD9BF9C9C2",
+    "id" : "5D654920-F757-4AE4-B527-A21D8EAD9A2E",
+    "timestamp" : "2025-06-20T15:26:05Z",
+    "type" : "Clock Out"
+  },
+  {
+    "employeeId" : "F0064293-8B19-496C-979F-E3265BEFD5C9",
+    "id" : "312DD295-EEEA-44BC-8C19-BEC54EA0602E",
+    "timestamp" : "2025-06-20T15:30:04Z",
+    "type" : "Clock Out"
+  },
+  {
+    "employeeId" : "ABBF1404-78F1-4DB0-A35E-374CD9612909",
+    "id" : "03538B42-8F44-4B72-A733-D6C9E2D5ACA2",
+    "timestamp" : "2025-06-20T15:30:56Z",
+    "type" : "Clock Out"
   }
 ]
