@@ -51946,5 +51946,11 @@
     "id" : "3B6F9615-9825-499D-BBD5-71294D3BCCF1",
     "timestamp" : "2025-06-23T13:36:20Z",
     "type" : "Lunch End"
+  },
+  {
+    "employeeId" : "57BA9115-ECC7-46ED-B99A-48B11ED17B76",
+    "id" : "FB530A69-DB29-4C1C-9854-D9E56D1216D0",
+    "timestamp" : "2025-06-23T14:46:37Z",
+    "type" : "Clock In"
   }
 ]
