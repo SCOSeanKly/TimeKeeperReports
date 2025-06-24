@@ -52594,5 +52594,23 @@
     "id" : "82E463B8-8B81-437A-AF1E-2124ED09676A",
     "timestamp" : "2025-06-24T15:37:08Z",
     "type" : "Clock Out"
+  },
+  {
+    "employeeId" : "F0064293-8B19-496C-979F-E3265BEFD5C9",
+    "id" : "C5162600-EF65-42F1-8B6B-E1CE29620BEF",
+    "timestamp" : "2025-06-24T16:00:01Z",
+    "type" : "Clock Out"
+  },
+  {
+    "employeeId" : "83F0962E-D531-4F32-952D-F84DE2EDD27F",
+    "id" : "9A3F3D9F-47D0-42B1-98F6-7E0364F30F4D",
+    "timestamp" : "2025-06-24T16:02:30Z",
+    "type" : "Clock Out"
+  },
+  {
+    "employeeId" : "700FAFD2-9453-467E-BDE4-B0B8343BDAC6",
+    "id" : "83527B25-1344-4FB4-9581-FBD9477B3AA1",
+    "timestamp" : "2025-06-24T16:02:40Z",
+    "type" : "Clock Out"
   }
 ]
