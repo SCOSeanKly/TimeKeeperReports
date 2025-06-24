@@ -52444,5 +52444,11 @@
     "id" : "BB87A5C7-0C34-42F8-A2BA-53D38854AA9F",
     "timestamp" : "2025-06-24T12:37:43Z",
     "type" : "Lunch Start"
+  },
+  {
+    "employeeId" : "BD0902DD-373B-433A-953A-755F88CBF221",
+    "id" : "C47289C4-B159-4B3F-AA46-4120B1DD9F0D",
+    "timestamp" : "2025-06-24T12:50:48Z",
+    "type" : "Lunch End"
   }
 ]
