@@ -52636,5 +52636,11 @@
     "id" : "2EFACFD4-B2A3-43C1-9A66-556DFF8A9518",
     "timestamp" : "2025-06-24T16:07:51Z",
     "type" : "Clock Out"
+  },
+  {
+    "employeeId" : "47113FFB-1076-47B6-8E75-0846349BBAA6",
+    "id" : "C0F870FA-B1E5-47C4-996E-C7D4F5547295",
+    "timestamp" : "2025-06-24T16:21:26Z",
+    "type" : "Clock Out"
   }
 ]
