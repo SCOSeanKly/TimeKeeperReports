@@ -52144,5 +52144,17 @@
     "id" : "D4CA285B-F50D-4488-99CD-21A2FC6EADA3",
     "timestamp" : "2025-06-24T07:21:43Z",
     "type" : "Clock In"
+  },
+  {
+    "employeeId" : "700FAFD2-9453-467E-BDE4-B0B8343BDAC6",
+    "id" : "3C02D7FF-3F93-42EA-9DDE-27DCD9B98150",
+    "timestamp" : "2025-06-24T07:23:09Z",
+    "type" : "Clock In"
+  },
+  {
+    "employeeId" : "337733FA-A522-41C0-9B46-2A6B5A1D00F9",
+    "id" : "E95D82BA-50F6-4412-94FE-6D2B076B4193",
+    "timestamp" : "2025-06-24T07:23:17Z",
+    "type" : "Clock In"
   }
 ]
