@@ -52156,5 +52156,17 @@
     "id" : "E95D82BA-50F6-4412-94FE-6D2B076B4193",
     "timestamp" : "2025-06-24T07:23:17Z",
     "type" : "Clock In"
+  },
+  {
+    "employeeId" : "7052DB49-F73F-47F0-9FB3-CF44601A7FC3",
+    "id" : "1A02C638-EDA8-4C36-8679-30055ADE3DDF",
+    "timestamp" : "2025-06-24T07:30:12Z",
+    "type" : "Clock In"
+  },
+  {
+    "employeeId" : "3C4C3205-2DFC-4646-9AB9-49F73AD47A6A",
+    "id" : "33A0FE62-90E9-43E1-B8B0-55ECD76A20C5",
+    "timestamp" : "2025-06-24T07:30:56Z",
+    "type" : "Clock In"
   }
 ]
