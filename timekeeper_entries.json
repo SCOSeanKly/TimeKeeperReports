@@ -52546,5 +52546,11 @@
     "id" : "F2445BED-2374-4570-9EE5-37E300F75B28",
     "timestamp" : "2025-06-24T13:38:43Z",
     "type" : "Lunch End"
+  },
+  {
+    "employeeId" : "57BA9115-ECC7-46ED-B99A-48B11ED17B76",
+    "id" : "CABF1937-25E1-4CC5-9FD8-1B53AA7535DC",
+    "timestamp" : "2025-06-24T14:45:09Z",
+    "type" : "Clock In"
   }
 ]
