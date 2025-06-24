@@ -52552,5 +52552,11 @@
     "id" : "CABF1937-25E1-4CC5-9FD8-1B53AA7535DC",
     "timestamp" : "2025-06-24T14:45:09Z",
     "type" : "Clock In"
+  },
+  {
+    "employeeId" : "BE4E5108-1C7A-4396-BA60-985D0A0D25DC",
+    "id" : "E75ED93C-3C1F-49BA-B342-CE1175A5FC6E",
+    "timestamp" : "2025-06-24T15:03:50Z",
+    "type" : "Clock Out"
   }
 ]
