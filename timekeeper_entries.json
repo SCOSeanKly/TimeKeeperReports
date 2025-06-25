@@ -52864,5 +52864,17 @@
     "id" : "E23841C2-97CD-4222-9E68-B593F54F2082",
     "timestamp" : "2025-06-25T09:36:22Z",
     "type" : "Break Start"
+  },
+  {
+    "employeeId" : "D56675E7-D446-4F6D-BC07-06072C9146BE",
+    "id" : "2C6495CB-5A10-4302-8F41-BE12D0003CE8",
+    "timestamp" : "2025-06-25T09:39:54Z",
+    "type" : "Break Start"
+  },
+  {
+    "employeeId" : "2D3EC73F-366E-466C-8516-C0AF231C271E",
+    "id" : "13D81E10-5E8C-435E-B4BC-0AF472EB8BB7",
+    "timestamp" : "2025-06-25T09:41:51Z",
+    "type" : "Break End"
   }
 ]
