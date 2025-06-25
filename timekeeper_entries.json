@@ -53170,5 +53170,11 @@
     "id" : "125DA21A-6236-47EA-BDA9-F5477376C908",
     "timestamp" : "2025-06-24T23:00:00Z",
     "type" : "Sick Day"
+  },
+  {
+    "employeeId" : "57BA9115-ECC7-46ED-B99A-48B11ED17B76",
+    "id" : "3F3AD5FB-090B-4446-8666-1C7F3EB424FE",
+    "timestamp" : "2025-06-25T14:45:44Z",
+    "type" : "Clock In"
   }
 ]
