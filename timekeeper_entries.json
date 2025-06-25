@@ -53152,5 +53152,11 @@
     "id" : "20C8047C-13ED-442A-B462-373EA86F7315",
     "timestamp" : "2025-06-25T13:12:59Z",
     "type" : "Lunch Start"
+  },
+  {
+    "employeeId" : "FB905CE7-9CA9-46C5-AD56-97C41D7FF9CE",
+    "id" : "3EEFF53A-8FAD-4C04-82DB-E30E2F249765",
+    "timestamp" : "2025-06-25T13:19:43Z",
+    "type" : "Lunch End"
   }
 ]
