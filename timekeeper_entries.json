@@ -53164,5 +53164,11 @@
     "id" : "7913F940-4EB1-46FE-9FE6-20D0D14F0CCC",
     "timestamp" : "2025-06-25T13:42:17Z",
     "type" : "Lunch End"
+  },
+  {
+    "employeeId" : "29EAE04E-470D-4124-8038-200CCF2D63BC",
+    "id" : "125DA21A-6236-47EA-BDA9-F5477376C908",
+    "timestamp" : "2025-06-24T23:00:00Z",
+    "type" : "Sick Day"
   }
 ]
