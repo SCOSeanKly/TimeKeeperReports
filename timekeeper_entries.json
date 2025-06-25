@@ -53260,5 +53260,23 @@
     "id" : "89CAF854-57C3-4A05-A184-005D558DF5EF",
     "timestamp" : "2025-06-25T17:05:51Z",
     "type" : "Clock Out"
+  },
+  {
+    "employeeId" : "BD0902DD-373B-433A-953A-755F88CBF221",
+    "id" : "7DA4063B-9DB7-4F44-AF26-CD96DFE42982",
+    "timestamp" : "2025-06-25T17:10:59Z",
+    "type" : "Clock Out"
+  },
+  {
+    "employeeId" : "337733FA-A522-41C0-9B46-2A6B5A1D00F9",
+    "id" : "5F1DF09D-BEF8-4C1B-BBF0-30600454F868",
+    "timestamp" : "2025-06-25T17:11:08Z",
+    "type" : "Clock Out"
+  },
+  {
+    "employeeId" : "7052DB49-F73F-47F0-9FB3-CF44601A7FC3",
+    "id" : "2A1B71C7-C628-4180-94D4-D250F3B82FD8",
+    "timestamp" : "2025-06-25T17:12:54Z",
+    "type" : "Clock Out"
   }
 ]
