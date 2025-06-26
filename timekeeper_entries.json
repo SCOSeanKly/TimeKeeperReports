@@ -53722,5 +53722,11 @@
     "id" : "BFCFF95E-B2CB-40B8-AA90-0E97E16EAB31",
     "timestamp" : "2025-06-26T13:12:59Z",
     "type" : "Lunch End"
+  },
+  {
+    "employeeId" : "953EA2A7-6C38-4C9B-98AD-A7927077E363",
+    "id" : "2872025B-4156-4757-98F4-FD941CEBD0D3",
+    "timestamp" : "2025-06-26T13:14:42Z",
+    "type" : "Lunch Start"
   }
 ]
