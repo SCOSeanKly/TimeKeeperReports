@@ -54334,5 +54334,11 @@
     "id" : "51F8DA23-19C7-4AE8-B1F1-1A22AAFAF07A",
     "timestamp" : "2025-06-27T13:36:11Z",
     "type" : "Lunch End"
+  },
+  {
+    "employeeId" : "BE4E5108-1C7A-4396-BA60-985D0A0D25DC",
+    "id" : "551B421A-3BBB-4333-ADF0-C0BCC32E863B",
+    "timestamp" : "2025-06-27T14:58:21Z",
+    "type" : "Clock Out"
   }
 ]
