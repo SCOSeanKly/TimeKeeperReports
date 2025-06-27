@@ -54316,5 +54316,17 @@
     "id" : "6679E5A7-9242-4CF2-A719-8BA729EC4E09",
     "timestamp" : "2025-06-27T13:07:47Z",
     "type" : "Lunch End"
+  },
+  {
+    "employeeId" : "953EA2A7-6C38-4C9B-98AD-A7927077E363",
+    "id" : "0A9355FC-BD5B-49E6-817F-36B71C3FA348",
+    "timestamp" : "2025-06-27T13:08:52Z",
+    "type" : "Lunch Start"
+  },
+  {
+    "employeeId" : "47113FFB-1076-47B6-8E75-0846349BBAA6",
+    "id" : "6C383FD4-BBB8-4B20-876E-B3BED6489039",
+    "timestamp" : "2025-06-27T13:09:29Z",
+    "type" : "Lunch End"
   }
 ]
