@@ -54454,5 +54454,17 @@
     "id" : "91FBA140-EC30-4CD1-80F9-EB064FD903BF",
     "timestamp" : "2025-06-27T16:35:57Z",
     "type" : "Clock Out"
+  },
+  {
+    "employeeId" : "47113FFB-1076-47B6-8E75-0846349BBAA6",
+    "id" : "B8EC92D1-0DF7-4E02-8C78-CA26D8FF2178",
+    "timestamp" : "2025-06-27T20:00:00Z",
+    "type" : "Clock Out"
+  },
+  {
+    "employeeId" : "47113FFB-1076-47B6-8E75-0846349BBAA6",
+    "id" : "265221EE-1353-4129-86FE-77FF8E547927",
+    "timestamp" : "2025-06-27T20:00:00Z",
+    "type" : "Auto Clock Out At Midnight"
   }
 ]
