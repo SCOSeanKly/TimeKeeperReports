@@ -55168,5 +55168,17 @@
     "id" : "A2E3BE9E-AFA7-48C5-A195-E2CE9D7A9F5F",
     "timestamp" : "2025-07-01T07:24:05Z",
     "type" : "Clock In"
+  },
+  {
+    "employeeId" : "47113FFB-1076-47B6-8E75-0846349BBAA6",
+    "id" : "D356C330-3444-4C7F-9721-6F6F99B20120",
+    "timestamp" : "2025-07-01T07:27:43Z",
+    "type" : "Clock In"
+  },
+  {
+    "employeeId" : "3C4C3205-2DFC-4646-9AB9-49F73AD47A6A",
+    "id" : "78559330-7C06-461B-B85B-22A154362716",
+    "timestamp" : "2025-07-01T07:30:01Z",
+    "type" : "Clock In"
   }
 ]
