@@ -55510,5 +55510,17 @@
     "id" : "B21B2FBF-A289-4AE1-A15E-5B49361215F9",
     "timestamp" : "2025-07-01T13:03:26Z",
     "type" : "Lunch End"
+  },
+  {
+    "employeeId" : "953EA2A7-6C38-4C9B-98AD-A7927077E363",
+    "id" : "5F48F9C7-87E1-45E5-81CE-55A3874EA9B2",
+    "timestamp" : "2025-07-01T13:07:21Z",
+    "type" : "Lunch Start"
+  },
+  {
+    "employeeId" : "FB905CE7-9CA9-46C5-AD56-97C41D7FF9CE",
+    "id" : "A596B6A4-9E99-4FE8-A666-45DC26186C25",
+    "timestamp" : "2025-07-01T13:08:40Z",
+    "type" : "Lunch End"
   }
 ]
