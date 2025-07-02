@@ -55888,5 +55888,17 @@
     "id" : "FD121E4C-6BD2-4EFC-96D7-5FCF98007487",
     "timestamp" : "2025-07-02T09:57:22Z",
     "type" : "Break End"
+  },
+  {
+    "employeeId" : "394EE8BC-3145-4010-B8D1-B4965EAA9296",
+    "id" : "83002E94-DE9A-4E97-B873-0E8D8CAC7BF9",
+    "timestamp" : "2025-07-02T12:24:54Z",
+    "type" : "Break End"
+  },
+  {
+    "employeeId" : "394EE8BC-3145-4010-B8D1-B4965EAA9296",
+    "id" : "11AA65D2-EE89-442F-B6A4-04004D135CFE",
+    "timestamp" : "2025-07-02T12:24:56Z",
+    "type" : "Lunch Start"
   }
 ]
