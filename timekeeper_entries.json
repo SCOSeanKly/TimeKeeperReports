@@ -56158,5 +56158,23 @@
     "id" : "DA9A0559-6A89-4E0B-969D-94DC45BED6FE",
     "timestamp" : "2025-07-02T16:04:50Z",
     "type" : "Clock Out"
+  },
+  {
+    "employeeId" : "D56675E7-D446-4F6D-BC07-06072C9146BE",
+    "id" : "073BF647-E515-4054-A320-DE8F1AE34A7B",
+    "timestamp" : "2025-07-02T16:30:04Z",
+    "type" : "Clock Out"
+  },
+  {
+    "employeeId" : "953EA2A7-6C38-4C9B-98AD-A7927077E363",
+    "id" : "F0652193-537D-4761-8C05-E8106B4ED720",
+    "timestamp" : "2025-07-02T16:30:15Z",
+    "type" : "Clock Out"
+  },
+  {
+    "employeeId" : "7052DB49-F73F-47F0-9FB3-CF44601A7FC3",
+    "id" : "8D7C8632-C537-4EE5-95AE-2CC88795E003",
+    "timestamp" : "2025-07-02T16:30:27Z",
+    "type" : "Clock Out"
   }
 ]
