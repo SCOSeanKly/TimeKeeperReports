@@ -56434,5 +56434,11 @@
     "id" : "FC58544E-D195-49FE-881D-2D0DABA1BA26",
     "timestamp" : "2025-07-03T09:57:26Z",
     "type" : "Break End"
+  },
+  {
+    "employeeId" : "83F0962E-D531-4F32-952D-F84DE2EDD27F",
+    "id" : "808AE1CE-FF13-4700-AB15-F53DCDE5F942",
+    "timestamp" : "2025-07-03T11:23:38Z",
+    "type" : "Clock Out"
   }
 ]
