@@ -56608,5 +56608,23 @@
     "id" : "98402647-0382-4AC9-9D8C-FDB846E8C893",
     "timestamp" : "2025-07-03T13:37:23Z",
     "type" : "Lunch End"
+  },
+  {
+    "employeeId" : "A89B7519-4C5C-4F70-9342-5BBCF890E719",
+    "id" : "5127E8CE-E613-4AA5-AD56-275D520BE786",
+    "timestamp" : "2025-07-03T15:30:04Z",
+    "type" : "Clock Out"
+  },
+  {
+    "employeeId" : "FB905CE7-9CA9-46C5-AD56-97C41D7FF9CE",
+    "id" : "FF8747A9-7AB0-4352-B009-A1301CE39753",
+    "timestamp" : "2025-07-03T15:30:13Z",
+    "type" : "Clock Out"
+  },
+  {
+    "employeeId" : "394EE8BC-3145-4010-B8D1-B4965EAA9296",
+    "id" : "EE7A28B4-1C58-4BA4-A1CA-C50596ED08F3",
+    "timestamp" : "2025-07-03T15:32:50Z",
+    "type" : "Clock Out"
   }
 ]
