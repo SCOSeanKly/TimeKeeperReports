@@ -57100,5 +57100,11 @@
     "id" : "17C4B219-4968-4AE9-94DB-BDA3A174DD8A",
     "timestamp" : "2025-07-04T13:07:55Z",
     "type" : "Lunch Start"
+  },
+  {
+    "employeeId" : "953EA2A7-6C38-4C9B-98AD-A7927077E363",
+    "id" : "0BC95A49-AD40-45D1-B19F-7DDD61DC2DFB",
+    "timestamp" : "2025-07-04T13:37:06Z",
+    "type" : "Lunch End"
   }
 ]
