@@ -57250,5 +57250,11 @@
     "id" : "CE960CE8-84AF-49A3-A3F6-605BCA5F5B2E",
     "timestamp" : "2025-07-05T11:33:00Z",
     "type" : "Clock In"
+  },
+  {
+    "employeeId" : "3C4C3205-2DFC-4646-9AB9-49F73AD47A6A",
+    "id" : "5D76E5E1-1AA8-4063-B760-5274D2ECF9C0",
+    "timestamp" : "2025-07-05T11:54:40Z",
+    "type" : "Clock Out"
   }
 ]
