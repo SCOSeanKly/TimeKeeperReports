@@ -57256,5 +57256,17 @@
     "id" : "5D76E5E1-1AA8-4063-B760-5274D2ECF9C0",
     "timestamp" : "2025-07-05T11:54:40Z",
     "type" : "Clock Out"
+  },
+  {
+    "employeeId" : "953EA2A7-6C38-4C9B-98AD-A7927077E363",
+    "id" : "CCAE585F-7F36-4DAB-B9CD-8C34688DAF4E",
+    "timestamp" : "2025-07-05T11:59:46Z",
+    "type" : "Clock Out"
+  },
+  {
+    "employeeId" : "6F88A111-9F7F-4ADC-AD62-ADF30BC2715E",
+    "id" : "BFB02006-7BE0-412C-BCBB-D77775D082EC",
+    "timestamp" : "2025-07-05T12:00:23Z",
+    "type" : "Clock Out"
   }
 ]
