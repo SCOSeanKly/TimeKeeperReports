@@ -57202,5 +57202,17 @@
     "id" : "9C02E57E-C7CC-47AA-A3A7-566EAFBF6F51",
     "timestamp" : "2025-07-04T20:00:00Z",
     "type" : "Auto Clock Out At Midnight"
+  },
+  {
+    "employeeId" : "953EA2A7-6C38-4C9B-98AD-A7927077E363",
+    "id" : "51AD0573-F459-42E7-859C-6E41930E22B8",
+    "timestamp" : "2025-07-05T06:53:31Z",
+    "type" : "Clock In"
+  },
+  {
+    "employeeId" : "BD0902DD-373B-433A-953A-755F88CBF221",
+    "id" : "7106CA1B-5B5F-4A84-B894-6DDF40813C10",
+    "timestamp" : "2025-07-05T06:56:28Z",
+    "type" : "Clock In"
   }
 ]
