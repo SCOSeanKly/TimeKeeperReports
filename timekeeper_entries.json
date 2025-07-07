@@ -57394,5 +57394,23 @@
     "id" : "FEE4C9E4-F678-4D33-B9DF-FE78C3EE746F",
     "timestamp" : "2025-07-07T07:47:32Z",
     "type" : "Clock In"
+  },
+  {
+    "employeeId" : "394EE8BC-3145-4010-B8D1-B4965EAA9296",
+    "id" : "BE09DAC6-3FFF-4A09-98C1-9A2279A4F743",
+    "timestamp" : "2025-07-07T09:25:46Z",
+    "type" : "Break Start"
+  },
+  {
+    "employeeId" : "2D3EC73F-366E-466C-8516-C0AF231C271E",
+    "id" : "B2D7D9B9-FA74-4F33-9489-EC79C7FD932E",
+    "timestamp" : "2025-07-07T09:29:10Z",
+    "type" : "Break Start"
+  },
+  {
+    "employeeId" : "3C4C3205-2DFC-4646-9AB9-49F73AD47A6A",
+    "id" : "1CF63436-4C0C-4DD6-B5EB-BE4EB95F7DED",
+    "timestamp" : "2025-07-07T09:29:22Z",
+    "type" : "Break Start"
   }
 ]
