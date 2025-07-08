@@ -57910,5 +57910,17 @@
     "id" : "0D028AC3-AB05-41D2-AD3C-1A2C9827AA28",
     "timestamp" : "2025-07-08T06:39:02Z",
     "type" : "Clock In"
+  },
+  {
+    "employeeId" : "F0064293-8B19-496C-979F-E3265BEFD5C9",
+    "id" : "219AAFF7-ED30-4119-88D9-ED79268F40BA",
+    "timestamp" : "2025-07-08T06:45:37Z",
+    "type" : "Clock In"
+  },
+  {
+    "employeeId" : "ABBF1404-78F1-4DB0-A35E-374CD9612909",
+    "id" : "FA328911-121D-46BC-B40C-815D4D13CF83",
+    "timestamp" : "2025-07-08T06:45:48Z",
+    "type" : "Clock In"
   }
 ]
