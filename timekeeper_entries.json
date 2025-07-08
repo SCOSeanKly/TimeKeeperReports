@@ -58384,5 +58384,17 @@
     "id" : "942380C8-5798-4386-935E-743528395908",
     "timestamp" : "2025-07-08T16:08:53Z",
     "type" : "Clock Out"
+  },
+  {
+    "employeeId" : "3C4C3205-2DFC-4646-9AB9-49F73AD47A6A",
+    "id" : "DBBDE8C7-6941-4092-AF1C-0A1DE1D237FC",
+    "timestamp" : "2025-07-08T16:19:55Z",
+    "type" : "Lunch End"
+  },
+  {
+    "employeeId" : "3C4C3205-2DFC-4646-9AB9-49F73AD47A6A",
+    "id" : "319D64AE-C65A-4222-9B80-142037160814",
+    "timestamp" : "2025-07-08T16:19:58Z",
+    "type" : "Clock Out"
   }
 ]
