@@ -58780,5 +58780,71 @@
     "id" : "AE31C873-6CF0-4694-B96B-B4A753A8E913",
     "timestamp" : "2025-07-09T12:44:23Z",
     "type" : "Break Start"
+  },
+  {
+    "employeeId" : "394EE8BC-3145-4010-B8D1-B4965EAA9296",
+    "id" : "D69AFBE6-D9B1-42C6-9674-E64709951CAB",
+    "timestamp" : "2025-07-09T12:58:27Z",
+    "type" : "Lunch End"
+  },
+  {
+    "employeeId" : "F0064293-8B19-496C-979F-E3265BEFD5C9",
+    "id" : "C50EBFEE-FA06-481D-A40F-75AEA544F7A4",
+    "timestamp" : "2025-07-09T12:59:45Z",
+    "type" : "Lunch End"
+  },
+  {
+    "employeeId" : "6F88A111-9F7F-4ADC-AD62-ADF30BC2715E",
+    "id" : "4A16CE41-6A75-4B6F-B330-4259CC4DE57A",
+    "timestamp" : "2025-07-09T12:59:54Z",
+    "type" : "Lunch End"
+  },
+  {
+    "employeeId" : "2D3EC73F-366E-466C-8516-C0AF231C271E",
+    "id" : "DEF28A51-6B87-467A-A35B-0AA0DCF1B8E6",
+    "timestamp" : "2025-07-09T13:00:23Z",
+    "type" : "Lunch End"
+  },
+  {
+    "employeeId" : "ABBF1404-78F1-4DB0-A35E-374CD9612909",
+    "id" : "0AFD8D97-80AB-4288-A148-2243DA6A4783",
+    "timestamp" : "2025-07-09T13:00:37Z",
+    "type" : "Lunch End"
+  },
+  {
+    "employeeId" : "337733FA-A522-41C0-9B46-2A6B5A1D00F9",
+    "id" : "A182B3E0-57C4-4AB6-B671-B2597E641BD1",
+    "timestamp" : "2025-07-09T13:00:52Z",
+    "type" : "Lunch End"
+  },
+  {
+    "employeeId" : "66FE14DE-3A62-4015-AA37-1E3ACB7A0632",
+    "id" : "FA3BF0D7-6B33-48E5-BE4E-1B7033B648EE",
+    "timestamp" : "2025-07-09T13:01:04Z",
+    "type" : "Lunch End"
+  },
+  {
+    "employeeId" : "D56675E7-D446-4F6D-BC07-06072C9146BE",
+    "id" : "C86EDD39-6174-4971-AAA0-CA5374FD065C",
+    "timestamp" : "2025-07-09T13:01:15Z",
+    "type" : "Lunch End"
+  },
+  {
+    "employeeId" : "3C4C3205-2DFC-4646-9AB9-49F73AD47A6A",
+    "id" : "DDE31404-F3E6-4352-8292-9524AFDCA81C",
+    "timestamp" : "2025-07-09T13:01:35Z",
+    "type" : "Lunch End"
+  },
+  {
+    "employeeId" : "A89B7519-4C5C-4F70-9342-5BBCF890E719",
+    "id" : "7ACA3FFF-DCB7-490A-BAC1-A09B3FD44F9A",
+    "timestamp" : "2025-07-09T13:01:44Z",
+    "type" : "Lunch End"
+  },
+  {
+    "employeeId" : "393F3D1F-F71E-4F88-8619-1CDD9BF9C9C2",
+    "id" : "9D1DFD76-2C9D-4CB1-A230-04E7E4273C07",
+    "timestamp" : "2025-07-09T13:02:16Z",
+    "type" : "Lunch End"
   }
 ]
