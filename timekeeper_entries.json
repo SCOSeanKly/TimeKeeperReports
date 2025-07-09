@@ -58480,5 +58480,17 @@
     "id" : "EDC281E8-0021-44F9-9526-F186F42FE587",
     "timestamp" : "2025-07-09T06:59:56Z",
     "type" : "Clock In"
+  },
+  {
+    "employeeId" : "A89B7519-4C5C-4F70-9342-5BBCF890E719",
+    "id" : "58B7B888-A712-49E0-A2AB-4C72B6865F97",
+    "timestamp" : "2025-07-09T07:05:18Z",
+    "type" : "Clock In"
+  },
+  {
+    "employeeId" : "29EAE04E-470D-4124-8038-200CCF2D63BC",
+    "id" : "BFB6518A-297B-4DA9-8A40-7D8BB5DFCF7F",
+    "timestamp" : "2025-07-09T07:06:52Z",
+    "type" : "Clock In"
   }
 ]
