@@ -58684,5 +58684,17 @@
     "id" : "488FC3EA-94E1-44F4-99CD-844F13FBE434",
     "timestamp" : "2025-07-09T09:49:57Z",
     "type" : "Break End"
+  },
+  {
+    "employeeId" : "66FE14DE-3A62-4015-AA37-1E3ACB7A0632",
+    "id" : "BBB79058-3B2C-4550-9C34-ECFE95374C2D",
+    "timestamp" : "2025-07-09T09:55:21Z",
+    "type" : "Break End"
+  },
+  {
+    "employeeId" : "700FAFD2-9453-467E-BDE4-B0B8343BDAC6",
+    "id" : "612BD554-4120-403F-A71B-A00AD9C0001F",
+    "timestamp" : "2025-07-09T09:59:40Z",
+    "type" : "Clock Out"
   }
 ]
