@@ -59380,5 +59380,17 @@
     "id" : "49E61F98-8184-4852-A9AA-BB855176B530",
     "timestamp" : "2025-07-10T13:49:06Z",
     "type" : "Lunch End"
+  },
+  {
+    "employeeId" : "393F3D1F-F71E-4F88-8619-1CDD9BF9C9C2",
+    "id" : "C5B8B5BE-E0E6-4AC0-B625-4B599A80CFEC",
+    "timestamp" : "2025-07-10T15:30:32Z",
+    "type" : "Clock Out"
+  },
+  {
+    "employeeId" : "ABBF1404-78F1-4DB0-A35E-374CD9612909",
+    "id" : "D7867409-6A53-43BE-933A-DCF8AB72FB19",
+    "timestamp" : "2025-07-10T15:30:38Z",
+    "type" : "Clock Out"
   }
 ]
