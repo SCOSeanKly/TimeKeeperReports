@@ -59026,5 +59026,17 @@
     "id" : "F95C5920-F0C6-471E-9BAA-87BBA58384CA",
     "timestamp" : "2025-07-10T06:59:22Z",
     "type" : "Clock In"
+  },
+  {
+    "employeeId" : "A89B7519-4C5C-4F70-9342-5BBCF890E719",
+    "id" : "9EBB1E3C-DB5F-4762-91FE-6101CD568030",
+    "timestamp" : "2025-07-10T07:02:10Z",
+    "type" : "Clock In"
+  },
+  {
+    "employeeId" : "393F3D1F-F71E-4F88-8619-1CDD9BF9C9C2",
+    "id" : "4EB4D203-BF98-486C-AE43-6AF8AAC9DD77",
+    "timestamp" : "2025-07-10T07:02:58Z",
+    "type" : "Clock In"
   }
 ]
