@@ -59728,5 +59728,17 @@
     "id" : "1CA1AB1A-0DC1-4978-8762-F8C70F8A8EDC",
     "timestamp" : "2025-07-11T11:30:29Z",
     "type" : "Clock Out"
+  },
+  {
+    "employeeId" : "A89B7519-4C5C-4F70-9342-5BBCF890E719",
+    "id" : "54EF07F4-25C4-4790-9C79-82C5520226A2",
+    "timestamp" : "2025-07-11T12:28:31Z",
+    "type" : "Lunch Start"
+  },
+  {
+    "employeeId" : "393F3D1F-F71E-4F88-8619-1CDD9BF9C9C2",
+    "id" : "644D04BA-9470-4ACF-A488-0ECD7416A141",
+    "timestamp" : "2025-07-11T12:28:43Z",
+    "type" : "Lunch Start"
   }
 ]
