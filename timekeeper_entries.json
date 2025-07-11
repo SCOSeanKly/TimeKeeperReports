@@ -59722,5 +59722,11 @@
     "id" : "054EABA7-55D5-4C63-9BC0-3A5F6C99E9F3",
     "timestamp" : "2025-07-11T09:51:27Z",
     "type" : "Break End"
+  },
+  {
+    "employeeId" : "ABBF1404-78F1-4DB0-A35E-374CD9612909",
+    "id" : "1CA1AB1A-0DC1-4978-8762-F8C70F8A8EDC",
+    "timestamp" : "2025-07-11T11:30:29Z",
+    "type" : "Clock Out"
   }
 ]
