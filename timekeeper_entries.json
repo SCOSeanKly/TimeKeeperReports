@@ -60034,5 +60034,23 @@
     "id" : "B5ABADB5-D9AD-4B7B-AA61-D83D8A9C229A",
     "timestamp" : "2025-07-12T12:04:20Z",
     "type" : "Break Start"
+  },
+  {
+    "employeeId" : "D56675E7-D446-4F6D-BC07-06072C9146BE",
+    "id" : "AFBE2206-5233-4A31-9B7E-3D8D579B5435",
+    "timestamp" : "2025-07-12T12:05:10Z",
+    "type" : "Break Start"
+  },
+  {
+    "employeeId" : "D56675E7-D446-4F6D-BC07-06072C9146BE",
+    "id" : "0236F10E-8436-4699-92A8-E6EE5F41D865",
+    "timestamp" : "2025-07-12T12:05:15Z",
+    "type" : "Break End"
+  },
+  {
+    "employeeId" : "D56675E7-D446-4F6D-BC07-06072C9146BE",
+    "id" : "82CD077A-641D-4C82-8906-7B89FF9DA0E0",
+    "timestamp" : "2025-07-12T12:05:33Z",
+    "type" : "Clock Out"
   }
 ]
