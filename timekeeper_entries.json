@@ -60010,5 +60010,11 @@
     "id" : "71154247-C777-4D51-A35C-509D72BA5B43",
     "timestamp" : "2025-07-12T07:01:28Z",
     "type" : "Clock In"
+  },
+  {
+    "employeeId" : "F0064293-8B19-496C-979F-E3265BEFD5C9",
+    "id" : "0A042828-7E5B-4C0F-A9D6-F3A830CD1E10",
+    "timestamp" : "2025-07-12T09:20:50Z",
+    "type" : "Clock Out"
   }
 ]
