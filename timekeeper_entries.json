@@ -60130,5 +60130,17 @@
     "id" : "EFB1EA9D-D550-4D27-8069-D28CFB497AF8",
     "timestamp" : "2025-07-14T07:20:43Z",
     "type" : "Clock In"
+  },
+  {
+    "employeeId" : "3C4C3205-2DFC-4646-9AB9-49F73AD47A6A",
+    "id" : "33467C0C-EC54-4343-82A5-9CA3F1EA08BD",
+    "timestamp" : "2025-07-14T07:28:48Z",
+    "type" : "Clock In"
+  },
+  {
+    "employeeId" : "7052DB49-F73F-47F0-9FB3-CF44601A7FC3",
+    "id" : "C70B4ACA-5FE0-4060-ADBF-738C3A8D7FC4",
+    "timestamp" : "2025-07-14T07:32:56Z",
+    "type" : "Clock In"
   }
 ]
