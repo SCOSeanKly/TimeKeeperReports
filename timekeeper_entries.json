@@ -60460,5 +60460,23 @@
     "id" : "0D21F31D-006C-45A1-AE3E-26951CD0E42A",
     "timestamp" : "2025-07-14T13:21:45Z",
     "type" : "Lunch End"
+  },
+  {
+    "employeeId" : "393F3D1F-F71E-4F88-8619-1CDD9BF9C9C2",
+    "id" : "5013E806-FFFA-447A-A90A-F3ECA5D99110",
+    "timestamp" : "2025-07-14T15:29:06Z",
+    "type" : "Clock Out"
+  },
+  {
+    "employeeId" : "BE4E5108-1C7A-4396-BA60-985D0A0D25DC",
+    "id" : "5372886A-331C-4A59-A145-250B4B76A666",
+    "timestamp" : "2025-07-14T15:29:15Z",
+    "type" : "Clock Out"
+  },
+  {
+    "employeeId" : "ABBF1404-78F1-4DB0-A35E-374CD9612909",
+    "id" : "71241CFD-D832-4FAD-8ECC-7EF39BE804A0",
+    "timestamp" : "2025-07-14T15:30:07Z",
+    "type" : "Clock Out"
   }
 ]
