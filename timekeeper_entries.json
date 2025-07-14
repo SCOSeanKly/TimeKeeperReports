@@ -60448,5 +60448,17 @@
     "id" : "5DF1C86B-8DDE-4326-8C74-3EFE6B814959",
     "timestamp" : "2025-07-14T13:06:30Z",
     "type" : "Lunch End"
+  },
+  {
+    "employeeId" : "7052DB49-F73F-47F0-9FB3-CF44601A7FC3",
+    "id" : "657CB5EF-7362-43D4-9065-9C8B4A96ECE9",
+    "timestamp" : "2025-07-14T13:21:44Z",
+    "type" : "Lunch End"
+  },
+  {
+    "employeeId" : "7052DB49-F73F-47F0-9FB3-CF44601A7FC3",
+    "id" : "0D21F31D-006C-45A1-AE3E-26951CD0E42A",
+    "timestamp" : "2025-07-14T13:21:45Z",
+    "type" : "Lunch End"
   }
 ]
