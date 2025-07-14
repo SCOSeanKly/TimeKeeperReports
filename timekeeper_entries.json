@@ -60346,5 +60346,23 @@
     "id" : "CC36ABDC-20A7-4142-BFF3-09C1EDB38FD6",
     "timestamp" : "2025-07-14T12:35:02Z",
     "type" : "Lunch Start"
+  },
+  {
+    "employeeId" : "D56675E7-D446-4F6D-BC07-06072C9146BE",
+    "id" : "F340013D-4F5A-4192-88CE-A879DB0D1A17",
+    "timestamp" : "2025-07-14T12:37:25Z",
+    "type" : "Lunch Start"
+  },
+  {
+    "employeeId" : "337733FA-A522-41C0-9B46-2A6B5A1D00F9",
+    "id" : "1B6B9C7A-D13F-4998-96ED-587159DADA6A",
+    "timestamp" : "2025-07-14T12:38:21Z",
+    "type" : "Lunch Start"
+  },
+  {
+    "employeeId" : "700FAFD2-9453-467E-BDE4-B0B8343BDAC6",
+    "id" : "13166A05-1C1A-437B-9584-15EB0F89FD3A",
+    "timestamp" : "2025-07-14T12:38:30Z",
+    "type" : "Lunch Start"
   }
 ]
