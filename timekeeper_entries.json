@@ -60592,5 +60592,17 @@
     "id" : "920E6D5A-5736-44C3-9105-4A227593705B",
     "timestamp" : "2025-07-15T07:01:27Z",
     "type" : "Clock In"
+  },
+  {
+    "employeeId" : "A89B7519-4C5C-4F70-9342-5BBCF890E719",
+    "id" : "27FEC95F-C13C-4BB0-A49D-AA8D30910EC4",
+    "timestamp" : "2025-07-15T07:02:34Z",
+    "type" : "Clock In"
+  },
+  {
+    "employeeId" : "393F3D1F-F71E-4F88-8619-1CDD9BF9C9C2",
+    "id" : "E5CB9482-4C59-4998-81B9-A7523F6342EA",
+    "timestamp" : "2025-07-15T07:02:44Z",
+    "type" : "Clock In"
   }
 ]
