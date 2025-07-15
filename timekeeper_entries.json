@@ -60604,5 +60604,11 @@
     "id" : "E5CB9482-4C59-4998-81B9-A7523F6342EA",
     "timestamp" : "2025-07-15T07:02:44Z",
     "type" : "Clock In"
+  },
+  {
+    "employeeId" : "83F0962E-D531-4F32-952D-F84DE2EDD27F",
+    "id" : "BCD081E9-FC6F-4DEA-A6B7-55DC00D38B61",
+    "timestamp" : "2025-07-15T07:12:42Z",
+    "type" : "Clock In"
   }
 ]
