@@ -5872,5 +5872,11 @@
     "id" : "67F5FCAD-5C44-4561-ABE8-988FA7EF8F8A",
     "timestamp" : "2025-07-15T13:13:42Z",
     "type" : "Lunch End"
+  },
+  {
+    "employeeId" : "57BA9115-ECC7-46ED-B99A-48B11ED17B76",
+    "id" : "DD78D908-1988-4BF1-BEF5-D6E5DBC15443",
+    "timestamp" : "2025-07-15T14:46:02Z",
+    "type" : "Clock In"
   }
 ]
