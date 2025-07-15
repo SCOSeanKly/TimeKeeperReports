@@ -60574,5 +60574,23 @@
     "id" : "7F44EDA0-1FAB-47A2-A271-5CC612405FF4",
     "timestamp" : "2025-07-15T06:53:37Z",
     "type" : "Clock In"
+  },
+  {
+    "employeeId" : "F0064293-8B19-496C-979F-E3265BEFD5C9",
+    "id" : "CB9FE8B3-9CFB-46DD-827F-12E065D3C18D",
+    "timestamp" : "2025-07-15T06:57:09Z",
+    "type" : "Clock In"
+  },
+  {
+    "employeeId" : "D56675E7-D446-4F6D-BC07-06072C9146BE",
+    "id" : "A3114691-D727-4CD8-A4B6-611E17EFC28D",
+    "timestamp" : "2025-07-15T07:00:28Z",
+    "type" : "Clock In"
+  },
+  {
+    "employeeId" : "394EE8BC-3145-4010-B8D1-B4965EAA9296",
+    "id" : "920E6D5A-5736-44C3-9105-4A227593705B",
+    "timestamp" : "2025-07-15T07:01:27Z",
+    "type" : "Clock In"
   }
 ]
