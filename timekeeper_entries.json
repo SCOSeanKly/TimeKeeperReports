@@ -7654,5 +7654,11 @@
     "id" : "A6D984DA-DB0C-4E41-AB1A-D369039B590E",
     "timestamp" : "2025-07-18T16:08:43Z",
     "type" : "Clock Out"
+  },
+  {
+    "employeeId" : "BD0902DD-373B-433A-953A-755F88CBF221",
+    "id" : "B92F89D7-F75C-40BF-B8E7-B0F5260CC8D9",
+    "timestamp" : "2025-07-18T16:15:43Z",
+    "type" : "Clock Out"
   }
 ]
