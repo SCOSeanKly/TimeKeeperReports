@@ -7402,5 +7402,17 @@
     "id" : "97D659F7-ECD3-4CB3-9055-B051A754C700",
     "timestamp" : "2025-07-18T09:51:22Z",
     "type" : "Break End"
+  },
+  {
+    "employeeId" : "ABBF1404-78F1-4DB0-A35E-374CD9612909",
+    "id" : "51A34EE3-F8AA-4B4E-8A0D-4D90970D58EB",
+    "timestamp" : "2025-07-18T09:58:10Z",
+    "type" : "Break Start"
+  },
+  {
+    "employeeId" : "ABBF1404-78F1-4DB0-A35E-374CD9612909",
+    "id" : "6B981803-7C4C-407F-8547-01E6B7CAEC41",
+    "timestamp" : "2025-07-18T09:58:16Z",
+    "type" : "Break End"
   }
 ]
