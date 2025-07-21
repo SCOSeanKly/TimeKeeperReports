@@ -8188,5 +8188,11 @@
     "id" : "A4109BB2-2252-42A3-B0C8-10234D1755D0",
     "timestamp" : "2025-07-21T13:28:14Z",
     "type" : "Lunch End"
+  },
+  {
+    "employeeId" : "57BA9115-ECC7-46ED-B99A-48B11ED17B76",
+    "id" : "2BF75C7F-9734-4425-BFA8-006C21CF9E2B",
+    "timestamp" : "2025-07-21T14:47:09Z",
+    "type" : "Clock In"
   }
 ]
