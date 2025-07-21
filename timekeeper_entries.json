@@ -8014,5 +8014,11 @@
     "id" : "5440FB4A-C27B-48EF-9B02-26999F3B4D31",
     "timestamp" : "2025-07-21T10:15:49Z",
     "type" : "Break End"
+  },
+  {
+    "employeeId" : "E1949C06-DBB6-4988-BF8B-2DE53FFD8D64",
+    "id" : "6DEADAE3-C2D6-4EC8-AA76-B5CB3E66D5C4",
+    "timestamp" : "2025-07-21T10:59:00Z",
+    "type" : "Clock Out"
   }
 ]
