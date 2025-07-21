@@ -7810,5 +7810,17 @@
     "id" : "CD5F426B-BA49-4658-B31A-D3FC598DA20F",
     "timestamp" : "2025-07-21T06:46:55Z",
     "type" : "Clock In"
+  },
+  {
+    "employeeId" : "BD0902DD-373B-433A-953A-755F88CBF221",
+    "id" : "925C7342-FB60-4D04-81DD-C0278174D866",
+    "timestamp" : "2025-07-21T06:51:01Z",
+    "type" : "Clock In"
+  },
+  {
+    "employeeId" : "D56675E7-D446-4F6D-BC07-06072C9146BE",
+    "id" : "B516B706-B822-42F1-9108-C2C204FF9C30",
+    "timestamp" : "2025-07-21T06:55:32Z",
+    "type" : "Clock In"
   }
 ]
