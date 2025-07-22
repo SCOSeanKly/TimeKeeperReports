@@ -8776,5 +8776,17 @@
     "id" : "5C33230B-1D9F-4877-B599-0461822AF43E",
     "timestamp" : "2025-07-22T16:07:06Z",
     "type" : "Clock Out"
+  },
+  {
+    "employeeId" : "BD0902DD-373B-433A-953A-755F88CBF221",
+    "id" : "98F5F7C1-8EAE-442A-9EDB-E5ED5E1A55BE",
+    "timestamp" : "2025-07-22T16:21:22Z",
+    "type" : "Clock Out"
+  },
+  {
+    "employeeId" : "3C4C3205-2DFC-4646-9AB9-49F73AD47A6A",
+    "id" : "6238DF7A-16F6-4236-BDF2-24024F4361F3",
+    "timestamp" : "2025-07-22T16:22:22Z",
+    "type" : "Clock Out"
   }
 ]
