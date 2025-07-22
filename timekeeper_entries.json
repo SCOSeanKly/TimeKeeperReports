@@ -8710,5 +8710,17 @@
     "id" : "80F1AEE2-AB12-4A23-9185-5E025A7C813E",
     "timestamp" : "2025-07-22T14:45:14Z",
     "type" : "Clock In"
+  },
+  {
+    "employeeId" : "BE4E5108-1C7A-4396-BA60-985D0A0D25DC",
+    "id" : "5FCC7A8D-73D9-47A0-837B-1F56EC6DA2BD",
+    "timestamp" : "2025-07-22T15:04:51Z",
+    "type" : "Clock In"
+  },
+  {
+    "employeeId" : "BE4E5108-1C7A-4396-BA60-985D0A0D25DC",
+    "id" : "97259550-2D98-4D79-A30A-1B9FAC0CE5FD",
+    "timestamp" : "2025-07-22T15:04:52Z",
+    "type" : "Clock Out"
   }
 ]
