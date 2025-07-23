@@ -9214,5 +9214,11 @@
     "id" : "762EAC29-6FEE-403C-8267-621A0043E71F",
     "timestamp" : "2025-07-23T13:17:45Z",
     "type" : "Lunch End"
+  },
+  {
+    "employeeId" : "57BA9115-ECC7-46ED-B99A-48B11ED17B76",
+    "id" : "D7C7A47E-FF24-48B7-A4DF-74216AFF98DB",
+    "timestamp" : "2025-07-23T14:45:31Z",
+    "type" : "Clock In"
   }
 ]
