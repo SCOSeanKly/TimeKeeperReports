@@ -8806,5 +8806,11 @@
     "id" : "B8B9E1DF-61B5-4ECE-80FE-07D32A2F0B1C",
     "timestamp" : "2025-07-22T16:31:04Z",
     "type" : "Clock Out"
+  },
+  {
+    "employeeId" : "57BA9115-ECC7-46ED-B99A-48B11ED17B76",
+    "id" : "2A43D7DE-E4D4-4446-8547-18F63DFF1E07",
+    "timestamp" : "2025-07-22T18:57:42Z",
+    "type" : "Clock Out"
   }
 ]
