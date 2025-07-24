@@ -9784,5 +9784,11 @@
     "id" : "CB8C4AF1-EC6F-43E5-9050-4EC1C942EBEB",
     "timestamp" : "2025-07-24T14:32:13Z",
     "type" : "Clock Out"
+  },
+  {
+    "employeeId" : "57BA9115-ECC7-46ED-B99A-48B11ED17B76",
+    "id" : "013B52E3-43D8-458B-9AE6-54B0A4FD92DD",
+    "timestamp" : "2025-07-24T14:46:18Z",
+    "type" : "Clock In"
   }
 ]
