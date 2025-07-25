@@ -9922,5 +9922,17 @@
     "id" : "F923E00F-9048-415D-A656-2AC9523FB444",
     "timestamp" : "2025-07-24T20:00:00Z",
     "type" : "Auto Clock Out At Midnight"
+  },
+  {
+    "employeeId" : "ABBF1404-78F1-4DB0-A35E-374CD9612909",
+    "id" : "E6F6195A-459A-413F-A5AF-5213AB7E1046",
+    "timestamp" : "2025-07-25T06:43:43Z",
+    "type" : "Clock In"
+  },
+  {
+    "employeeId" : "BE4E5108-1C7A-4396-BA60-985D0A0D25DC",
+    "id" : "BA6B77FC-8087-4BF4-A22F-A87394B460CA",
+    "timestamp" : "2025-07-25T06:47:16Z",
+    "type" : "Clock In"
   }
 ]
