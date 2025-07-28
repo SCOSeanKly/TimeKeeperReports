@@ -10684,5 +10684,35 @@
     "id" : "8C3375B7-9F19-4786-A749-91A839525792",
     "timestamp" : "2025-07-28T09:48:43Z",
     "type" : "Break Start"
+  },
+  {
+    "employeeId" : "2D3EC73F-366E-466C-8516-C0AF231C271E",
+    "id" : "03A29490-CC51-4AFA-87FD-C0FD8367C26B",
+    "timestamp" : "2025-07-28T09:49:23Z",
+    "type" : "Break End"
+  },
+  {
+    "employeeId" : "FB905CE7-9CA9-46C5-AD56-97C41D7FF9CE",
+    "id" : "6CA3B070-FDCA-4035-85F3-0D14C484F5DB",
+    "timestamp" : "2025-07-28T09:49:34Z",
+    "type" : "Break End"
+  },
+  {
+    "employeeId" : "D56675E7-D446-4F6D-BC07-06072C9146BE",
+    "id" : "B79CB1B4-89BA-450F-A7B8-0D6500C08782",
+    "timestamp" : "2025-07-28T09:49:52Z",
+    "type" : "Break End"
+  },
+  {
+    "employeeId" : "337733FA-A522-41C0-9B46-2A6B5A1D00F9",
+    "id" : "69930896-6095-45E4-866D-B816FA0FC29B",
+    "timestamp" : "2025-07-28T09:50:27Z",
+    "type" : "Break End"
+  },
+  {
+    "employeeId" : "700FAFD2-9453-467E-BDE4-B0B8343BDAC6",
+    "id" : "4E94E4F7-334E-4E1B-B4B9-869FCFA563BD",
+    "timestamp" : "2025-07-28T09:50:31Z",
+    "type" : "Break End"
   }
 ]
