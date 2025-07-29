@@ -11092,5 +11092,29 @@
     "id" : "EF61F8C0-3BA1-4732-93FB-F78899985F85",
     "timestamp" : "2025-07-29T09:32:22Z",
     "type" : "Break Start"
+  },
+  {
+    "employeeId" : "ABBF1404-78F1-4DB0-A35E-374CD9612909",
+    "id" : "F38B6E36-7D72-4A13-A3C9-C6630607D916",
+    "timestamp" : "2025-07-29T09:32:33Z",
+    "type" : "Break Start"
+  },
+  {
+    "employeeId" : "83F0962E-D531-4F32-952D-F84DE2EDD27F",
+    "id" : "7808CFC9-52B2-41CE-A908-7876B0CE50E4",
+    "timestamp" : "2025-07-29T09:34:27Z",
+    "type" : "Break Start"
+  },
+  {
+    "employeeId" : "337733FA-A522-41C0-9B46-2A6B5A1D00F9",
+    "id" : "7E5EF798-EACD-4ED4-A5CE-37C7D00C6B45",
+    "timestamp" : "2025-07-29T09:34:53Z",
+    "type" : "Break Start"
+  },
+  {
+    "employeeId" : "D56675E7-D446-4F6D-BC07-06072C9146BE",
+    "id" : "0CFBE589-E867-4A21-83A9-77B5B23A5616",
+    "timestamp" : "2025-07-29T09:38:42Z",
+    "type" : "Break Start"
   }
 ]
