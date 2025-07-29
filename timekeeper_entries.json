@@ -11116,5 +11116,23 @@
     "id" : "0CFBE589-E867-4A21-83A9-77B5B23A5616",
     "timestamp" : "2025-07-29T09:38:42Z",
     "type" : "Break Start"
+  },
+  {
+    "employeeId" : "2D3EC73F-366E-466C-8516-C0AF231C271E",
+    "id" : "C825F6A8-52C6-4D31-B150-AA99484BD932",
+    "timestamp" : "2025-07-29T09:40:07Z",
+    "type" : "Break Start"
+  },
+  {
+    "employeeId" : "F0064293-8B19-496C-979F-E3265BEFD5C9",
+    "id" : "5146AAAC-E21D-47D9-B701-23AD33E0C60B",
+    "timestamp" : "2025-07-29T09:42:58Z",
+    "type" : "Break End"
+  },
+  {
+    "employeeId" : "ABBF1404-78F1-4DB0-A35E-374CD9612909",
+    "id" : "985F6F0B-6FD0-4420-971D-5A1F4E9ADA8E",
+    "timestamp" : "2025-07-29T09:44:01Z",
+    "type" : "Break End"
   }
 ]
