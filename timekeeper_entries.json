@@ -12640,5 +12640,11 @@
     "id" : "B8E57EBC-9576-4264-B009-A8C14D74E484",
     "timestamp" : "2025-08-01T13:05:15Z",
     "type" : "Lunch Start"
+  },
+  {
+    "employeeId" : "BE4E5108-1C7A-4396-BA60-985D0A0D25DC",
+    "id" : "8792743D-AFE6-4B9A-8449-918F95443F57",
+    "timestamp" : "2025-08-01T15:11:05Z",
+    "type" : "Clock Out"
   }
 ]
