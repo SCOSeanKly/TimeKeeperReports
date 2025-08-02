@@ -12760,5 +12760,11 @@
     "id" : "6EE63B03-26B5-4C4F-A72E-558F8B37E7A4",
     "timestamp" : "2025-08-02T11:00:02Z",
     "type" : "Clock Out"
+  },
+  {
+    "employeeId" : "83F0962E-D531-4F32-952D-F84DE2EDD27F",
+    "id" : "CC74E91D-B709-43F4-96A6-B5D8238C874C",
+    "timestamp" : "2025-08-02T11:41:17Z",
+    "type" : "Clock Out"
   }
 ]
