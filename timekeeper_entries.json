@@ -13948,5 +13948,11 @@
     "id" : "3FB5CE7A-2921-47A3-A043-290EB9810CE2",
     "timestamp" : "2025-08-06T09:37:21Z",
     "type" : "Break Start"
+  },
+  {
+    "employeeId" : "2D3EC73F-366E-466C-8516-C0AF231C271E",
+    "id" : "71DB8DCC-12B8-4EF0-A7F1-2086157DC6D6",
+    "timestamp" : "2025-08-06T09:40:38Z",
+    "type" : "Break End"
   }
 ]
