@@ -14458,5 +14458,17 @@
     "id" : "CDD89B1A-6134-4BFB-B552-6848B7B1F269",
     "timestamp" : "2025-08-07T08:16:03Z",
     "type" : "Clock In"
+  },
+  {
+    "employeeId" : "2D3EC73F-366E-466C-8516-C0AF231C271E",
+    "id" : "5C5CA4EF-EAB6-4C0E-BA4A-BB731FF0F38D",
+    "timestamp" : "2025-08-07T09:27:08Z",
+    "type" : "Break Start"
+  },
+  {
+    "employeeId" : "2D3EC73F-366E-466C-8516-C0AF231C271E",
+    "id" : "DA487A25-BF5D-4EA7-8A7E-F4B61BEF4C11",
+    "timestamp" : "2025-08-07T09:27:09Z",
+    "type" : "Break End"
   }
 ]
