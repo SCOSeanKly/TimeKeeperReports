@@ -15250,5 +15250,11 @@
     "id" : "4EDAA283-D615-4C89-89B1-D9C8345C396B",
     "timestamp" : "2025-08-08T15:15:34Z",
     "type" : "Clock Out"
+  },
+  {
+    "employeeId" : "ABBF1404-78F1-4DB0-A35E-374CD9612909",
+    "id" : "687DEADC-88CA-4A8E-8AD4-DAB2A8118AAB",
+    "timestamp" : "2025-08-08T15:30:17Z",
+    "type" : "Clock Out"
   }
 ]
