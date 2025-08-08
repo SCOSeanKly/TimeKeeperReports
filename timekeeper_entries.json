@@ -15004,5 +15004,29 @@
     "id" : "DDC5B29B-4A3B-4029-8CCC-DA133ED14D58",
     "timestamp" : "2025-08-08T09:35:10Z",
     "type" : "Break End"
+  },
+  {
+    "employeeId" : "6F88A111-9F7F-4ADC-AD62-ADF30BC2715E",
+    "id" : "A4D29CF1-D3A7-442A-BB71-61A39017AE3C",
+    "timestamp" : "2025-08-08T09:37:12Z",
+    "type" : "Break Start"
+  },
+  {
+    "employeeId" : "A89B7519-4C5C-4F70-9342-5BBCF890E719",
+    "id" : "2CD67204-2CF1-40FE-9649-8B486DFCC7FD",
+    "timestamp" : "2025-08-08T09:41:46Z",
+    "type" : "Break Start"
+  },
+  {
+    "employeeId" : "F0064293-8B19-496C-979F-E3265BEFD5C9",
+    "id" : "EC56D980-1213-4140-A6FB-CA6CA6A1D23F",
+    "timestamp" : "2025-08-08T09:41:53Z",
+    "type" : "Break Start"
+  },
+  {
+    "employeeId" : "F0064293-8B19-496C-979F-E3265BEFD5C9",
+    "id" : "FDCCEDD1-F29C-43D1-B105-44F2F172679D",
+    "timestamp" : "2025-08-08T09:41:55Z",
+    "type" : "Break End"
   }
 ]
