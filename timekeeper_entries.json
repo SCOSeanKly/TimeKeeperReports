@@ -16222,5 +16222,17 @@
     "id" : "E5CABFEF-7BFA-44C1-8E2F-552E505F3F60",
     "timestamp" : "2025-08-12T09:51:51Z",
     "type" : "Break End"
+  },
+  {
+    "employeeId" : "394EE8BC-3145-4010-B8D1-B4965EAA9296",
+    "id" : "5593D85C-122E-452C-B4DC-ED0F5AF19F1E",
+    "timestamp" : "2025-08-12T12:24:59Z",
+    "type" : "Lunch Start"
+  },
+  {
+    "employeeId" : "393F3D1F-F71E-4F88-8619-1CDD9BF9C9C2",
+    "id" : "AC982967-3468-491D-9448-0C29F1235D24",
+    "timestamp" : "2025-08-12T12:29:45Z",
+    "type" : "Lunch Start"
   }
 ]
