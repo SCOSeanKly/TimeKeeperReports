@@ -16636,5 +16636,11 @@
     "id" : "EA8861D9-B6C4-4BDC-9D17-D39EF199FDBA",
     "timestamp" : "2025-08-13T08:09:57Z",
     "type" : "Clock In"
+  },
+  {
+    "employeeId" : "394EE8BC-3145-4010-B8D1-B4965EAA9296",
+    "id" : "6A31795E-367C-45FA-A703-B75914A16189",
+    "timestamp" : "2025-08-13T09:25:32Z",
+    "type" : "Break Start"
   }
 ]
