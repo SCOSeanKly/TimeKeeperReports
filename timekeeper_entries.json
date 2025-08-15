@@ -17632,5 +17632,17 @@
     "id" : "69430D81-1A7F-49DE-8F25-FBBB0DD07426",
     "timestamp" : "2025-08-14T20:00:00Z",
     "type" : "Auto Clock Out At Midnight"
+  },
+  {
+    "employeeId" : "2D3EC73F-366E-466C-8516-C0AF231C271E",
+    "id" : "7FCBDB94-4955-408B-A6C7-69D9AA23907A",
+    "timestamp" : "2025-08-15T06:44:15Z",
+    "type" : "Clock In"
+  },
+  {
+    "employeeId" : "ABBF1404-78F1-4DB0-A35E-374CD9612909",
+    "id" : "9C86972A-5E02-4FCA-94A2-EDD41E6A9C03",
+    "timestamp" : "2025-08-15T06:45:43Z",
+    "type" : "Clock In"
   }
 ]
