@@ -8254,5 +8254,11 @@
     "id" : "55906112-7F36-4431-B8A9-C395CCF7657A",
     "timestamp" : "2025-08-22T09:51:23Z",
     "type" : "Break End"
+  },
+  {
+    "employeeId" : "7052DB49-F73F-47F0-9FB3-CF44601A7FC3",
+    "id" : "B8844C4D-4798-43D6-B823-9650C65137C2",
+    "timestamp" : "2025-08-22T11:32:20Z",
+    "type" : "Clock Out"
   }
 ]
