@@ -8482,5 +8482,11 @@
     "id" : "C89562E8-F01C-48C3-8DD6-64B7C901A534",
     "timestamp" : "2025-08-22T15:31:02Z",
     "type" : "Clock Out"
+  },
+  {
+    "employeeId" : "2D3EC73F-366E-466C-8516-C0AF231C271E",
+    "id" : "268BF4CB-AF45-45D0-8C96-D8A1019B1DDB",
+    "timestamp" : "2025-08-22T15:49:44Z",
+    "type" : "Clock Out"
   }
 ]
