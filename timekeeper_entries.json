@@ -8580,6 +8580,12 @@
     "type" : "Clock In"
   },
   {
+    "employeeId" : "E1949C06-DBB6-4988-BF8B-2DE53FFD8D64",
+    "id" : "E7536905-3E47-4137-9199-FF29DF49E1E4",
+    "timestamp" : "2025-08-23T07:55:24Z",
+    "type" : "Clock In"
+  },
+  {
     "employeeId" : "D56675E7-D446-4F6D-BC07-06072C9146BE",
     "id" : "A5D301C4-8755-4538-8485-0A1274F9409D",
     "timestamp" : "2025-08-23T07:57:23Z",
@@ -8589,12 +8595,6 @@
     "employeeId" : "337733FA-A522-41C0-9B46-2A6B5A1D00F9",
     "id" : "2B408381-64B4-48A5-80C0-1DC37465BC27",
     "timestamp" : "2025-08-23T08:00:08Z",
-    "type" : "Clock In"
-  },
-  {
-    "employeeId" : "E1949C06-DBB6-4988-BF8B-2DE53FFD8D64",
-    "id" : "E7536905-3E47-4137-9199-FF29DF49E1E4",
-    "timestamp" : "2025-08-23T07:55:24Z",
     "type" : "Clock In"
   }
 ]
