@@ -187,5 +187,14 @@
     "name" : "Lewis Walker",
     "pin" : "1905",
     "startTime" : "2025-05-19T07:30:00Z"
+  },
+  {
+    "department" : "Admin",
+    "finishTime" : "2025-08-23T15:00:00Z",
+    "hasFlexibleSchedule" : false,
+    "id" : "E1949C06-DBB6-4988-BF8B-2DE53FFD8D64",
+    "name" : "Mason Kelly",
+    "pin" : "4467",
+    "startTime" : "2025-08-23T08:00:00Z"
   }
 ]
