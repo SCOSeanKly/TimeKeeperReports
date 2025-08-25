@@ -8878,5 +8878,11 @@
     "id" : "480C5777-AE40-4274-BF52-F35611BBEF4A",
     "timestamp" : "2025-08-25T09:55:52Z",
     "type" : "Break End"
+  },
+  {
+    "employeeId" : "393F3D1F-F71E-4F88-8619-1CDD9BF9C9C2",
+    "id" : "C8DDDE8E-8139-4875-B85C-12BFCC94F87B",
+    "timestamp" : "2025-08-25T11:09:12Z",
+    "type" : "Clock In"
   }
 ]
