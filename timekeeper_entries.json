@@ -8722,5 +8722,23 @@
     "id" : "006AC4E9-F571-49B9-8AE8-D7BE4E299D9B",
     "timestamp" : "2025-08-25T07:29:55Z",
     "type" : "Clock In"
+  },
+  {
+    "employeeId" : "394EE8BC-3145-4010-B8D1-B4965EAA9296",
+    "id" : "DB772767-9F78-49BF-B4D3-3378C6300748",
+    "timestamp" : "2025-08-25T09:25:17Z",
+    "type" : "Break Start"
+  },
+  {
+    "employeeId" : "2D3EC73F-366E-466C-8516-C0AF231C271E",
+    "id" : "FF956D43-4441-4B2E-8CB7-79848DEFEB4D",
+    "timestamp" : "2025-08-25T09:30:04Z",
+    "type" : "Break Start"
+  },
+  {
+    "employeeId" : "2D3EC73F-366E-466C-8516-C0AF231C271E",
+    "id" : "BEEDAFC5-ECB9-41B8-BD4E-1DECC35E5214",
+    "timestamp" : "2025-08-25T09:30:07Z",
+    "type" : "Break End"
   }
 ]
