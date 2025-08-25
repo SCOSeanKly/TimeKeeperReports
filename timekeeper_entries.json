@@ -9064,5 +9064,11 @@
     "id" : "CFB1E026-EFF5-4A81-A486-405E09188F4A",
     "timestamp" : "2025-08-25T13:10:20Z",
     "type" : "Lunch Start"
+  },
+  {
+    "employeeId" : "953EA2A7-6C38-4C9B-98AD-A7927077E363",
+    "id" : "3F32AB61-8D07-4A54-A339-3695C1B7CB7C",
+    "timestamp" : "2025-08-25T13:42:58Z",
+    "type" : "Lunch End"
   }
 ]
