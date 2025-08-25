@@ -8662,5 +8662,23 @@
     "id" : "C731FFA6-674F-4931-AF94-C64E4446C3E7",
     "timestamp" : "2025-08-25T06:55:11Z",
     "type" : "Clock In"
+  },
+  {
+    "employeeId" : "BD0902DD-373B-433A-953A-755F88CBF221",
+    "id" : "AC8CD948-CE6E-4562-994F-CC6D5F4C9C53",
+    "timestamp" : "2025-08-25T06:57:33Z",
+    "type" : "Clock In"
+  },
+  {
+    "employeeId" : "D56675E7-D446-4F6D-BC07-06072C9146BE",
+    "id" : "EDF9AEFA-F167-49AF-A2FF-CD55FD320465",
+    "timestamp" : "2025-08-25T06:58:24Z",
+    "type" : "Clock In"
+  },
+  {
+    "employeeId" : "394EE8BC-3145-4010-B8D1-B4965EAA9296",
+    "id" : "CA6F11B9-1DE3-4FA8-881B-D7C76A20AB8F",
+    "timestamp" : "2025-08-25T07:01:27Z",
+    "type" : "Clock In"
   }
 ]
