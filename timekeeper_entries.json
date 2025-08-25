@@ -9052,5 +9052,17 @@
     "id" : "B2F702FD-B928-4766-AC25-143D5E6ADF30",
     "timestamp" : "2025-08-25T13:06:49Z",
     "type" : "Lunch End"
+  },
+  {
+    "employeeId" : "953EA2A7-6C38-4C9B-98AD-A7927077E363",
+    "id" : "97178E5F-B40D-4E00-B964-F6A9083995C5",
+    "timestamp" : "2025-08-25T13:10:18Z",
+    "type" : "Clock In"
+  },
+  {
+    "employeeId" : "953EA2A7-6C38-4C9B-98AD-A7927077E363",
+    "id" : "CFB1E026-EFF5-4A81-A486-405E09188F4A",
+    "timestamp" : "2025-08-25T13:10:20Z",
+    "type" : "Lunch Start"
   }
 ]
