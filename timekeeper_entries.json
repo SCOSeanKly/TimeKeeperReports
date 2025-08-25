@@ -9070,5 +9070,11 @@
     "id" : "3F32AB61-8D07-4A54-A339-3695C1B7CB7C",
     "timestamp" : "2025-08-25T13:42:58Z",
     "type" : "Lunch End"
+  },
+  {
+    "employeeId" : "BE4E5108-1C7A-4396-BA60-985D0A0D25DC",
+    "id" : "E0F9CB5D-4372-4416-8393-6C0C046862DD",
+    "timestamp" : "2025-08-25T14:59:50Z",
+    "type" : "Clock Out"
   }
 ]
