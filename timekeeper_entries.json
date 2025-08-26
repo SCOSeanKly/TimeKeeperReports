@@ -9598,5 +9598,11 @@
     "id" : "86B449D0-5EB3-4584-A2C5-9D19B7696E2B",
     "timestamp" : "2025-08-26T12:39:00Z",
     "type" : "Lunch Start"
+  },
+  {
+    "employeeId" : "BD0902DD-373B-433A-953A-755F88CBF221",
+    "id" : "8E255DA8-BF72-4FD7-B43E-1C9DA7780928",
+    "timestamp" : "2025-08-26T12:49:44Z",
+    "type" : "Lunch End"
   }
 ]
