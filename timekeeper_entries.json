@@ -10234,5 +10234,29 @@
     "id" : "6A7A75DC-2478-4911-95F7-1D2368D33668",
     "timestamp" : "2025-08-27T13:02:16Z",
     "type" : "Lunch End"
+  },
+  {
+    "employeeId" : "D56675E7-D446-4F6D-BC07-06072C9146BE",
+    "id" : "A460BCCB-292F-4CAE-A548-33E97F90981E",
+    "timestamp" : "2025-08-27T13:03:01Z",
+    "type" : "Lunch End"
+  },
+  {
+    "employeeId" : "7052DB49-F73F-47F0-9FB3-CF44601A7FC3",
+    "id" : "EB655498-E607-49DF-B09B-14B9053818EA",
+    "timestamp" : "2025-08-27T13:03:59Z",
+    "type" : "Lunch End"
+  },
+  {
+    "employeeId" : "953EA2A7-6C38-4C9B-98AD-A7927077E363",
+    "id" : "0CCF9FFA-F728-460E-8A17-702584B2289C",
+    "timestamp" : "2025-08-27T13:05:17Z",
+    "type" : "Lunch Start"
+  },
+  {
+    "employeeId" : "393F3D1F-F71E-4F88-8619-1CDD9BF9C9C2",
+    "id" : "A0C6673F-3D0E-4795-9423-8F302988ADC4",
+    "timestamp" : "2025-08-27T13:06:09Z",
+    "type" : "Lunch End"
   }
 ]
