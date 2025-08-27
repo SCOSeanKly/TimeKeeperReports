@@ -10270,5 +10270,17 @@
     "id" : "A7EDD751-3938-498C-A751-BBA2EBB6D2DD",
     "timestamp" : "2025-08-27T13:35:37Z",
     "type" : "Lunch End"
+  },
+  {
+    "employeeId" : "394EE8BC-3145-4010-B8D1-B4965EAA9296",
+    "id" : "00B3955A-6720-4265-859D-2F37A4B9EC78",
+    "timestamp" : "2025-08-27T15:29:19Z",
+    "type" : "Clock Out"
+  },
+  {
+    "employeeId" : "FB905CE7-9CA9-46C5-AD56-97C41D7FF9CE",
+    "id" : "A38B3709-53BA-4C93-B60A-3A96E65AEFAD",
+    "timestamp" : "2025-08-27T15:33:10Z",
+    "type" : "Clock Out"
   }
 ]
