@@ -11446,5 +11446,11 @@
     "id" : "5EF97E5C-BB7A-42BD-8E54-0FC3C40C4F1A",
     "timestamp" : "2025-08-30T07:00:07Z",
     "type" : "Clock In"
+  },
+  {
+    "employeeId" : "29EAE04E-470D-4124-8038-200CCF2D63BC",
+    "id" : "6F254695-00DA-4AFB-AD5B-BDB5C1E6B55B",
+    "timestamp" : "2025-08-30T07:02:59Z",
+    "type" : "Clock In"
   }
 ]
