@@ -12238,5 +12238,17 @@
     "id" : "5A2283FA-2363-47D1-B662-995751BC485B",
     "timestamp" : "2025-09-02T12:36:10Z",
     "type" : "Lunch End"
+  },
+  {
+    "employeeId" : "F0064293-8B19-496C-979F-E3265BEFD5C9",
+    "id" : "2F25ADC0-6013-4042-9240-0A130B7E2EE2",
+    "timestamp" : "2025-09-02T12:53:12Z",
+    "type" : "Lunch End"
+  },
+  {
+    "employeeId" : "BD0902DD-373B-433A-953A-755F88CBF221",
+    "id" : "0641599C-A265-4CF5-83A6-551E5B8B9E4B",
+    "timestamp" : "2025-09-02T12:57:05Z",
+    "type" : "Lunch End"
   }
 ]
