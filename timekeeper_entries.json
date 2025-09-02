@@ -12358,5 +12358,17 @@
     "id" : "0457DBAF-409E-4566-A46D-669314EEB348",
     "timestamp" : "2025-09-02T16:00:01Z",
     "type" : "Clock Out"
+  },
+  {
+    "employeeId" : "2D3EC73F-366E-466C-8516-C0AF231C271E",
+    "id" : "A54B477F-8144-4122-B20B-937F7A42FC6D",
+    "timestamp" : "2025-09-02T16:05:38Z",
+    "type" : "Clock Out"
+  },
+  {
+    "employeeId" : "66FE14DE-3A62-4015-AA37-1E3ACB7A0632",
+    "id" : "B65CC550-4B23-4ADE-A9D1-8578044F3ECD",
+    "timestamp" : "2025-09-02T16:07:00Z",
+    "type" : "Clock Out"
   }
 ]
