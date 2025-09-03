@@ -12622,5 +12622,23 @@
     "id" : "A60ECA72-2692-4972-ACE1-165B1BD30774",
     "timestamp" : "2025-09-03T09:50:10Z",
     "type" : "Break End"
+  },
+  {
+    "employeeId" : "3C4C3205-2DFC-4646-9AB9-49F73AD47A6A",
+    "id" : "87C4043C-8A7A-4E81-A161-3219249498B9",
+    "timestamp" : "2025-09-03T09:58:30Z",
+    "type" : "Break End"
+  },
+  {
+    "employeeId" : "D56675E7-D446-4F6D-BC07-06072C9146BE",
+    "id" : "22D364E5-65D5-43AC-BD3A-230C35E766FA",
+    "timestamp" : "2025-09-03T10:01:09Z",
+    "type" : "Break End"
+  },
+  {
+    "employeeId" : "F0064293-8B19-496C-979F-E3265BEFD5C9",
+    "id" : "B95AAFB4-09BA-43BE-9FC5-FC34A8147998",
+    "timestamp" : "2025-09-03T10:01:17Z",
+    "type" : "Break End"
   }
 ]
