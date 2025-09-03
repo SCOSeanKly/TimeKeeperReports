@@ -196,5 +196,14 @@
     "name" : "Mason Kelly",
     "pin" : "4467",
     "startTime" : "2025-08-23T08:00:00Z"
+  },
+  {
+    "department" : "Workshop",
+    "finishTime" : "2025-09-03T16:00:00Z",
+    "hasFlexibleSchedule" : false,
+    "id" : "8328C48C-97D6-4E14-BE85-BB8763817CF8",
+    "name" : "Colin Mitchell",
+    "pin" : "7376",
+    "startTime" : "2025-09-03T07:30:00Z"
   }
 ]
