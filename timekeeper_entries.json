@@ -12778,5 +12778,11 @@
     "id" : "AD106709-AF75-4F03-A920-B70207DB7016",
     "timestamp" : "2025-09-03T13:30:20Z",
     "type" : "Lunch End"
+  },
+  {
+    "employeeId" : "BE4E5108-1C7A-4396-BA60-985D0A0D25DC",
+    "id" : "F6777E39-7434-440A-91F5-CA47C1481FD1",
+    "timestamp" : "2025-09-03T15:02:10Z",
+    "type" : "Clock Out"
   }
 ]
