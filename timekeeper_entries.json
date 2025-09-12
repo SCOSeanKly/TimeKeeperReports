@@ -16240,5 +16240,11 @@
     "id" : "FC73DB73-9E72-4261-BC5D-1CA38BAB1F6A",
     "timestamp" : "2025-09-12T08:00:14Z",
     "type" : "Clock In"
+  },
+  {
+    "employeeId" : "953EA2A7-6C38-4C9B-98AD-A7927077E363",
+    "id" : "78C89963-8024-403F-87ED-A3903DBA551F",
+    "timestamp" : "2025-09-12T08:14:32Z",
+    "type" : "Clock In"
   }
 ]
