@@ -16420,5 +16420,65 @@
     "id" : "6FF042AB-0E80-44BC-94AF-47E42DC57CCD",
     "timestamp" : "2025-09-12T11:34:26Z",
     "type" : "Clock Out"
+  },
+  {
+    "employeeId" : "A89B7519-4C5C-4F70-9342-5BBCF890E719",
+    "id" : "07B77F55-D06F-4C33-8F45-147E8FE4333E",
+    "timestamp" : "2025-09-12T12:27:15Z",
+    "type" : "Lunch Start"
+  },
+  {
+    "employeeId" : "2D3EC73F-366E-466C-8516-C0AF231C271E",
+    "id" : "BFAEC4F7-5F71-4587-A040-A19C74064001",
+    "timestamp" : "2025-09-12T12:30:39Z",
+    "type" : "Lunch Start"
+  },
+  {
+    "employeeId" : "2D3EC73F-366E-466C-8516-C0AF231C271E",
+    "id" : "EF705D0F-362B-4437-823E-E4ECB38C42EB",
+    "timestamp" : "2025-09-12T12:30:41Z",
+    "type" : "Lunch End"
+  },
+  {
+    "employeeId" : "F0064293-8B19-496C-979F-E3265BEFD5C9",
+    "id" : "E024C90B-2BF4-48E6-B5CF-DD9C0A11FB74",
+    "timestamp" : "2025-09-12T12:31:37Z",
+    "type" : "Clock Out"
+  },
+  {
+    "employeeId" : "F0064293-8B19-496C-979F-E3265BEFD5C9",
+    "id" : "B3061916-762D-49EB-A141-457655ED88E1",
+    "timestamp" : "2025-09-12T12:31:40Z",
+    "type" : "Clock In"
+  },
+  {
+    "employeeId" : "F0064293-8B19-496C-979F-E3265BEFD5C9",
+    "id" : "9D3A741A-DAC5-4698-A345-5A0532D5A8C1",
+    "timestamp" : "2025-09-12T12:31:46Z",
+    "type" : "Lunch Start"
+  },
+  {
+    "employeeId" : "3C4C3205-2DFC-4646-9AB9-49F73AD47A6A",
+    "id" : "C2797162-A264-4F96-B1AD-B3B5C2F1E08A",
+    "timestamp" : "2025-09-12T12:31:55Z",
+    "type" : "Lunch Start"
+  },
+  {
+    "employeeId" : "ABBF1404-78F1-4DB0-A35E-374CD9612909",
+    "id" : "798D3C0F-B381-42AD-8984-2FBC002008B8",
+    "timestamp" : "2025-09-12T12:32:10Z",
+    "type" : "Lunch Start"
+  },
+  {
+    "employeeId" : "66FE14DE-3A62-4015-AA37-1E3ACB7A0632",
+    "id" : "F74C5384-D1B1-4C13-821E-F9179E774C83",
+    "timestamp" : "2025-09-12T12:32:21Z",
+    "type" : "Lunch Start"
+  },
+  {
+    "employeeId" : "337733FA-A522-41C0-9B46-2A6B5A1D00F9",
+    "id" : "4407713E-D1B5-4BA5-9152-CD01979B2BA6",
+    "timestamp" : "2025-09-12T12:32:38Z",
+    "type" : "Lunch Start"
   }
 ]
