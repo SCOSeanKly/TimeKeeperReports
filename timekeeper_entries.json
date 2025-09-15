@@ -17134,5 +17134,11 @@
     "id" : "FE4DB4DC-D3E9-4E46-9CBB-12AE5401DE2B",
     "timestamp" : "2025-09-15T14:44:50Z",
     "type" : "Clock In"
+  },
+  {
+    "employeeId" : "BE4E5108-1C7A-4396-BA60-985D0A0D25DC",
+    "id" : "397E33A2-8F3B-42D1-A6E3-6A42D9780F22",
+    "timestamp" : "2025-09-15T14:58:34Z",
+    "type" : "Clock Out"
   }
 ]
