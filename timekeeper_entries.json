@@ -17242,5 +17242,17 @@
     "id" : "03E7A7AE-48EA-4154-87DC-5B176EB9E96F",
     "timestamp" : "2025-09-16T06:46:09Z",
     "type" : "Clock In"
+  },
+  {
+    "employeeId" : "ABBF1404-78F1-4DB0-A35E-374CD9612909",
+    "id" : "3856ABF1-1073-408F-8216-5F71A8D24BD9",
+    "timestamp" : "2025-09-16T06:46:24Z",
+    "type" : "Clock In"
+  },
+  {
+    "employeeId" : "FB905CE7-9CA9-46C5-AD56-97C41D7FF9CE",
+    "id" : "DF31A8E5-CF4E-4791-98BB-1BF47386C833",
+    "timestamp" : "2025-09-16T06:46:41Z",
+    "type" : "Clock In"
   }
 ]
