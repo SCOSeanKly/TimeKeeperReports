@@ -17800,5 +17800,23 @@
     "id" : "1C721626-E175-414A-A5B7-F6C306EE9A5D",
     "timestamp" : "2025-09-17T06:52:58Z",
     "type" : "Clock In"
+  },
+  {
+    "employeeId" : "BE4E5108-1C7A-4396-BA60-985D0A0D25DC",
+    "id" : "DF9BAE0E-6833-4F81-B8AA-59ACDE536FFF",
+    "timestamp" : "2025-09-17T06:55:39Z",
+    "type" : "Clock In"
+  },
+  {
+    "employeeId" : "BD0902DD-373B-433A-953A-755F88CBF221",
+    "id" : "702047CB-22AC-4E23-BC6D-AEB1E394B862",
+    "timestamp" : "2025-09-17T06:56:04Z",
+    "type" : "Clock In"
+  },
+  {
+    "employeeId" : "8328C48C-97D6-4E14-BE85-BB8763817CF8",
+    "id" : "AE2BA3F0-A692-4F0A-9394-DFA1C20F0EFE",
+    "timestamp" : "2025-09-17T06:56:59Z",
+    "type" : "Clock In"
   }
 ]
