@@ -18166,5 +18166,11 @@
     "id" : "CC57463D-7A8F-48CE-9649-0006D3554A5B",
     "timestamp" : "2025-09-17T14:47:53Z",
     "type" : "Clock In"
+  },
+  {
+    "employeeId" : "BE4E5108-1C7A-4396-BA60-985D0A0D25DC",
+    "id" : "EECAE6A2-2F46-4CBD-8006-7A1123FDEBE8",
+    "timestamp" : "2025-09-17T15:02:35Z",
+    "type" : "Clock Out"
   }
 ]
