@@ -18010,5 +18010,23 @@
     "id" : "158CF118-54FC-46BE-B7E2-C196BE4AAE9F",
     "timestamp" : "2025-09-17T09:56:18Z",
     "type" : "Break End"
+  },
+  {
+    "employeeId" : "A89B7519-4C5C-4F70-9342-5BBCF890E719",
+    "id" : "998417DE-E45E-4C00-8D2B-DF9AAD15E600",
+    "timestamp" : "2025-09-17T12:25:18Z",
+    "type" : "Lunch Start"
+  },
+  {
+    "employeeId" : "2D3EC73F-366E-466C-8516-C0AF231C271E",
+    "id" : "177C0393-3C4F-4640-8B46-FD07D7DF0598",
+    "timestamp" : "2025-09-17T12:30:03Z",
+    "type" : "Lunch Start"
+  },
+  {
+    "employeeId" : "2D3EC73F-366E-466C-8516-C0AF231C271E",
+    "id" : "3A3D9D3A-7BB5-4F85-80E6-8FDF39E36454",
+    "timestamp" : "2025-09-17T12:30:05Z",
+    "type" : "Lunch End"
   }
 ]
