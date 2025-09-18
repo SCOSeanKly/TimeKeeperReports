@@ -18676,5 +18676,11 @@
     "id" : "28348374-0C13-444F-97DA-CF8A90493C49",
     "timestamp" : "2025-09-18T13:33:55Z",
     "type" : "Lunch End"
+  },
+  {
+    "employeeId" : "57BA9115-ECC7-46ED-B99A-48B11ED17B76",
+    "id" : "F57FF9DC-E321-444E-9397-F62F27345652",
+    "timestamp" : "2025-09-18T14:45:10Z",
+    "type" : "Clock In"
   }
 ]
