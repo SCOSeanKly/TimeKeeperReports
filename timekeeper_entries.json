@@ -19006,5 +19006,17 @@
     "id" : "7B25B3B6-0586-4E20-A94E-F6EBE47773CD",
     "timestamp" : "2025-09-19T12:34:16Z",
     "type" : "Lunch End"
+  },
+  {
+    "employeeId" : "83F0962E-D531-4F32-952D-F84DE2EDD27F",
+    "id" : "A60E8BEA-3DDD-44DA-B287-E7787537DCD3",
+    "timestamp" : "2025-09-19T12:34:58Z",
+    "type" : "Lunch Start"
+  },
+  {
+    "employeeId" : "3C4C3205-2DFC-4646-9AB9-49F73AD47A6A",
+    "id" : "739B86C4-B81D-4210-B2A7-826DA5F53C37",
+    "timestamp" : "2025-09-19T12:35:07Z",
+    "type" : "Lunch Start"
   }
 ]
