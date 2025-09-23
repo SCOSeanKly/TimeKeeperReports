@@ -19822,5 +19822,23 @@
     "id" : "C2ED987A-5F23-4020-8943-8FCD028D11D3",
     "timestamp" : "2025-09-23T09:35:24Z",
     "type" : "Break Start"
+  },
+  {
+    "employeeId" : "D56675E7-D446-4F6D-BC07-06072C9146BE",
+    "id" : "D744BA79-66B9-4B00-834A-E18B1C2B078B",
+    "timestamp" : "2025-09-23T09:41:33Z",
+    "type" : "Break Start"
+  },
+  {
+    "employeeId" : "A89B7519-4C5C-4F70-9342-5BBCF890E719",
+    "id" : "850487A9-58E9-4807-B83F-EE28F98FE85E",
+    "timestamp" : "2025-09-23T09:45:18Z",
+    "type" : "Break End"
+  },
+  {
+    "employeeId" : "394EE8BC-3145-4010-B8D1-B4965EAA9296",
+    "id" : "0E1A6A0D-878E-4004-BF35-125B32BDF5DA",
+    "timestamp" : "2025-09-23T09:45:31Z",
+    "type" : "Break End"
   }
 ]
