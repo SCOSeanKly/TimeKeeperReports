@@ -20056,5 +20056,17 @@
     "id" : "847542D4-C583-4042-B1E9-D520AADFA518",
     "timestamp" : "2025-09-23T13:35:25Z",
     "type" : "Lunch End"
+  },
+  {
+    "employeeId" : "BE4E5108-1C7A-4396-BA60-985D0A0D25DC",
+    "id" : "7015376E-178A-4F59-897D-49EF8A5651BC",
+    "timestamp" : "2025-09-23T15:00:45Z",
+    "type" : "Clock In"
+  },
+  {
+    "employeeId" : "BE4E5108-1C7A-4396-BA60-985D0A0D25DC",
+    "id" : "067B52F3-0A6A-4610-A9B4-4874EA72343F",
+    "timestamp" : "2025-09-23T15:00:46Z",
+    "type" : "Clock Out"
   }
 ]
