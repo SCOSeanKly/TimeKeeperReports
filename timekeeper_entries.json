@@ -19702,5 +19702,17 @@
     "id" : "28C47955-B8DE-4E44-9565-7BDB84EFBCE0",
     "timestamp" : "2025-09-23T06:56:01Z",
     "type" : "Clock In"
+  },
+  {
+    "employeeId" : "8328C48C-97D6-4E14-BE85-BB8763817CF8",
+    "id" : "24E3D78A-10EE-44D0-BD04-058E55D1F38E",
+    "timestamp" : "2025-09-23T06:59:31Z",
+    "type" : "Clock In"
+  },
+  {
+    "employeeId" : "394EE8BC-3145-4010-B8D1-B4965EAA9296",
+    "id" : "B02F8481-58C0-4264-B9AE-73B9E41EE38D",
+    "timestamp" : "2025-09-23T07:03:13Z",
+    "type" : "Clock In"
   }
 ]
