@@ -20866,5 +20866,17 @@
     "id" : "B2877B67-AB41-4F54-B1C4-3F75645D2378",
     "timestamp" : "2025-09-25T09:57:28Z",
     "type" : "Break End"
+  },
+  {
+    "employeeId" : "57BA9115-ECC7-46ED-B99A-48B11ED17B76",
+    "id" : "503B1BA7-3ED0-4611-807B-98DBAFD379E2",
+    "timestamp" : "2025-09-23T15:00:00Z",
+    "type" : "Clock In"
+  },
+  {
+    "employeeId" : "57BA9115-ECC7-46ED-B99A-48B11ED17B76",
+    "id" : "615A2BE8-4670-4BAC-B4AB-A6D37023019C",
+    "timestamp" : "2025-09-23T19:00:00Z",
+    "type" : "Clock Out"
   }
 ]
