@@ -21610,5 +21610,11 @@
     "id" : "895E8D41-11D3-4832-8D5D-78F577CF1933",
     "timestamp" : "2025-09-27T10:46:17Z",
     "type" : "Clock In"
+  },
+  {
+    "employeeId" : "F0064293-8B19-496C-979F-E3265BEFD5C9",
+    "id" : "B4C4FA7E-EA1F-47F6-870F-7855F2573B09",
+    "timestamp" : "2025-09-27T11:05:37Z",
+    "type" : "Clock Out"
   }
 ]
