@@ -22144,5 +22144,17 @@
     "id" : "B46F5100-48BA-4E3F-81D3-59290696324B",
     "timestamp" : "2025-09-29T16:01:30Z",
     "type" : "Clock Out"
+  },
+  {
+    "employeeId" : "66FE14DE-3A62-4015-AA37-1E3ACB7A0632",
+    "id" : "6FFC0391-2B92-4926-B8E4-D323682F82C2",
+    "timestamp" : "2025-09-29T16:04:47Z",
+    "type" : "Clock Out"
+  },
+  {
+    "employeeId" : "337733FA-A522-41C0-9B46-2A6B5A1D00F9",
+    "id" : "9D121059-712B-4510-A592-C6DBF427D54E",
+    "timestamp" : "2025-09-29T16:05:12Z",
+    "type" : "Clock Out"
   }
 ]
