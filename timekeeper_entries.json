@@ -22102,5 +22102,11 @@
     "id" : "8A634C08-4A02-4028-B8A2-366F64DCFAD8",
     "timestamp" : "2025-09-29T14:46:04Z",
     "type" : "Clock In"
+  },
+  {
+    "employeeId" : "BE4E5108-1C7A-4396-BA60-985D0A0D25DC",
+    "id" : "6662FD77-D319-49E5-927D-3A6CB518F39C",
+    "timestamp" : "2025-09-29T14:59:05Z",
+    "type" : "Clock Out"
   }
 ]
