@@ -22192,5 +22192,23 @@
     "id" : "74BC7B41-7EDB-4814-A1E2-86D0441F5680",
     "timestamp" : "2025-09-29T16:33:32Z",
     "type" : "Clock Out"
+  },
+  {
+    "employeeId" : "57BA9115-ECC7-46ED-B99A-48B11ED17B76",
+    "id" : "22B459EA-BF76-4AAD-970D-794AB7F9E543",
+    "timestamp" : "2025-09-29T18:56:18Z",
+    "type" : "Clock Out"
+  },
+  {
+    "employeeId" : "8328C48C-97D6-4E14-BE85-BB8763817CF8",
+    "id" : "8742E336-68A5-4EB5-96DE-29D22EF64EF0",
+    "timestamp" : "2025-09-29T20:00:00Z",
+    "type" : "Clock Out"
+  },
+  {
+    "employeeId" : "8328C48C-97D6-4E14-BE85-BB8763817CF8",
+    "id" : "3EDE951C-4610-4AFF-A078-D76353E31324",
+    "timestamp" : "2025-09-29T20:00:00Z",
+    "type" : "Auto Clock Out At Midnight"
   }
 ]
