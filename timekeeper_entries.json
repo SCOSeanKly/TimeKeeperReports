@@ -22492,5 +22492,11 @@
     "id" : "9E1174AF-51FF-4CA8-B881-95CB62043273",
     "timestamp" : "2025-09-30T09:54:13Z",
     "type" : "Break End"
+  },
+  {
+    "employeeId" : "F0064293-8B19-496C-979F-E3265BEFD5C9",
+    "id" : "02E28D06-8572-405C-BF15-30D38F0D1E1B",
+    "timestamp" : "2025-09-30T11:00:47Z",
+    "type" : "Clock Out"
   }
 ]
