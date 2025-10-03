@@ -24514,5 +24514,11 @@
     "id" : "5F1C874D-04E7-4F37-9B0D-42D032F283E2",
     "timestamp" : "2025-10-03T15:34:55Z",
     "type" : "Clock Out"
+  },
+  {
+    "employeeId" : "2D3EC73F-366E-466C-8516-C0AF231C271E",
+    "id" : "89E63196-DF16-4AA5-9E8D-B5423F031A59",
+    "timestamp" : "2025-10-03T15:54:27Z",
+    "type" : "Clock Out"
   }
 ]
