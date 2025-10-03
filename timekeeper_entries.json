@@ -24286,5 +24286,17 @@
     "id" : "381C576E-1983-4FB6-B9BA-44ADF28B3467",
     "timestamp" : "2025-10-03T09:55:19Z",
     "type" : "Break End"
+  },
+  {
+    "employeeId" : "A89B7519-4C5C-4F70-9342-5BBCF890E719",
+    "id" : "B9A1DC85-21B6-48E2-9111-F36C7866B601",
+    "timestamp" : "2025-10-03T12:24:33Z",
+    "type" : "Lunch Start"
+  },
+  {
+    "employeeId" : "BC7199E0-4065-4B2C-8863-CCA70D0AE8D3",
+    "id" : "4609BCEB-B1BA-47DC-9DB5-9A5FE06E60AA",
+    "timestamp" : "2025-10-03T12:29:11Z",
+    "type" : "Lunch Start"
   }
 ]
