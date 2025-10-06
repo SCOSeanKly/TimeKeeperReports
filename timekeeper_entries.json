@@ -24700,5 +24700,17 @@
     "id" : "08D0CE29-6203-4038-8773-79B533F85DBD",
     "timestamp" : "2025-10-06T06:59:48Z",
     "type" : "Clock In"
+  },
+  {
+    "employeeId" : "D56675E7-D446-4F6D-BC07-06072C9146BE",
+    "id" : "A32E9B6F-C8AE-4182-B1B9-70FF6ECA81AB",
+    "timestamp" : "2025-10-06T07:01:23Z",
+    "type" : "Clock In"
+  },
+  {
+    "employeeId" : "393F3D1F-F71E-4F88-8619-1CDD9BF9C9C2",
+    "id" : "AEEBC51B-DCF8-47A2-BB5B-CCADB2992AED",
+    "timestamp" : "2025-10-06T07:01:31Z",
+    "type" : "Clock In"
   }
 ]
