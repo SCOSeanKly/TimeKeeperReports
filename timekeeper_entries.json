@@ -26062,5 +26062,23 @@
     "id" : "5080BB19-7097-4D3E-B31A-864DF45D8D14",
     "timestamp" : "2025-10-08T09:52:10Z",
     "type" : "Break End"
+  },
+  {
+    "employeeId" : "A89B7519-4C5C-4F70-9342-5BBCF890E719",
+    "id" : "9EDC6614-CC30-4BA5-AD6D-638FD31C5E18",
+    "timestamp" : "2025-10-08T10:58:16Z",
+    "type" : "Lunch Start"
+  },
+  {
+    "employeeId" : "A89B7519-4C5C-4F70-9342-5BBCF890E719",
+    "id" : "5B46DE96-91FC-4858-BB16-4E4867EE8CC2",
+    "timestamp" : "2025-10-08T10:58:18Z",
+    "type" : "Lunch End"
+  },
+  {
+    "employeeId" : "A89B7519-4C5C-4F70-9342-5BBCF890E719",
+    "id" : "00BDBC62-78F0-45B6-9E1B-41066558F6D2",
+    "timestamp" : "2025-10-08T10:59:39Z",
+    "type" : "Clock Out"
   }
 ]
