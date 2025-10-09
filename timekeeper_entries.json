@@ -26806,5 +26806,17 @@
     "id" : "5A8710B8-C4E5-4060-8348-19F011FC9A14",
     "timestamp" : "2025-10-09T13:08:18Z",
     "type" : "Lunch End"
+  },
+  {
+    "employeeId" : "393F3D1F-F71E-4F88-8619-1CDD9BF9C9C2",
+    "id" : "C4F13886-F932-44A8-97C0-5A002BFCA48F",
+    "timestamp" : "2025-10-09T13:08:59Z",
+    "type" : "Lunch End"
+  },
+  {
+    "employeeId" : "FB905CE7-9CA9-46C5-AD56-97C41D7FF9CE",
+    "id" : "AD5927DD-6FDF-4F7F-8C7C-6703153CD65C",
+    "timestamp" : "2025-10-09T13:09:38Z",
+    "type" : "Lunch End"
   }
 ]
