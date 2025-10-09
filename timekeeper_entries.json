@@ -26896,5 +26896,17 @@
     "id" : "73972965-8867-4033-9980-1A8A943FCDEE",
     "timestamp" : "2025-10-09T16:18:11Z",
     "type" : "Clock Out"
+  },
+  {
+    "employeeId" : "337733FA-A522-41C0-9B46-2A6B5A1D00F9",
+    "id" : "46A3681F-0907-4883-B674-B9546822373F",
+    "timestamp" : "2025-10-09T16:19:37Z",
+    "type" : "Clock Out"
+  },
+  {
+    "employeeId" : "8328C48C-97D6-4E14-BE85-BB8763817CF8",
+    "id" : "047FCA81-7385-4BF4-AF4F-7A2DA57196DD",
+    "timestamp" : "2025-10-09T16:22:03Z",
+    "type" : "Clock Out"
   }
 ]
