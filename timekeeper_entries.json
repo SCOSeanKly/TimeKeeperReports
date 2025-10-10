@@ -27286,5 +27286,65 @@
     "id" : "74A1A929-EC60-4FA1-BB4C-CF89F2E773DA",
     "timestamp" : "2025-10-10T13:01:34Z",
     "type" : "Lunch End"
+  },
+  {
+    "employeeId" : "337733FA-A522-41C0-9B46-2A6B5A1D00F9",
+    "id" : "956589FF-4991-470B-8853-5CC456F44CE1",
+    "timestamp" : "2025-10-10T13:02:25Z",
+    "type" : "Lunch End"
+  },
+  {
+    "employeeId" : "D56675E7-D446-4F6D-BC07-06072C9146BE",
+    "id" : "74AD891B-9A9C-48BB-ADC0-CFEDEDAE05D0",
+    "timestamp" : "2025-10-10T13:02:35Z",
+    "type" : "Lunch End"
+  },
+  {
+    "employeeId" : "3C4C3205-2DFC-4646-9AB9-49F73AD47A6A",
+    "id" : "FC65445B-EBD2-480B-BA68-ED126672845A",
+    "timestamp" : "2025-10-10T13:03:12Z",
+    "type" : "Lunch Start"
+  },
+  {
+    "employeeId" : "3C4C3205-2DFC-4646-9AB9-49F73AD47A6A",
+    "id" : "696567CA-88EA-4339-80A2-32036881D0B1",
+    "timestamp" : "2025-10-10T13:03:13Z",
+    "type" : "Lunch End"
+  },
+  {
+    "employeeId" : "393F3D1F-F71E-4F88-8619-1CDD9BF9C9C2",
+    "id" : "81E4604F-F8E6-4098-AC6D-BEF15EA1CE5A",
+    "timestamp" : "2025-10-10T13:03:34Z",
+    "type" : "Lunch End"
+  },
+  {
+    "employeeId" : "394EE8BC-3145-4010-B8D1-B4965EAA9296",
+    "id" : "92024952-DB33-4A5D-BE8F-7E06C6FD8D06",
+    "timestamp" : "2025-10-10T13:05:05Z",
+    "type" : "Lunch End"
+  },
+  {
+    "employeeId" : "7052DB49-F73F-47F0-9FB3-CF44601A7FC3",
+    "id" : "74028FDD-D7A1-4CFC-BDB2-F096CE9BBF45",
+    "timestamp" : "2025-10-10T13:05:15Z",
+    "type" : "Lunch End"
+  },
+  {
+    "employeeId" : "8328C48C-97D6-4E14-BE85-BB8763817CF8",
+    "id" : "57265FEE-8129-4D5D-B0E6-6FA278D40D5E",
+    "timestamp" : "2025-10-10T13:07:45Z",
+    "type" : "Lunch End"
+  },
+  {
+    "employeeId" : "953EA2A7-6C38-4C9B-98AD-A7927077E363",
+    "id" : "4E11EC79-FC31-455D-A2D8-14C3CC71E187",
+    "timestamp" : "2025-10-10T13:08:57Z",
+    "type" : "Lunch Start"
+  },
+  {
+    "employeeId" : "29EAE04E-470D-4124-8038-200CCF2D63BC",
+    "id" : "18665FA3-75E8-49F4-8E05-22E8AA6D865D",
+    "timestamp" : "2025-10-10T13:10:01Z",
+    "type" : "Lunch End"
   }
 ]
