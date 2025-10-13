@@ -27610,5 +27610,65 @@
     "id" : "88186659-889B-4DE0-99E7-A21BE60FD615",
     "timestamp" : "2025-10-13T09:32:07Z",
     "type" : "Break End"
+  },
+  {
+    "employeeId" : "D56675E7-D446-4F6D-BC07-06072C9146BE",
+    "id" : "96DE184E-7B1D-46D9-AB13-F5FFBEC9B409",
+    "timestamp" : "2025-10-13T09:32:34Z",
+    "type" : "Break Start"
+  },
+  {
+    "employeeId" : "BC7199E0-4065-4B2C-8863-CCA70D0AE8D3",
+    "id" : "B355A700-3C9F-4B8A-9FB8-B1C5BE00F749",
+    "timestamp" : "2025-10-13T09:32:41Z",
+    "type" : "Break Start"
+  },
+  {
+    "employeeId" : "66FE14DE-3A62-4015-AA37-1E3ACB7A0632",
+    "id" : "FF273B95-3D1F-4E5C-AF07-418D70EA8375",
+    "timestamp" : "2025-10-13T09:32:56Z",
+    "type" : "Break Start"
+  },
+  {
+    "employeeId" : "29EAE04E-470D-4124-8038-200CCF2D63BC",
+    "id" : "CCC4CDE7-8451-449A-8AD9-F78726E58A1D",
+    "timestamp" : "2025-10-13T09:33:47Z",
+    "type" : "Break Start"
+  },
+  {
+    "employeeId" : "337733FA-A522-41C0-9B46-2A6B5A1D00F9",
+    "id" : "4D6A8C0B-2EBD-4C0C-B8B2-163DCC98EEBC",
+    "timestamp" : "2025-10-13T09:33:55Z",
+    "type" : "Break Start"
+  },
+  {
+    "employeeId" : "83F0962E-D531-4F32-952D-F84DE2EDD27F",
+    "id" : "3DA9A175-C2D6-41C4-91AC-B0974E11FC2A",
+    "timestamp" : "2025-10-13T09:34:03Z",
+    "type" : "Break Start"
+  },
+  {
+    "employeeId" : "8328C48C-97D6-4E14-BE85-BB8763817CF8",
+    "id" : "49AB2F2E-3871-42CB-8347-F74D91BFBBBC",
+    "timestamp" : "2025-10-13T09:35:14Z",
+    "type" : "Break Start"
+  },
+  {
+    "employeeId" : "2D3EC73F-366E-466C-8516-C0AF231C271E",
+    "id" : "A08BA7D4-0193-46B7-890B-0BE9F663F3D7",
+    "timestamp" : "2025-10-13T09:36:28Z",
+    "type" : "Break Start"
+  },
+  {
+    "employeeId" : "2D3EC73F-366E-466C-8516-C0AF231C271E",
+    "id" : "33DF9234-1482-4D92-931C-64912BD052CF",
+    "timestamp" : "2025-10-13T09:36:30Z",
+    "type" : "Break End"
+  },
+  {
+    "employeeId" : "A89B7519-4C5C-4F70-9342-5BBCF890E719",
+    "id" : "108739E1-D19E-46DF-A372-FE472EBA1021",
+    "timestamp" : "2025-10-13T09:36:56Z",
+    "type" : "Break Start"
   }
 ]
