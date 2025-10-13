@@ -27562,5 +27562,23 @@
     "id" : "BBE7709E-3F37-453C-80A9-F3F13EEFB036",
     "timestamp" : "2025-10-13T07:06:37Z",
     "type" : "Clock In"
+  },
+  {
+    "employeeId" : "83F0962E-D531-4F32-952D-F84DE2EDD27F",
+    "id" : "22AEF061-14AE-4EE0-860D-DDA5872FE74F",
+    "timestamp" : "2025-10-13T07:26:15Z",
+    "type" : "Clock In"
+  },
+  {
+    "employeeId" : "66FE14DE-3A62-4015-AA37-1E3ACB7A0632",
+    "id" : "4FFCE0D0-9C0B-4ED5-AF64-A5DEFC72E45F",
+    "timestamp" : "2025-10-13T07:27:27Z",
+    "type" : "Clock In"
+  },
+  {
+    "employeeId" : "337733FA-A522-41C0-9B46-2A6B5A1D00F9",
+    "id" : "E3E2F506-594F-49D8-BF51-06244C75ABAC",
+    "timestamp" : "2025-10-13T07:29:17Z",
+    "type" : "Clock In"
   }
 ]
