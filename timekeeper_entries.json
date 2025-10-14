@@ -28216,5 +28216,23 @@
     "id" : "21FC342F-E07F-4A20-BB5E-B069964F8185",
     "timestamp" : "2025-10-14T09:44:10Z",
     "type" : "Break End"
+  },
+  {
+    "employeeId" : "BC7199E0-4065-4B2C-8863-CCA70D0AE8D3",
+    "id" : "BC55F63B-F500-4CBF-9903-3C181F2FAAE5",
+    "timestamp" : "2025-10-14T09:45:00Z",
+    "type" : "Break End"
+  },
+  {
+    "employeeId" : "394EE8BC-3145-4010-B8D1-B4965EAA9296",
+    "id" : "94531C11-A97E-4696-BFFC-820A3D1C0CAD",
+    "timestamp" : "2025-10-14T09:47:04Z",
+    "type" : "Break Start"
+  },
+  {
+    "employeeId" : "394EE8BC-3145-4010-B8D1-B4965EAA9296",
+    "id" : "D075A75F-9292-475D-BCCA-10D369EC76A1",
+    "timestamp" : "2025-10-14T09:47:05Z",
+    "type" : "Break End"
   }
 ]
