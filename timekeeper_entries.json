@@ -29122,5 +29122,29 @@
     "id" : "D907E105-0FE4-4863-990A-A51D83A96F7B",
     "timestamp" : "2025-10-16T07:10:30Z",
     "type" : "Clock In"
+  },
+  {
+    "employeeId" : "83F0962E-D531-4F32-952D-F84DE2EDD27F",
+    "id" : "32EE1328-41E8-4244-9435-A9D5D28A18CF",
+    "timestamp" : "2025-10-16T07:25:14Z",
+    "type" : "Clock In"
+  },
+  {
+    "employeeId" : "66FE14DE-3A62-4015-AA37-1E3ACB7A0632",
+    "id" : "0A4BBB6A-95F7-40F0-BC07-D080413BC319",
+    "timestamp" : "2025-10-16T07:27:45Z",
+    "type" : "Clock In"
+  },
+  {
+    "employeeId" : "337733FA-A522-41C0-9B46-2A6B5A1D00F9",
+    "id" : "6B06383A-8E9E-4BD8-8FF7-54994373FFDD",
+    "timestamp" : "2025-10-16T07:29:39Z",
+    "type" : "Clock In"
+  },
+  {
+    "employeeId" : "29EAE04E-470D-4124-8038-200CCF2D63BC",
+    "id" : "483BDE3B-AE1D-4367-A7E1-F685A5BF12CF",
+    "timestamp" : "2025-10-16T07:29:52Z",
+    "type" : "Clock In"
   }
 ]
