@@ -30304,5 +30304,11 @@
     "id" : "5ACCD517-AA60-4D66-B6FF-B4CF8EE853D1",
     "timestamp" : "2025-10-20T14:54:29Z",
     "type" : "Clock In"
+  },
+  {
+    "employeeId" : "BE4E5108-1C7A-4396-BA60-985D0A0D25DC",
+    "id" : "2549B8DD-93A7-4DB2-9AD2-65BC053BEF6D",
+    "timestamp" : "2025-10-20T15:00:25Z",
+    "type" : "Clock Out"
   }
 ]
