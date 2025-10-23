@@ -31684,5 +31684,11 @@
     "id" : "3C901CFD-39F6-432F-A361-BEC9676BDC50",
     "timestamp" : "2025-10-23T14:48:51Z",
     "type" : "Clock In"
+  },
+  {
+    "employeeId" : "BE4E5108-1C7A-4396-BA60-985D0A0D25DC",
+    "id" : "F34239DF-4CD8-4221-ADC7-70EAADBFC523",
+    "timestamp" : "2025-10-23T15:04:49Z",
+    "type" : "Clock Out"
   }
 ]
