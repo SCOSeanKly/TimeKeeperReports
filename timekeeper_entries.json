@@ -31366,5 +31366,11 @@
     "id" : "4C570D9B-521D-40EB-82AC-6EF7A0B33C66",
     "timestamp" : "2025-10-23T08:17:57Z",
     "type" : "Clock In"
+  },
+  {
+    "employeeId" : "A89B7519-4C5C-4F70-9342-5BBCF890E719",
+    "id" : "68368E51-44A5-4F4A-9C50-1C0EDD3D155B",
+    "timestamp" : "2025-10-23T09:27:03Z",
+    "type" : "Break Start"
   }
 ]
