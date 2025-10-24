@@ -32122,5 +32122,11 @@
     "id" : "98826A72-4EA8-40EA-A5E2-CD5109C04E95",
     "timestamp" : "2025-10-24T13:39:16Z",
     "type" : "Lunch End"
+  },
+  {
+    "employeeId" : "BE4E5108-1C7A-4396-BA60-985D0A0D25DC",
+    "id" : "0C507ECD-CD3D-4E3F-BE2A-30D7E8CE26BF",
+    "timestamp" : "2025-10-24T14:59:46Z",
+    "type" : "Clock Out"
   }
 ]
