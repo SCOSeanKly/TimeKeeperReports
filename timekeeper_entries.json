@@ -33520,5 +33520,11 @@
     "id" : "E3FD2442-3AE5-4344-95CA-B14CEC551DF3",
     "timestamp" : "2025-10-28T19:56:58Z",
     "type" : "Clock Out"
+  },
+  {
+    "employeeId" : "F0064293-8B19-496C-979F-E3265BEFD5C9",
+    "id" : "193F665F-7820-4139-8341-B7A6A0D7011F",
+    "timestamp" : "2025-10-29T07:38:20Z",
+    "type" : "Clock In"
   }
 ]
