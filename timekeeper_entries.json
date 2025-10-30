@@ -34102,5 +34102,17 @@
     "id" : "662BEE92-6519-4421-9658-35F192F5BABD",
     "timestamp" : "2025-10-29T21:00:00Z",
     "type" : "Auto Clock Out At Midnight"
+  },
+  {
+    "employeeId" : "29EAE04E-470D-4124-8038-200CCF2D63BC",
+    "id" : "6DF0D25C-A2F0-4418-80AC-3C54B5C8FE95",
+    "timestamp" : "2025-10-30T07:42:18Z",
+    "type" : "Clock In"
+  },
+  {
+    "employeeId" : "ABBF1404-78F1-4DB0-A35E-374CD9612909",
+    "id" : "61D5CB46-A745-450C-B73F-0BD67CAD28AC",
+    "timestamp" : "2025-10-30T07:43:16Z",
+    "type" : "Clock In"
   }
 ]
