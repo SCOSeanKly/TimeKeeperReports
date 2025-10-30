@@ -34324,5 +34324,11 @@
     "id" : "7BD1528F-D41A-4F2D-B2DC-21BF56C228D0",
     "timestamp" : "2025-10-30T10:53:36Z",
     "type" : "Break End"
+  },
+  {
+    "employeeId" : "7052DB49-F73F-47F0-9FB3-CF44601A7FC3",
+    "id" : "CC40F451-50D9-4410-AD2C-CDCB1F350237",
+    "timestamp" : "2025-10-30T12:33:16Z",
+    "type" : "Clock Out"
   }
 ]
