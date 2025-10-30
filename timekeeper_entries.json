@@ -34612,5 +34612,11 @@
     "id" : "B32FD935-CBD0-4846-9F65-E2A7EC194A55",
     "timestamp" : "2025-10-30T17:09:08Z",
     "type" : "Clock Out"
+  },
+  {
+    "employeeId" : "66FE14DE-3A62-4015-AA37-1E3ACB7A0632",
+    "id" : "3D5FC35C-3808-4E78-889F-039BF3E8A96E",
+    "timestamp" : "2025-10-30T17:13:50Z",
+    "type" : "Clock Out"
   }
 ]
