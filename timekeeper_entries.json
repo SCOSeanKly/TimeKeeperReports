@@ -35800,5 +35800,17 @@
     "id" : "611AE828-3D12-46B4-A601-667C673AF0B6",
     "timestamp" : "2025-11-03T17:49:11Z",
     "type" : "Clock Out"
+  },
+  {
+    "employeeId" : "57BA9115-ECC7-46ED-B99A-48B11ED17B76",
+    "id" : "CA3BC85C-94CD-4B46-A11F-8B339A854730",
+    "timestamp" : "2025-11-03T21:00:00Z",
+    "type" : "Clock Out"
+  },
+  {
+    "employeeId" : "57BA9115-ECC7-46ED-B99A-48B11ED17B76",
+    "id" : "710B98CD-285A-40DA-B06E-14AC4AFFA3DF",
+    "timestamp" : "2025-11-03T21:00:00Z",
+    "type" : "Auto Clock Out At Midnight"
   }
 ]
