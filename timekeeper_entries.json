@@ -36730,5 +36730,11 @@
     "id" : "A42C9F95-F512-4A1F-B3B6-F777FD722E05",
     "timestamp" : "2025-11-05T14:15:04Z",
     "type" : "Lunch Start"
+  },
+  {
+    "employeeId" : "953EA2A7-6C38-4C9B-98AD-A7927077E363",
+    "id" : "BE85DD25-E362-452A-8CAE-5E4F44F5D251",
+    "timestamp" : "2025-11-05T14:41:56Z",
+    "type" : "Lunch End"
   }
 ]
