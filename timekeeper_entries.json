@@ -37258,5 +37258,11 @@
     "id" : "A122A21C-DED1-4F5C-B38A-B9D323D61CE5",
     "timestamp" : "2025-11-06T15:43:30Z",
     "type" : "Clock In"
+  },
+  {
+    "employeeId" : "BE4E5108-1C7A-4396-BA60-985D0A0D25DC",
+    "id" : "7E8C03AB-CB0E-4262-B4F1-7CA8B9665EED",
+    "timestamp" : "2025-11-06T15:59:27Z",
+    "type" : "Clock Out"
   }
 ]
