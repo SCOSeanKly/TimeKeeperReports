@@ -37516,5 +37516,65 @@
     "id" : "C320F25F-A0EC-4110-A2D1-5D75075C0344",
     "timestamp" : "2025-11-07T10:37:17Z",
     "type" : "Break Start"
+  },
+  {
+    "employeeId" : "393F3D1F-F71E-4F88-8619-1CDD9BF9C9C2",
+    "id" : "56236582-8E1B-48AB-A08F-78250699EEC4",
+    "timestamp" : "2025-11-07T10:42:36Z",
+    "type" : "Break Start"
+  },
+  {
+    "employeeId" : "393F3D1F-F71E-4F88-8619-1CDD9BF9C9C2",
+    "id" : "17ECB951-91B7-433D-BEA8-5EBF8CD5CDA7",
+    "timestamp" : "2025-11-07T10:43:26Z",
+    "type" : "Break End"
+  },
+  {
+    "employeeId" : "BC7199E0-4065-4B2C-8863-CCA70D0AE8D3",
+    "id" : "32EA97E0-4E45-4BFF-BAD1-5BEF44CE7402",
+    "timestamp" : "2025-11-07T10:45:45Z",
+    "type" : "Break End"
+  },
+  {
+    "employeeId" : "337733FA-A522-41C0-9B46-2A6B5A1D00F9",
+    "id" : "BA039D6B-FAFD-4F4D-A103-4FECDE5764CE",
+    "timestamp" : "2025-11-07T10:46:03Z",
+    "type" : "Break End"
+  },
+  {
+    "employeeId" : "83F0962E-D531-4F32-952D-F84DE2EDD27F",
+    "id" : "E4B1B7F7-F992-4C56-8712-A04822EA24DA",
+    "timestamp" : "2025-11-07T10:46:33Z",
+    "type" : "Break End"
+  },
+  {
+    "employeeId" : "8328C48C-97D6-4E14-BE85-BB8763817CF8",
+    "id" : "5F3F1491-5565-4931-9FD8-1EA066B62F1D",
+    "timestamp" : "2025-11-07T10:46:47Z",
+    "type" : "Break Start"
+  },
+  {
+    "employeeId" : "29EAE04E-470D-4124-8038-200CCF2D63BC",
+    "id" : "929649FC-E63D-4BA6-9C17-FBEACEDAFE5F",
+    "timestamp" : "2025-11-07T10:46:56Z",
+    "type" : "Break End"
+  },
+  {
+    "employeeId" : "A89B7519-4C5C-4F70-9342-5BBCF890E719",
+    "id" : "FE407F11-3D74-4216-95B1-E91341408793",
+    "timestamp" : "2025-11-07T10:47:01Z",
+    "type" : "Break End"
+  },
+  {
+    "employeeId" : "3C4C3205-2DFC-4646-9AB9-49F73AD47A6A",
+    "id" : "64E5EF72-9069-49EA-BEE7-52B5E6B91E6D",
+    "timestamp" : "2025-11-07T10:50:53Z",
+    "type" : "Break End"
+  },
+  {
+    "employeeId" : "66FE14DE-3A62-4015-AA37-1E3ACB7A0632",
+    "id" : "5A68D71C-A62D-4666-B3C2-6B246678F501",
+    "timestamp" : "2025-11-07T10:51:29Z",
+    "type" : "Break End"
   }
 ]
