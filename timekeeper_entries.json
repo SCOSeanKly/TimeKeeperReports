@@ -37990,5 +37990,23 @@
     "id" : "F8A339E3-25C4-4CFE-ABE3-BB240E626290",
     "timestamp" : "2025-11-08T13:04:59Z",
     "type" : "Clock Out"
+  },
+  {
+    "employeeId" : "337733FA-A522-41C0-9B46-2A6B5A1D00F9",
+    "id" : "B85EDBFC-6A38-4827-A627-DEBFEC9A0E4C",
+    "timestamp" : "2025-11-08T13:07:43Z",
+    "type" : "Break Start"
+  },
+  {
+    "employeeId" : "337733FA-A522-41C0-9B46-2A6B5A1D00F9",
+    "id" : "407519FB-C1FA-4535-931B-D607100E3E1B",
+    "timestamp" : "2025-11-08T13:07:45Z",
+    "type" : "Break End"
+  },
+  {
+    "employeeId" : "337733FA-A522-41C0-9B46-2A6B5A1D00F9",
+    "id" : "7D9E8BA1-CD3C-4357-9ADE-8FBCEC36D7BB",
+    "timestamp" : "2025-11-08T13:07:49Z",
+    "type" : "Clock Out"
   }
 ]
