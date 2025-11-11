@@ -38674,5 +38674,11 @@
     "id" : "CD90DE50-E5A1-45A1-A7FF-CC4C27592D7D",
     "timestamp" : "2025-11-11T12:38:41Z",
     "type" : "Lunch Start"
+  },
+  {
+    "employeeId" : "D56675E7-D446-4F6D-BC07-06072C9146BE",
+    "id" : "040AEA6A-7E68-420F-81D6-FA9A4A7F9498",
+    "timestamp" : "2025-11-11T13:11:50Z",
+    "type" : "Lunch End"
   }
 ]
