@@ -39106,5 +39106,11 @@
     "id" : "993CAF6F-B89D-450A-92B1-8FE1DDA95FF8",
     "timestamp" : "2025-11-12T10:55:21Z",
     "type" : "Break Start"
+  },
+  {
+    "employeeId" : "66FE14DE-3A62-4015-AA37-1E3ACB7A0632",
+    "id" : "C71FC6EA-5B56-47E3-9148-F849EEA0AD64",
+    "timestamp" : "2025-11-12T11:08:57Z",
+    "type" : "Break End"
   }
 ]
