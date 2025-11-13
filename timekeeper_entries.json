@@ -39370,5 +39370,17 @@
     "id" : "34AFB043-28C4-44EB-9E02-712760E0CAF8",
     "timestamp" : "2025-11-12T19:56:09Z",
     "type" : "Clock Out"
+  },
+  {
+    "employeeId" : "F0064293-8B19-496C-979F-E3265BEFD5C9",
+    "id" : "BB898AFE-3FBF-4621-855A-D2585023D8A2",
+    "timestamp" : "2025-11-13T07:47:54Z",
+    "type" : "Clock In"
+  },
+  {
+    "employeeId" : "ABBF1404-78F1-4DB0-A35E-374CD9612909",
+    "id" : "C5647B37-94DE-481C-BB46-557D9F36BB2E",
+    "timestamp" : "2025-11-13T07:48:10Z",
+    "type" : "Clock In"
   }
 ]
