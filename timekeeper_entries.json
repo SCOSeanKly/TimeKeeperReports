@@ -40030,5 +40030,11 @@
     "id" : "0302E00A-7304-4520-B535-7A9596DAAC66",
     "timestamp" : "2025-11-14T11:01:09Z",
     "type" : "Break Start"
+  },
+  {
+    "employeeId" : "8328C48C-97D6-4E14-BE85-BB8763817CF8",
+    "id" : "B2B5352B-E514-4627-ABAA-5EC3DF990BC6",
+    "timestamp" : "2025-11-14T11:15:59Z",
+    "type" : "Break End"
   }
 ]
