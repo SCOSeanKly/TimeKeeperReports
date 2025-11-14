@@ -40036,5 +40036,11 @@
     "id" : "B2B5352B-E514-4627-ABAA-5EC3DF990BC6",
     "timestamp" : "2025-11-14T11:15:59Z",
     "type" : "Break End"
+  },
+  {
+    "employeeId" : "66FE14DE-3A62-4015-AA37-1E3ACB7A0632",
+    "id" : "AC61C608-B826-4A26-96BC-8045E7FC6249",
+    "timestamp" : "2025-11-14T12:36:17Z",
+    "type" : "Clock Out"
   }
 ]
