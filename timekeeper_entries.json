@@ -40012,5 +40012,23 @@
     "id" : "1059815B-F63A-4B37-AB30-A1104C715779",
     "timestamp" : "2025-11-14T10:52:36Z",
     "type" : "Break End"
+  },
+  {
+    "employeeId" : "66FE14DE-3A62-4015-AA37-1E3ACB7A0632",
+    "id" : "B38423B5-3ECF-4D69-8031-33DC48A49A12",
+    "timestamp" : "2025-11-14T10:57:05Z",
+    "type" : "Break End"
+  },
+  {
+    "employeeId" : "A89B7519-4C5C-4F70-9342-5BBCF890E719",
+    "id" : "2BDE4011-A13F-4761-B32C-B88948F47D12",
+    "timestamp" : "2025-11-14T11:00:59Z",
+    "type" : "Break End"
+  },
+  {
+    "employeeId" : "8328C48C-97D6-4E14-BE85-BB8763817CF8",
+    "id" : "0302E00A-7304-4520-B535-7A9596DAAC66",
+    "timestamp" : "2025-11-14T11:01:09Z",
+    "type" : "Break Start"
   }
 ]
