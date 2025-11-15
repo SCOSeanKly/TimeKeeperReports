@@ -40270,5 +40270,11 @@
     "id" : "25D7CF6D-7866-4ED0-9DB2-8FF265AA5D9D",
     "timestamp" : "2025-11-15T07:59:23Z",
     "type" : "Clock In"
+  },
+  {
+    "employeeId" : "F0064293-8B19-496C-979F-E3265BEFD5C9",
+    "id" : "2687F969-E99E-4DEF-B145-FC4D8CEBBFF4",
+    "timestamp" : "2025-11-15T11:00:01Z",
+    "type" : "Clock Out"
   }
 ]
