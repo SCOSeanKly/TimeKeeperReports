@@ -40702,5 +40702,11 @@
     "id" : "1B7BC699-878F-4EB0-A6BE-EE96ED37F1C5",
     "timestamp" : "2025-11-17T14:05:52Z",
     "type" : "Lunch End"
+  },
+  {
+    "employeeId" : "953EA2A7-6C38-4C9B-98AD-A7927077E363",
+    "id" : "2EC8E7AA-F91E-479B-8355-334394AA23C9",
+    "timestamp" : "2025-11-17T14:11:33Z",
+    "type" : "Lunch Start"
   }
 ]
