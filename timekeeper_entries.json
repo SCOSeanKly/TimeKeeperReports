@@ -40774,5 +40774,17 @@
     "id" : "52133A66-7A95-4452-ADB6-9ECA3206575E",
     "timestamp" : "2025-11-17T17:06:59Z",
     "type" : "Clock Out"
+  },
+  {
+    "employeeId" : "BD0902DD-373B-433A-953A-755F88CBF221",
+    "id" : "5BF69137-CE62-40CB-B990-9E5C1808F840",
+    "timestamp" : "2025-11-17T17:11:02Z",
+    "type" : "Clock Out"
+  },
+  {
+    "employeeId" : "3C4C3205-2DFC-4646-9AB9-49F73AD47A6A",
+    "id" : "6BBC777D-01C0-4D89-8AAF-03FA6F0D3FC7",
+    "timestamp" : "2025-11-17T17:12:59Z",
+    "type" : "Clock Out"
   }
 ]
