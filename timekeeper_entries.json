@@ -41290,5 +41290,11 @@
     "id" : "5F40F766-64DA-4842-AFD2-EE21571346DD",
     "timestamp" : "2025-11-18T14:08:58Z",
     "type" : "Lunch End"
+  },
+  {
+    "employeeId" : "953EA2A7-6C38-4C9B-98AD-A7927077E363",
+    "id" : "167644D0-E903-484C-AEAA-95B69557D701",
+    "timestamp" : "2025-11-18T14:12:59Z",
+    "type" : "Lunch Start"
   }
 ]
