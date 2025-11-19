@@ -41806,5 +41806,11 @@
     "id" : "CAA65218-AD13-424F-A04C-23C587B709F6",
     "timestamp" : "2025-11-19T13:39:20Z",
     "type" : "Lunch Start"
+  },
+  {
+    "employeeId" : "337733FA-A522-41C0-9B46-2A6B5A1D00F9",
+    "id" : "E00C1322-0259-4118-B1D6-32169FA8F7AA",
+    "timestamp" : "2025-11-19T13:52:22Z",
+    "type" : "Lunch End"
   }
 ]
