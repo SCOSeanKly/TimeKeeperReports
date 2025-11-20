@@ -42286,5 +42286,35 @@
     "id" : "E9FEEC21-55BC-4994-AC51-A0F81F61BA2C",
     "timestamp" : "2025-11-20T10:54:09Z",
     "type" : "Break End"
+  },
+  {
+    "employeeId" : "A89B7519-4C5C-4F70-9342-5BBCF890E719",
+    "id" : "8A0C027B-66B8-490C-8BA7-137680FE0ABC",
+    "timestamp" : "2025-11-20T13:27:20Z",
+    "type" : "Lunch Start"
+  },
+  {
+    "employeeId" : "394EE8BC-3145-4010-B8D1-B4965EAA9296",
+    "id" : "3B17A5A3-CE70-4A74-870C-16ABCFCA5A5C",
+    "timestamp" : "2025-11-20T13:29:58Z",
+    "type" : "Lunch Start"
+  },
+  {
+    "employeeId" : "F0064293-8B19-496C-979F-E3265BEFD5C9",
+    "id" : "DD85C3A4-5098-4904-9CEB-ECC91A2E52F1",
+    "timestamp" : "2025-11-20T13:30:32Z",
+    "type" : "Lunch Start"
+  },
+  {
+    "employeeId" : "953EA2A7-6C38-4C9B-98AD-A7927077E363",
+    "id" : "D1F5D1D1-7B19-4F5A-955C-D6839E5EB356",
+    "timestamp" : "2025-11-20T13:32:12Z",
+    "type" : "Clock Out"
+  },
+  {
+    "employeeId" : "7052DB49-F73F-47F0-9FB3-CF44601A7FC3",
+    "id" : "253C2684-C0FA-4111-ABB2-A206B53ABCB6",
+    "timestamp" : "2025-11-20T13:34:11Z",
+    "type" : "Lunch Start"
   }
 ]
