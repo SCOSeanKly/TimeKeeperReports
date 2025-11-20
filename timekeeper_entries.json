@@ -42124,5 +42124,17 @@
     "id" : "1E250991-CFD4-4D11-8D33-5CDC8EA98CF8",
     "timestamp" : "2025-11-20T08:25:50Z",
     "type" : "Clock In"
+  },
+  {
+    "employeeId" : "3C4C3205-2DFC-4646-9AB9-49F73AD47A6A",
+    "id" : "AA1E3205-89C0-47AF-8FEE-8050A27B0C08",
+    "timestamp" : "2025-11-20T08:33:12Z",
+    "type" : "Clock In"
+  },
+  {
+    "employeeId" : "7052DB49-F73F-47F0-9FB3-CF44601A7FC3",
+    "id" : "CBDCC39A-33AB-45C5-B933-2AA4C70FB669",
+    "timestamp" : "2025-11-20T08:36:55Z",
+    "type" : "Clock In"
   }
 ]
