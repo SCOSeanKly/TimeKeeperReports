@@ -42142,5 +42142,11 @@
     "id" : "700BB172-1253-4D15-820A-2F609A09F7E2",
     "timestamp" : "2025-11-20T09:03:21Z",
     "type" : "Clock In"
+  },
+  {
+    "employeeId" : "BC7199E0-4065-4B2C-8863-CCA70D0AE8D3",
+    "id" : "BFAD2FC2-F008-4A9A-97F2-5AE4C5C22BC8",
+    "timestamp" : "2025-11-20T00:00:00Z",
+    "type" : "Sick Day"
   }
 ]
