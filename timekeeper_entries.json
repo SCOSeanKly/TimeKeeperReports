@@ -42040,5 +42040,17 @@
     "id" : "BD6F60BD-CCD2-4417-843D-107D95B7C5D5",
     "timestamp" : "2025-11-19T19:55:26Z",
     "type" : "Clock Out"
+  },
+  {
+    "employeeId" : "ABBF1404-78F1-4DB0-A35E-374CD9612909",
+    "id" : "66786479-7023-4D0D-A4AC-CA998684077A",
+    "timestamp" : "2025-11-20T07:45:09Z",
+    "type" : "Clock In"
+  },
+  {
+    "employeeId" : "FB905CE7-9CA9-46C5-AD56-97C41D7FF9CE",
+    "id" : "EEDE0F90-D464-4E6D-9A30-643932174D57",
+    "timestamp" : "2025-11-20T07:48:02Z",
+    "type" : "Clock In"
   }
 ]
