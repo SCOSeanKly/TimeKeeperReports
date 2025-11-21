@@ -43060,5 +43060,11 @@
     "id" : "80B61B37-ABA2-4F28-A601-D07BA6E85E1F",
     "timestamp" : "2025-11-21T16:32:59Z",
     "type" : "Clock Out"
+  },
+  {
+    "employeeId" : "2D3EC73F-366E-466C-8516-C0AF231C271E",
+    "id" : "6B9B9583-78C7-4A3D-975C-2FEAF10CF33E",
+    "timestamp" : "2025-11-21T16:55:21Z",
+    "type" : "Clock Out"
   }
 ]
