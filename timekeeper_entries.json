@@ -42694,5 +42694,65 @@
     "id" : "C391CD0F-C72F-44F2-A605-13934B2383CB",
     "timestamp" : "2025-11-21T08:34:03Z",
     "type" : "Clock In"
+  },
+  {
+    "employeeId" : "393F3D1F-F71E-4F88-8619-1CDD9BF9C9C2",
+    "id" : "145EAA05-99BB-41D9-827B-296C7F4549B0",
+    "timestamp" : "2025-11-21T10:29:51Z",
+    "type" : "Break Start"
+  },
+  {
+    "employeeId" : "393F3D1F-F71E-4F88-8619-1CDD9BF9C9C2",
+    "id" : "EFB3754D-7A53-42D5-A1E0-114BC07B7911",
+    "timestamp" : "2025-11-21T10:29:53Z",
+    "type" : "Break End"
+  },
+  {
+    "employeeId" : "F0064293-8B19-496C-979F-E3265BEFD5C9",
+    "id" : "64477D1F-E2C3-49B6-AA3C-C34DB3E5CA08",
+    "timestamp" : "2025-11-21T10:30:10Z",
+    "type" : "Break Start"
+  },
+  {
+    "employeeId" : "BC7199E0-4065-4B2C-8863-CCA70D0AE8D3",
+    "id" : "E6AD137D-EB3B-4B9B-8E83-434250EA314F",
+    "timestamp" : "2025-11-21T10:30:35Z",
+    "type" : "Break Start"
+  },
+  {
+    "employeeId" : "2D3EC73F-366E-466C-8516-C0AF231C271E",
+    "id" : "F4810178-120A-4A5B-A042-DE4791E72876",
+    "timestamp" : "2025-11-21T10:32:06Z",
+    "type" : "Break Start"
+  },
+  {
+    "employeeId" : "2D3EC73F-366E-466C-8516-C0AF231C271E",
+    "id" : "A7F20541-B57E-40BC-A757-262B881D15CA",
+    "timestamp" : "2025-11-21T10:32:09Z",
+    "type" : "Break End"
+  },
+  {
+    "employeeId" : "3C4C3205-2DFC-4646-9AB9-49F73AD47A6A",
+    "id" : "BF9A9A83-F2A7-44BA-916A-49349BC4B540",
+    "timestamp" : "2025-11-21T10:33:15Z",
+    "type" : "Break Start"
+  },
+  {
+    "employeeId" : "337733FA-A522-41C0-9B46-2A6B5A1D00F9",
+    "id" : "E846327B-D1DB-454B-BBF9-6AB691637265",
+    "timestamp" : "2025-11-21T10:33:55Z",
+    "type" : "Break Start"
+  },
+  {
+    "employeeId" : "66FE14DE-3A62-4015-AA37-1E3ACB7A0632",
+    "id" : "166BDA11-D842-457E-AB46-E9DEA2091C59",
+    "timestamp" : "2025-11-21T10:34:09Z",
+    "type" : "Break Start"
+  },
+  {
+    "employeeId" : "83F0962E-D531-4F32-952D-F84DE2EDD27F",
+    "id" : "19E2131D-AAE4-4722-96D3-C367EB2F68AD",
+    "timestamp" : "2025-11-21T10:36:36Z",
+    "type" : "Break Start"
   }
 ]
