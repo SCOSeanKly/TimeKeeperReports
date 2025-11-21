@@ -43030,5 +43030,11 @@
     "id" : "0F4EEEA8-2516-4369-9BFF-3962BC6C228D",
     "timestamp" : "2025-11-21T14:08:46Z",
     "type" : "Lunch End"
+  },
+  {
+    "employeeId" : "BE4E5108-1C7A-4396-BA60-985D0A0D25DC",
+    "id" : "3E35EBD5-8729-4D55-9F50-3114F73E76D2",
+    "timestamp" : "2025-11-21T15:58:07Z",
+    "type" : "Clock Out"
   }
 ]
