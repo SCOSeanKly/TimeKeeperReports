@@ -43168,5 +43168,23 @@
     "id" : "DFF44A04-1AB9-4344-A16A-0F1FAB34E9B9",
     "timestamp" : "2025-11-22T12:47:55Z",
     "type" : "Clock Out"
+  },
+  {
+    "employeeId" : "3C4C3205-2DFC-4646-9AB9-49F73AD47A6A",
+    "id" : "3018F71D-75B8-4AE2-A798-C3929E4A8E52",
+    "timestamp" : "2025-11-22T12:54:34Z",
+    "type" : "Clock Out"
+  },
+  {
+    "employeeId" : "337733FA-A522-41C0-9B46-2A6B5A1D00F9",
+    "id" : "54C68D15-A712-407A-BEF0-28F5E5E86C45",
+    "timestamp" : "2025-11-22T12:58:20Z",
+    "type" : "Clock Out"
+  },
+  {
+    "employeeId" : "BE4E5108-1C7A-4396-BA60-985D0A0D25DC",
+    "id" : "B1F728C3-5947-41BB-AF12-C1B7DF9E986B",
+    "timestamp" : "2025-11-22T12:58:48Z",
+    "type" : "Clock Out"
   }
 ]
