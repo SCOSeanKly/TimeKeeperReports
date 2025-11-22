@@ -43156,5 +43156,11 @@
     "id" : "5DCE5FA3-09EA-4E1B-9D08-15EE5D0FD4A0",
     "timestamp" : "2025-11-22T11:00:19Z",
     "type" : "Clock Out"
+  },
+  {
+    "employeeId" : "57BA9115-ECC7-46ED-B99A-48B11ED17B76",
+    "id" : "C46DEC43-05EF-4CF1-8CDB-380224F23618",
+    "timestamp" : "2025-11-22T11:51:46Z",
+    "type" : "Clock In"
   }
 ]
