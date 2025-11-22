@@ -43102,5 +43102,23 @@
     "id" : "B51B2CE3-D305-4E66-B5AC-F4AAEECCD5C7",
     "timestamp" : "2025-11-21T17:17:35Z",
     "type" : "Clock Out"
+  },
+  {
+    "employeeId" : "7052DB49-F73F-47F0-9FB3-CF44601A7FC3",
+    "id" : "E3E9998F-D0E9-486D-BBF6-9401D652D625",
+    "timestamp" : "2025-11-21T17:30:03Z",
+    "type" : "Clock Out"
+  },
+  {
+    "employeeId" : "D56675E7-D446-4F6D-BC07-06072C9146BE",
+    "id" : "70930270-60F9-45FD-9413-38B20A086488",
+    "timestamp" : "2025-11-21T17:30:17Z",
+    "type" : "Clock Out"
+  },
+  {
+    "employeeId" : "29EAE04E-470D-4124-8038-200CCF2D63BC",
+    "id" : "D0D05E6B-246C-4344-8F01-7708FF04EE06",
+    "timestamp" : "2025-11-21T17:30:24Z",
+    "type" : "Clock Out"
   }
 ]
