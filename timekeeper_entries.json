@@ -43600,5 +43600,17 @@
     "id" : "10185783-0FAC-405E-9673-C1A2DB4F46F4",
     "timestamp" : "2025-11-24T14:13:52Z",
     "type" : "Lunch End"
+  },
+  {
+    "employeeId" : "394EE8BC-3145-4010-B8D1-B4965EAA9296",
+    "id" : "36D22181-5694-46CB-BE25-3233F58C50F5",
+    "timestamp" : "2025-11-24T14:14:03Z",
+    "type" : "Lunch Start"
+  },
+  {
+    "employeeId" : "394EE8BC-3145-4010-B8D1-B4965EAA9296",
+    "id" : "1BD8EADE-E12D-4316-A385-4A786C2D3E56",
+    "timestamp" : "2025-11-24T14:14:06Z",
+    "type" : "Lunch End"
   }
 ]
