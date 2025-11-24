@@ -43228,5 +43228,17 @@
     "id" : "D6DA446A-9EF3-45BB-8343-4C91C0FD3F76",
     "timestamp" : "2025-11-24T08:00:19Z",
     "type" : "Clock In"
+  },
+  {
+    "employeeId" : "BD0902DD-373B-433A-953A-755F88CBF221",
+    "id" : "A44562D5-E786-4216-A21F-D7CBE3B76807",
+    "timestamp" : "2025-11-24T08:01:46Z",
+    "type" : "Clock In"
+  },
+  {
+    "employeeId" : "394EE8BC-3145-4010-B8D1-B4965EAA9296",
+    "id" : "0B10BC37-37ED-4122-A915-18977B297F1D",
+    "timestamp" : "2025-11-24T08:04:15Z",
+    "type" : "Clock In"
   }
 ]
