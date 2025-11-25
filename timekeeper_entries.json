@@ -44158,5 +44158,11 @@
     "id" : "A7263813-B3BF-4DBF-AFD9-39BE5F4ACA43",
     "timestamp" : "2025-11-25T14:15:45Z",
     "type" : "Lunch Start"
+  },
+  {
+    "employeeId" : "953EA2A7-6C38-4C9B-98AD-A7927077E363",
+    "id" : "2D1B9D96-4822-424E-83A4-3CE6DB71A1C9",
+    "timestamp" : "2025-11-25T14:41:18Z",
+    "type" : "Lunch End"
   }
 ]
