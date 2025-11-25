@@ -44134,5 +44134,23 @@
     "id" : "8E0752D9-B267-4070-ABD5-80E9ACDD4CF1",
     "timestamp" : "2025-11-25T14:06:36Z",
     "type" : "Lunch End"
+  },
+  {
+    "employeeId" : "7052DB49-F73F-47F0-9FB3-CF44601A7FC3",
+    "id" : "14890D33-7B0A-4FCA-8969-5F9D9D7B3671",
+    "timestamp" : "2025-11-25T14:10:10Z",
+    "type" : "Lunch End"
+  },
+  {
+    "employeeId" : "7052DB49-F73F-47F0-9FB3-CF44601A7FC3",
+    "id" : "4D7E9EA4-93B6-4956-9319-FCC054D8792A",
+    "timestamp" : "2025-11-25T14:10:11Z",
+    "type" : "Lunch End"
+  },
+  {
+    "employeeId" : "8328C48C-97D6-4E14-BE85-BB8763817CF8",
+    "id" : "98471677-7B7B-4884-83BD-506F65B84EB0",
+    "timestamp" : "2025-11-25T14:13:09Z",
+    "type" : "Lunch End"
   }
 ]
