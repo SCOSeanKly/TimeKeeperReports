@@ -44170,5 +44170,11 @@
     "id" : "BF07A763-9954-4FF1-9571-E647FD20CAE0",
     "timestamp" : "2025-11-25T15:42:42Z",
     "type" : "Clock In"
+  },
+  {
+    "employeeId" : "BE4E5108-1C7A-4396-BA60-985D0A0D25DC",
+    "id" : "0AD2D577-58EE-4206-9E68-A84AE3B2FFA0",
+    "timestamp" : "2025-11-25T16:02:44Z",
+    "type" : "Clock Out"
   }
 ]
