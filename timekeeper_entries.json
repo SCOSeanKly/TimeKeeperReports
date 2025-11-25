@@ -44242,5 +44242,11 @@
     "id" : "BBA87106-BEE6-4EAF-9745-BD309701855F",
     "timestamp" : "2025-11-25T17:07:26Z",
     "type" : "Clock Out"
+  },
+  {
+    "employeeId" : "3C4C3205-2DFC-4646-9AB9-49F73AD47A6A",
+    "id" : "E8802F9A-E142-4400-9608-D6778BFDAEFB",
+    "timestamp" : "2025-11-25T17:10:00Z",
+    "type" : "Clock Out"
   }
 ]
