@@ -44632,5 +44632,17 @@
     "id" : "524508C1-BEF6-4196-B44E-85E596CB403F",
     "timestamp" : "2025-11-26T14:02:31Z",
     "type" : "Lunch End"
+  },
+  {
+    "employeeId" : "8328C48C-97D6-4E14-BE85-BB8763817CF8",
+    "id" : "D1D66A34-5848-4789-AE2D-9621F264830A",
+    "timestamp" : "2025-11-26T14:08:09Z",
+    "type" : "Lunch End"
+  },
+  {
+    "employeeId" : "BD0902DD-373B-433A-953A-755F88CBF221",
+    "id" : "03219059-48C0-4C5E-ABAA-39FB5896AAED",
+    "timestamp" : "2025-11-26T14:12:41Z",
+    "type" : "Lunch End"
   }
 ]
