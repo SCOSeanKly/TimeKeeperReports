@@ -44488,5 +44488,11 @@
     "id" : "EC42AA7D-4E2A-4E70-AF63-BE6B22D7B82B",
     "timestamp" : "2025-11-26T10:53:20Z",
     "type" : "Break Start"
+  },
+  {
+    "employeeId" : "66FE14DE-3A62-4015-AA37-1E3ACB7A0632",
+    "id" : "4FCC92FD-A36E-4CB4-B1A6-7F8ECE573FA8",
+    "timestamp" : "2025-11-26T11:04:13Z",
+    "type" : "Break End"
   }
 ]
