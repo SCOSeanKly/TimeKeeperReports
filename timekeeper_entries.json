@@ -44722,5 +44722,17 @@
     "id" : "11EC7FDC-8DBA-4364-A74F-CD083F9ADCFF",
     "timestamp" : "2025-11-26T17:04:11Z",
     "type" : "Clock Out"
+  },
+  {
+    "employeeId" : "BD0902DD-373B-433A-953A-755F88CBF221",
+    "id" : "77712B29-421B-40E1-A8A5-F8193BA493EF",
+    "timestamp" : "2025-11-26T17:14:00Z",
+    "type" : "Clock Out"
+  },
+  {
+    "employeeId" : "3C4C3205-2DFC-4646-9AB9-49F73AD47A6A",
+    "id" : "793A809A-4577-4F4E-B53F-5A6C979C70EE",
+    "timestamp" : "2025-11-26T17:16:26Z",
+    "type" : "Clock Out"
   }
 ]
