@@ -44734,5 +44734,23 @@
     "id" : "793A809A-4577-4F4E-B53F-5A6C979C70EE",
     "timestamp" : "2025-11-26T17:16:26Z",
     "type" : "Clock Out"
+  },
+  {
+    "employeeId" : "953EA2A7-6C38-4C9B-98AD-A7927077E363",
+    "id" : "3180EBC1-B3FC-4B98-9DF9-AB7E1A6B9C70",
+    "timestamp" : "2025-11-26T17:31:10Z",
+    "type" : "Clock Out"
+  },
+  {
+    "employeeId" : "29EAE04E-470D-4124-8038-200CCF2D63BC",
+    "id" : "30BCD941-7F2A-4892-AA64-25B3C757E3B0",
+    "timestamp" : "2025-11-26T17:31:15Z",
+    "type" : "Clock Out"
+  },
+  {
+    "employeeId" : "7052DB49-F73F-47F0-9FB3-CF44601A7FC3",
+    "id" : "78B2B2B8-39EB-4892-A522-B452E4CF3DEA",
+    "timestamp" : "2025-11-26T17:31:41Z",
+    "type" : "Clock Out"
   }
 ]
