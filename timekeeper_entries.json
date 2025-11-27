@@ -45232,5 +45232,17 @@
     "id" : "CCED1CE5-3C6C-45A6-9F8C-3431A3439A00",
     "timestamp" : "2025-11-27T17:07:18Z",
     "type" : "Clock Out"
+  },
+  {
+    "employeeId" : "3C4C3205-2DFC-4646-9AB9-49F73AD47A6A",
+    "id" : "B38B0602-4260-4A5C-8E8E-DBB19349E3EB",
+    "timestamp" : "2025-11-27T17:14:29Z",
+    "type" : "Clock Out"
+  },
+  {
+    "employeeId" : "29EAE04E-470D-4124-8038-200CCF2D63BC",
+    "id" : "2CD7DCEB-DDED-4120-BB09-AF81C60FFD46",
+    "timestamp" : "2025-11-27T17:18:26Z",
+    "type" : "Clock Out"
   }
 ]
