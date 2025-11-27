@@ -45166,5 +45166,11 @@
     "id" : "1BD88FE1-1397-4F1E-8E7D-DD5D69C42CD5",
     "timestamp" : "2025-11-27T15:44:29Z",
     "type" : "Clock In"
+  },
+  {
+    "employeeId" : "BE4E5108-1C7A-4396-BA60-985D0A0D25DC",
+    "id" : "EA7D3BF2-380F-4423-9CD4-83C26430D065",
+    "timestamp" : "2025-11-27T16:01:11Z",
+    "type" : "Clock Out"
   }
 ]
