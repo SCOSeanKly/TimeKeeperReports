@@ -45160,5 +45160,11 @@
     "id" : "7E240D31-DEF2-48F1-B694-DAE1B4DC9F21",
     "timestamp" : "2025-11-27T14:06:50Z",
     "type" : "Lunch End"
+  },
+  {
+    "employeeId" : "57BA9115-ECC7-46ED-B99A-48B11ED17B76",
+    "id" : "1BD88FE1-1397-4F1E-8E7D-DD5D69C42CD5",
+    "timestamp" : "2025-11-27T15:44:29Z",
+    "type" : "Clock In"
   }
 ]
