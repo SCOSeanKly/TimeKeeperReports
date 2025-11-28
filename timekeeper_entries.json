@@ -45274,5 +45274,65 @@
     "id" : "E05D9D7D-8A64-4451-B8B4-D9C73AC06E8A",
     "timestamp" : "2025-11-27T19:50:47Z",
     "type" : "Clock Out"
+  },
+  {
+    "employeeId" : "ABBF1404-78F1-4DB0-A35E-374CD9612909",
+    "id" : "13156A3F-8A3D-4DE1-A175-03FCF4F67C6B",
+    "timestamp" : "2025-11-28T07:50:18Z",
+    "type" : "Clock In"
+  },
+  {
+    "employeeId" : "F0064293-8B19-496C-979F-E3265BEFD5C9",
+    "id" : "A5D4FA58-4657-47A3-87CA-594540464C5D",
+    "timestamp" : "2025-11-28T07:54:32Z",
+    "type" : "Clock In"
+  },
+  {
+    "employeeId" : "7052DB49-F73F-47F0-9FB3-CF44601A7FC3",
+    "id" : "05249EF1-A81F-4A45-83F1-BD6F88E09A4A",
+    "timestamp" : "2025-11-28T07:55:04Z",
+    "type" : "Clock In"
+  },
+  {
+    "employeeId" : "8328C48C-97D6-4E14-BE85-BB8763817CF8",
+    "id" : "9B7084EC-01D3-45FC-82FD-2103A8BB9129",
+    "timestamp" : "2025-11-28T07:55:32Z",
+    "type" : "Clock In"
+  },
+  {
+    "employeeId" : "2D3EC73F-366E-466C-8516-C0AF231C271E",
+    "id" : "7BE1225F-83FA-42BA-9676-52876C43450D",
+    "timestamp" : "2025-11-28T07:56:18Z",
+    "type" : "Clock In"
+  },
+  {
+    "employeeId" : "BC7199E0-4065-4B2C-8863-CCA70D0AE8D3",
+    "id" : "F114954A-1B5C-436B-AED6-540D1840BAB3",
+    "timestamp" : "2025-11-28T07:56:37Z",
+    "type" : "Clock In"
+  },
+  {
+    "employeeId" : "BD0902DD-373B-433A-953A-755F88CBF221",
+    "id" : "B3A92B24-2B14-4761-B9A7-3E9121F862B0",
+    "timestamp" : "2025-11-28T07:58:01Z",
+    "type" : "Clock In"
+  },
+  {
+    "employeeId" : "393F3D1F-F71E-4F88-8619-1CDD9BF9C9C2",
+    "id" : "8A9B63C9-275A-4977-A969-F3A8099640AD",
+    "timestamp" : "2025-11-28T07:59:57Z",
+    "type" : "Clock In"
+  },
+  {
+    "employeeId" : "29EAE04E-470D-4124-8038-200CCF2D63BC",
+    "id" : "EA334D3D-54CD-4F47-8BC1-F7A765A9102A",
+    "timestamp" : "2025-11-28T08:01:17Z",
+    "type" : "Clock In"
+  },
+  {
+    "employeeId" : "394EE8BC-3145-4010-B8D1-B4965EAA9296",
+    "id" : "5AB90E89-E2E3-4711-8DF6-240405F3F847",
+    "timestamp" : "2025-11-28T08:04:10Z",
+    "type" : "Clock In"
   }
 ]
