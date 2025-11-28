@@ -45520,5 +45520,23 @@
     "id" : "08FAF611-45EC-478A-8506-24B56C8FD774",
     "timestamp" : "2025-11-28T11:32:43Z",
     "type" : "Break End"
+  },
+  {
+    "employeeId" : "29EAE04E-470D-4124-8038-200CCF2D63BC",
+    "id" : "6441E579-8EAF-42D9-92FC-AF9544330260",
+    "timestamp" : "2025-11-28T12:31:16Z",
+    "type" : "Lunch Start"
+  },
+  {
+    "employeeId" : "29EAE04E-470D-4124-8038-200CCF2D63BC",
+    "id" : "B722160B-C714-4E86-A494-67B4BFDA1D5D",
+    "timestamp" : "2025-11-28T12:31:19Z",
+    "type" : "Lunch End"
+  },
+  {
+    "employeeId" : "29EAE04E-470D-4124-8038-200CCF2D63BC",
+    "id" : "975D3DF4-686E-49FE-84B1-1B642D663F6C",
+    "timestamp" : "2025-11-28T12:31:29Z",
+    "type" : "Clock Out"
   }
 ]
