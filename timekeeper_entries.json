@@ -45454,5 +45454,23 @@
     "id" : "6ADCB3E9-2966-4910-B23D-6604FA2BFBBE",
     "timestamp" : "2025-11-28T10:36:38Z",
     "type" : "Break Start"
+  },
+  {
+    "employeeId" : "83F0962E-D531-4F32-952D-F84DE2EDD27F",
+    "id" : "8700AA58-93D5-4267-A271-03E6E2914B3E",
+    "timestamp" : "2025-11-28T10:42:16Z",
+    "type" : "Break End"
+  },
+  {
+    "employeeId" : "337733FA-A522-41C0-9B46-2A6B5A1D00F9",
+    "id" : "05D46FB9-594E-4A7C-A025-F4E2C0DDFDBC",
+    "timestamp" : "2025-11-28T10:44:16Z",
+    "type" : "Break End"
+  },
+  {
+    "employeeId" : "F0064293-8B19-496C-979F-E3265BEFD5C9",
+    "id" : "60B87221-CC7C-4F81-BD2A-E83294617943",
+    "timestamp" : "2025-11-28T10:46:21Z",
+    "type" : "Break End"
   }
 ]
