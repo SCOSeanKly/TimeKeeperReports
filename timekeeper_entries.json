@@ -45784,5 +45784,23 @@
     "id" : "8EBF04C8-2D17-4533-95AC-98B834AE4C25",
     "timestamp" : "2025-11-29T07:50:35Z",
     "type" : "Clock In"
+  },
+  {
+    "employeeId" : "BD0902DD-373B-433A-953A-755F88CBF221",
+    "id" : "4CDA6DEE-87F7-47D3-B97B-7A6EF9299344",
+    "timestamp" : "2025-11-29T07:57:02Z",
+    "type" : "Clock In"
+  },
+  {
+    "employeeId" : "7052DB49-F73F-47F0-9FB3-CF44601A7FC3",
+    "id" : "A09A1C0A-3AA2-4200-92D5-A14027045D06",
+    "timestamp" : "2025-11-29T07:57:47Z",
+    "type" : "Clock In"
+  },
+  {
+    "employeeId" : "29EAE04E-470D-4124-8038-200CCF2D63BC",
+    "id" : "DF45C509-3820-468F-A8D3-53FB2028E56F",
+    "timestamp" : "2025-11-29T07:59:43Z",
+    "type" : "Clock In"
   }
 ]
