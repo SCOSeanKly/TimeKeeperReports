@@ -45802,5 +45802,11 @@
     "id" : "DF45C509-3820-468F-A8D3-53FB2028E56F",
     "timestamp" : "2025-11-29T07:59:43Z",
     "type" : "Clock In"
+  },
+  {
+    "employeeId" : "7052DB49-F73F-47F0-9FB3-CF44601A7FC3",
+    "id" : "4C088C6E-C85F-4B30-89B0-BD20DA3FEA24",
+    "timestamp" : "2025-11-29T13:00:03Z",
+    "type" : "Clock Out"
   }
 ]
