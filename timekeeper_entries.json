@@ -45880,5 +45880,17 @@
     "id" : "116D7F17-F7B3-405F-92BE-E988A8F9F329",
     "timestamp" : "2025-12-01T08:13:09Z",
     "type" : "Clock In"
+  },
+  {
+    "employeeId" : "83F0962E-D531-4F32-952D-F84DE2EDD27F",
+    "id" : "224C02BC-0FD4-4672-ADB1-2E2108D253B7",
+    "timestamp" : "2025-12-01T08:22:09Z",
+    "type" : "Clock In"
+  },
+  {
+    "employeeId" : "66FE14DE-3A62-4015-AA37-1E3ACB7A0632",
+    "id" : "DE03AA72-2066-4563-8623-4F385DB124C2",
+    "timestamp" : "2025-12-01T08:25:11Z",
+    "type" : "Clock In"
   }
 ]
