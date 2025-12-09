@@ -49150,5 +49150,23 @@
     "id" : "FCB7B838-3E5B-4704-B863-522733352685",
     "timestamp" : "2025-12-09T10:36:19Z",
     "type" : "Break Start"
+  },
+  {
+    "employeeId" : "8328C48C-97D6-4E14-BE85-BB8763817CF8",
+    "id" : "6206AD2F-811C-4A5C-A46E-792DFC0AB3F0",
+    "timestamp" : "2025-12-09T10:41:16Z",
+    "type" : "Break Start"
+  },
+  {
+    "employeeId" : "F0064293-8B19-496C-979F-E3265BEFD5C9",
+    "id" : "9D976099-22F3-4EAA-9120-90F377CC9B58",
+    "timestamp" : "2025-12-09T10:44:03Z",
+    "type" : "Break End"
+  },
+  {
+    "employeeId" : "394EE8BC-3145-4010-B8D1-B4965EAA9296",
+    "id" : "01DACAE9-84F4-4D30-9D60-F6D316E67F7F",
+    "timestamp" : "2025-12-09T10:45:21Z",
+    "type" : "Break End"
   }
 ]
