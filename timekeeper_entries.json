@@ -49594,5 +49594,17 @@
     "id" : "A36785F5-5A9C-4408-ADFD-BC4B3942B03B",
     "timestamp" : "2025-12-10T08:00:03Z",
     "type" : "Clock In"
+  },
+  {
+    "employeeId" : "393F3D1F-F71E-4F88-8619-1CDD9BF9C9C2",
+    "id" : "07CB4771-4415-4375-BD8F-D933967B378D",
+    "timestamp" : "2025-12-10T08:02:17Z",
+    "type" : "Clock In"
+  },
+  {
+    "employeeId" : "394EE8BC-3145-4010-B8D1-B4965EAA9296",
+    "id" : "2F746ADF-56F2-4588-8B27-07B677AB4BE4",
+    "timestamp" : "2025-12-10T08:07:10Z",
+    "type" : "Clock In"
   }
 ]
