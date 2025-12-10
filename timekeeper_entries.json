@@ -50002,5 +50002,11 @@
     "id" : "CE2096CF-7E56-4BD1-A6D4-078B5841E1DA",
     "timestamp" : "2025-12-10T14:13:02Z",
     "type" : "Lunch Start"
+  },
+  {
+    "employeeId" : "953EA2A7-6C38-4C9B-98AD-A7927077E363",
+    "id" : "5A199288-16B6-47EB-A577-8F86EABCFB33",
+    "timestamp" : "2025-12-10T14:42:50Z",
+    "type" : "Lunch End"
   }
 ]
