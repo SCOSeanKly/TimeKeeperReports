@@ -50008,5 +50008,11 @@
     "id" : "5A199288-16B6-47EB-A577-8F86EABCFB33",
     "timestamp" : "2025-12-10T14:42:50Z",
     "type" : "Lunch End"
+  },
+  {
+    "employeeId" : "BE4E5108-1C7A-4396-BA60-985D0A0D25DC",
+    "id" : "F7224219-A283-48E5-B048-5F93FFD7E989",
+    "timestamp" : "2025-12-10T16:03:09Z",
+    "type" : "Clock Out"
   }
 ]
