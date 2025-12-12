@@ -50860,5 +50860,23 @@
     "id" : "C1EF764A-4372-49AC-A3B3-ED55DDA1BB00",
     "timestamp" : "2025-12-12T12:04:29Z",
     "type" : "Break End"
+  },
+  {
+    "employeeId" : "A89B7519-4C5C-4F70-9342-5BBCF890E719",
+    "id" : "76587BD8-8107-4B79-8D55-9A6E8CA95BEF",
+    "timestamp" : "2025-12-12T13:29:06Z",
+    "type" : "Lunch Start"
+  },
+  {
+    "employeeId" : "83F0962E-D531-4F32-952D-F84DE2EDD27F",
+    "id" : "9243B421-5E75-4360-B92E-0A14DE5334B3",
+    "timestamp" : "2025-12-12T13:32:44Z",
+    "type" : "Lunch Start"
+  },
+  {
+    "employeeId" : "8328C48C-97D6-4E14-BE85-BB8763817CF8",
+    "id" : "560F5486-B378-4995-B253-104A11780A2A",
+    "timestamp" : "2025-12-12T13:32:55Z",
+    "type" : "Lunch Start"
   }
 ]
