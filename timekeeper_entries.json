@@ -51604,5 +51604,17 @@
     "id" : "170259D2-5382-4E0A-8F62-50E1D8B8FD49",
     "timestamp" : "2025-12-15T14:07:35Z",
     "type" : "Lunch End"
+  },
+  {
+    "employeeId" : "7052DB49-F73F-47F0-9FB3-CF44601A7FC3",
+    "id" : "74DEB5DC-86A9-4471-84BC-D9F78F3D1083",
+    "timestamp" : "2025-12-15T14:07:58Z",
+    "type" : "Lunch End"
+  },
+  {
+    "employeeId" : "BD0902DD-373B-433A-953A-755F88CBF221",
+    "id" : "157A5DBA-FDB5-426C-9E84-BF9A69E9D06F",
+    "timestamp" : "2025-12-15T14:10:55Z",
+    "type" : "Lunch End"
   }
 ]
