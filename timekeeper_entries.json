@@ -51478,5 +51478,65 @@
     "id" : "69B0F67A-3C0B-4583-AA63-9AF41D4ED477",
     "timestamp" : "2025-12-15T13:31:29Z",
     "type" : "Lunch Start"
+  },
+  {
+    "employeeId" : "393F3D1F-F71E-4F88-8619-1CDD9BF9C9C2",
+    "id" : "E930A30A-6A66-449E-BF37-E8BC3C85C82A",
+    "timestamp" : "2025-12-15T13:35:05Z",
+    "type" : "Lunch Start"
+  },
+  {
+    "employeeId" : "393F3D1F-F71E-4F88-8619-1CDD9BF9C9C2",
+    "id" : "6D9B6F10-A483-4829-BE6A-754E55AAE037",
+    "timestamp" : "2025-12-15T13:35:07Z",
+    "type" : "Lunch End"
+  },
+  {
+    "employeeId" : "7052DB49-F73F-47F0-9FB3-CF44601A7FC3",
+    "id" : "3E59E31F-823E-4991-93C5-E474264C8EBC",
+    "timestamp" : "2025-12-15T13:36:03Z",
+    "type" : "Lunch Start"
+  },
+  {
+    "employeeId" : "D56675E7-D446-4F6D-BC07-06072C9146BE",
+    "id" : "B8BF061F-AAAF-4202-9E27-B7DCE315BF34",
+    "timestamp" : "2025-12-15T13:36:22Z",
+    "type" : "Lunch Start"
+  },
+  {
+    "employeeId" : "83F0962E-D531-4F32-952D-F84DE2EDD27F",
+    "id" : "8D580C41-8705-41AA-B487-E5E78F5B704C",
+    "timestamp" : "2025-12-15T13:36:39Z",
+    "type" : "Lunch Start"
+  },
+  {
+    "employeeId" : "8328C48C-97D6-4E14-BE85-BB8763817CF8",
+    "id" : "1011DD9F-67CD-4892-95E2-8507519F8193",
+    "timestamp" : "2025-12-15T13:36:49Z",
+    "type" : "Lunch Start"
+  },
+  {
+    "employeeId" : "29EAE04E-470D-4124-8038-200CCF2D63BC",
+    "id" : "D61EE28B-824D-45A6-A844-02F61971211B",
+    "timestamp" : "2025-12-15T13:36:58Z",
+    "type" : "Lunch Start"
+  },
+  {
+    "employeeId" : "ABBF1404-78F1-4DB0-A35E-374CD9612909",
+    "id" : "18483210-71E0-44ED-9A4E-B7B9FA4F19BD",
+    "timestamp" : "2025-12-15T13:38:09Z",
+    "type" : "Lunch Start"
+  },
+  {
+    "employeeId" : "ABBF1404-78F1-4DB0-A35E-374CD9612909",
+    "id" : "A90CAF6C-50CB-447F-A680-F2FDCE86D4BB",
+    "timestamp" : "2025-12-15T13:38:11Z",
+    "type" : "Lunch End"
+  },
+  {
+    "employeeId" : "BD0902DD-373B-433A-953A-755F88CBF221",
+    "id" : "8EB15A42-2390-42CA-932B-11F8405FA6C9",
+    "timestamp" : "2025-12-15T13:41:45Z",
+    "type" : "Lunch Start"
   }
 ]
