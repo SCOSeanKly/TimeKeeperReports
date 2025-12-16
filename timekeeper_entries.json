@@ -52174,5 +52174,11 @@
     "id" : "71607DFA-BBB2-4B65-AF1A-E6190F0F47A6",
     "timestamp" : "2025-12-16T14:38:21Z",
     "type" : "Lunch End"
+  },
+  {
+    "employeeId" : "57BA9115-ECC7-46ED-B99A-48B11ED17B76",
+    "id" : "58466658-BA79-40C4-BD66-4DE569815628",
+    "timestamp" : "2025-12-16T15:52:25Z",
+    "type" : "Clock In"
   }
 ]
