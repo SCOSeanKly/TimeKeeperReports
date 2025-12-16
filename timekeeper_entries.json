@@ -52264,5 +52264,17 @@
     "id" : "110BAADA-09FC-4CC5-86A8-F09277101669",
     "timestamp" : "2025-12-16T17:18:05Z",
     "type" : "Clock Out"
+  },
+  {
+    "employeeId" : "D56675E7-D446-4F6D-BC07-06072C9146BE",
+    "id" : "DC200A9B-4247-4464-8AB3-A6151E29B965",
+    "timestamp" : "2025-12-16T17:30:06Z",
+    "type" : "Clock Out"
+  },
+  {
+    "employeeId" : "953EA2A7-6C38-4C9B-98AD-A7927077E363",
+    "id" : "C9F55040-9807-47E6-9CFD-23C4BC7CC2D3",
+    "timestamp" : "2025-12-16T17:30:16Z",
+    "type" : "Clock Out"
   }
 ]
