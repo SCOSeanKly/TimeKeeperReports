@@ -52180,5 +52180,11 @@
     "id" : "58466658-BA79-40C4-BD66-4DE569815628",
     "timestamp" : "2025-12-16T15:52:25Z",
     "type" : "Clock In"
+  },
+  {
+    "employeeId" : "BE4E5108-1C7A-4396-BA60-985D0A0D25DC",
+    "id" : "62A40A72-BC5D-4620-B903-00F58ECD464B",
+    "timestamp" : "2025-12-16T15:58:10Z",
+    "type" : "Clock Out"
   }
 ]
