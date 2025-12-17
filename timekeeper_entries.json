@@ -52606,5 +52606,11 @@
     "id" : "99FCE8CE-0C01-4A0A-A0C9-452A853049C3",
     "timestamp" : "2025-12-17T13:41:37Z",
     "type" : "Lunch Start"
+  },
+  {
+    "employeeId" : "A89B7519-4C5C-4F70-9342-5BBCF890E719",
+    "id" : "3DEAA955-F267-451F-A90F-F43BE0585CA2",
+    "timestamp" : "2025-12-17T13:54:23Z",
+    "type" : "Lunch End"
   }
 ]
