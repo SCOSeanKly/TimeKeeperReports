@@ -52654,5 +52654,17 @@
     "id" : "DCD62887-60D4-4932-ADAD-AFE7965DB263",
     "timestamp" : "2025-12-17T14:05:28Z",
     "type" : "Lunch End"
+  },
+  {
+    "employeeId" : "8328C48C-97D6-4E14-BE85-BB8763817CF8",
+    "id" : "FC6E4497-DA4A-4A67-9F83-B57460BDBDCD",
+    "timestamp" : "2025-12-17T14:08:14Z",
+    "type" : "Lunch End"
+  },
+  {
+    "employeeId" : "953EA2A7-6C38-4C9B-98AD-A7927077E363",
+    "id" : "3AA72736-604B-4905-995D-1BFF29F5100E",
+    "timestamp" : "2025-12-17T14:10:47Z",
+    "type" : "Lunch Start"
   }
 ]
