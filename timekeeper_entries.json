@@ -52528,5 +52528,65 @@
     "id" : "B9FF10D0-5681-4500-984D-3175FC7D4861",
     "timestamp" : "2025-12-17T10:57:46Z",
     "type" : "Break End"
+  },
+  {
+    "employeeId" : "394EE8BC-3145-4010-B8D1-B4965EAA9296",
+    "id" : "28A8ABE4-A81A-4751-A432-2EE14458AF42",
+    "timestamp" : "2025-12-17T13:28:31Z",
+    "type" : "Lunch Start"
+  },
+  {
+    "employeeId" : "393F3D1F-F71E-4F88-8619-1CDD9BF9C9C2",
+    "id" : "223FEE76-A748-47FA-9A62-0974F8872A08",
+    "timestamp" : "2025-12-17T13:30:07Z",
+    "type" : "Lunch Start"
+  },
+  {
+    "employeeId" : "393F3D1F-F71E-4F88-8619-1CDD9BF9C9C2",
+    "id" : "A6CA173E-5D09-43A4-ADBC-0D52F1226C68",
+    "timestamp" : "2025-12-17T13:30:10Z",
+    "type" : "Lunch End"
+  },
+  {
+    "employeeId" : "2D3EC73F-366E-466C-8516-C0AF231C271E",
+    "id" : "45628F1F-7E0D-4752-A7BA-01E9BAEC256E",
+    "timestamp" : "2025-12-17T13:31:13Z",
+    "type" : "Lunch Start"
+  },
+  {
+    "employeeId" : "2D3EC73F-366E-466C-8516-C0AF231C271E",
+    "id" : "BA7BBEFE-88CC-4A97-8764-707931B0554A",
+    "timestamp" : "2025-12-17T13:31:16Z",
+    "type" : "Lunch End"
+  },
+  {
+    "employeeId" : "ABBF1404-78F1-4DB0-A35E-374CD9612909",
+    "id" : "D0E203CF-3C62-4159-A74F-F3BB8A459D02",
+    "timestamp" : "2025-12-17T13:31:32Z",
+    "type" : "Lunch Start"
+  },
+  {
+    "employeeId" : "BC7199E0-4065-4B2C-8863-CCA70D0AE8D3",
+    "id" : "00681556-BA14-4FD5-A8AE-D2F3E644C942",
+    "timestamp" : "2025-12-17T13:31:49Z",
+    "type" : "Lunch Start"
+  },
+  {
+    "employeeId" : "3C4C3205-2DFC-4646-9AB9-49F73AD47A6A",
+    "id" : "65DFA0C3-C5A2-416A-BDBB-DE3DD1DE6793",
+    "timestamp" : "2025-12-17T13:32:34Z",
+    "type" : "Lunch Start"
+  },
+  {
+    "employeeId" : "A89B7519-4C5C-4F70-9342-5BBCF890E719",
+    "id" : "88265B1C-927A-4828-98C7-EEF96EC4F165",
+    "timestamp" : "2025-12-17T13:35:11Z",
+    "type" : "Lunch Start"
+  },
+  {
+    "employeeId" : "66FE14DE-3A62-4015-AA37-1E3ACB7A0632",
+    "id" : "38556936-6038-456F-8A0C-C48DC36323B6",
+    "timestamp" : "2025-12-17T13:35:43Z",
+    "type" : "Lunch Start"
   }
 ]
