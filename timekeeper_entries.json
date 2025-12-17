@@ -52384,5 +52384,17 @@
     "id" : "3E37D99C-BA7B-4DF8-91C4-C883EE863C01",
     "timestamp" : "2025-12-17T08:29:59Z",
     "type" : "Clock In"
+  },
+  {
+    "employeeId" : "953EA2A7-6C38-4C9B-98AD-A7927077E363",
+    "id" : "C7A4D476-796D-40B1-BEB8-53E6FA27BEDC",
+    "timestamp" : "2025-12-17T09:16:16Z",
+    "type" : "Clock In"
+  },
+  {
+    "employeeId" : "953EA2A7-6C38-4C9B-98AD-A7927077E363",
+    "id" : "4FE31F8A-5776-4C4E-A13C-0E9DA671CD75",
+    "timestamp" : "2025-12-17T09:16:17Z",
+    "type" : "Clock In"
   }
 ]
