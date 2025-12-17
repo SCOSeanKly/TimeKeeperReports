@@ -52372,5 +52372,17 @@
     "id" : "BE6A29C7-A9B7-46F7-A439-5FD4934B3A45",
     "timestamp" : "2025-12-17T08:21:32Z",
     "type" : "Clock In"
+  },
+  {
+    "employeeId" : "3C4C3205-2DFC-4646-9AB9-49F73AD47A6A",
+    "id" : "821373BC-EACC-40D6-B35D-B18DA4093DC3",
+    "timestamp" : "2025-12-17T08:29:07Z",
+    "type" : "Clock In"
+  },
+  {
+    "employeeId" : "7052DB49-F73F-47F0-9FB3-CF44601A7FC3",
+    "id" : "3E37D99C-BA7B-4DF8-91C4-C883EE863C01",
+    "timestamp" : "2025-12-17T08:29:59Z",
+    "type" : "Clock In"
   }
 ]
