@@ -52444,5 +52444,29 @@
     "id" : "BFEFE9D2-CDA9-4637-9465-D5D44E0664E7",
     "timestamp" : "2025-12-17T10:31:32Z",
     "type" : "Break Start"
+  },
+  {
+    "employeeId" : "BC7199E0-4065-4B2C-8863-CCA70D0AE8D3",
+    "id" : "3A37ED6C-4AAC-472A-8A15-9F701CAE8A3C",
+    "timestamp" : "2025-12-17T10:33:05Z",
+    "type" : "Break Start"
+  },
+  {
+    "employeeId" : "BC7199E0-4065-4B2C-8863-CCA70D0AE8D3",
+    "id" : "BA481BD9-62AC-4FAA-B607-118EEE26409F",
+    "timestamp" : "2025-12-17T10:33:08Z",
+    "type" : "Break End"
+  },
+  {
+    "employeeId" : "83F0962E-D531-4F32-952D-F84DE2EDD27F",
+    "id" : "B82ACF4E-DA6F-42B4-A5DA-83F1817B04B1",
+    "timestamp" : "2025-12-17T10:34:15Z",
+    "type" : "Break Start"
+  },
+  {
+    "employeeId" : "8328C48C-97D6-4E14-BE85-BB8763817CF8",
+    "id" : "7B48BD3C-8717-46D9-9486-199290DFBB16",
+    "timestamp" : "2025-12-17T10:34:25Z",
+    "type" : "Break Start"
   }
 ]
