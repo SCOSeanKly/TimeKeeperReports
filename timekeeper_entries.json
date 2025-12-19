@@ -53248,5 +53248,17 @@
     "id" : "784151C2-0C94-48F0-B683-78F81FB8B4EE",
     "timestamp" : "2025-12-19T08:00:45Z",
     "type" : "Clock In"
+  },
+  {
+    "employeeId" : "393F3D1F-F71E-4F88-8619-1CDD9BF9C9C2",
+    "id" : "632B4F4B-0EFE-44BB-895B-CC74BE105A2C",
+    "timestamp" : "2025-12-19T08:16:28Z",
+    "type" : "Clock In"
+  },
+  {
+    "employeeId" : "83F0962E-D531-4F32-952D-F84DE2EDD27F",
+    "id" : "C82303C2-3D17-4576-968D-BEB49561567F",
+    "timestamp" : "2025-12-19T08:19:38Z",
+    "type" : "Clock In"
   }
 ]
