@@ -53734,5 +53734,17 @@
     "id" : "DA095C1B-1AC8-487F-ACB6-6397F725B522",
     "timestamp" : "2025-12-22T08:16:57Z",
     "type" : "Clock In"
+  },
+  {
+    "employeeId" : "3C4C3205-2DFC-4646-9AB9-49F73AD47A6A",
+    "id" : "8F84464D-6A45-4DA7-B08B-1653D61940AB",
+    "timestamp" : "2025-12-22T08:31:38Z",
+    "type" : "Clock In"
+  },
+  {
+    "employeeId" : "7052DB49-F73F-47F0-9FB3-CF44601A7FC3",
+    "id" : "D86E0441-5CB4-41F2-A6FF-0B102F534B0F",
+    "timestamp" : "2025-12-22T08:32:44Z",
+    "type" : "Clock In"
   }
 ]
