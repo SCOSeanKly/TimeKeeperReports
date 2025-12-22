@@ -54070,5 +54070,11 @@
     "id" : "82ED72C8-9522-4182-B66D-68007F4FE978",
     "timestamp" : "2025-12-22T15:43:41Z",
     "type" : "Clock In"
+  },
+  {
+    "employeeId" : "BE4E5108-1C7A-4396-BA60-985D0A0D25DC",
+    "id" : "926A7E0F-8578-49A8-A0A2-9AF76A739A72",
+    "timestamp" : "2025-12-22T16:00:51Z",
+    "type" : "Clock Out"
   }
 ]
