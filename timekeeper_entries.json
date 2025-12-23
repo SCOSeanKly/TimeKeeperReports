@@ -54166,5 +54166,17 @@
     "id" : "484F07A1-8328-4963-8F99-AC4502A2A021",
     "timestamp" : "2025-12-22T19:56:40Z",
     "type" : "Clock Out"
+  },
+  {
+    "employeeId" : "ABBF1404-78F1-4DB0-A35E-374CD9612909",
+    "id" : "8332DEBD-7A22-4D83-BEA3-ED188FAE3574",
+    "timestamp" : "2025-12-23T07:42:31Z",
+    "type" : "Clock In"
+  },
+  {
+    "employeeId" : "2D3EC73F-366E-466C-8516-C0AF231C271E",
+    "id" : "D7FC506B-3A45-4570-A0E9-62E4B79E5F68",
+    "timestamp" : "2025-12-23T07:46:22Z",
+    "type" : "Clock In"
   }
 ]
