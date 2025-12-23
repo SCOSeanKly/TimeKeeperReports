@@ -54586,5 +54586,11 @@
     "id" : "502762CE-4309-4E22-9703-6FF656E33DC2",
     "timestamp" : "2025-12-23T15:00:53Z",
     "type" : "Clock Out"
+  },
+  {
+    "employeeId" : "57BA9115-ECC7-46ED-B99A-48B11ED17B76",
+    "id" : "EEF9B7A8-4AFF-4CD9-8B38-9C8F4A575961",
+    "timestamp" : "2025-12-23T15:44:40Z",
+    "type" : "Clock In"
   }
 ]
