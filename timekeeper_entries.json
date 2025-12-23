@@ -54574,5 +54574,11 @@
     "id" : "D1270EA5-23F6-4871-A68D-6C263FC5CDD7",
     "timestamp" : "2025-12-23T14:08:09Z",
     "type" : "Lunch Start"
+  },
+  {
+    "employeeId" : "953EA2A7-6C38-4C9B-98AD-A7927077E363",
+    "id" : "38D46D4F-FC5F-4ECE-A146-9C76B60C3EF1",
+    "timestamp" : "2025-12-23T14:39:22Z",
+    "type" : "Lunch End"
   }
 ]
