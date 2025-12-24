@@ -54700,5 +54700,11 @@
     "id" : "A91B6989-3572-46BB-9E7E-4B2C7DFDA670",
     "timestamp" : "2025-12-23T21:00:00Z",
     "type" : "Auto Clock Out At Midnight"
+  },
+  {
+    "employeeId" : "ABBF1404-78F1-4DB0-A35E-374CD9612909",
+    "id" : "B258C035-30F0-400D-9079-768A033473B6",
+    "timestamp" : "2025-12-24T07:45:19Z",
+    "type" : "Clock In"
   }
 ]
