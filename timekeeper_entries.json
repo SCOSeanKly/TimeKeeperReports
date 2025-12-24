@@ -54832,5 +54832,17 @@
     "id" : "4CCBD9FE-C8C6-498A-B375-695365257C29",
     "timestamp" : "2025-12-24T10:51:17Z",
     "type" : "Break End"
+  },
+  {
+    "employeeId" : "393F3D1F-F71E-4F88-8619-1CDD9BF9C9C2",
+    "id" : "2F7808C0-FA1A-4D4B-9EEE-26CD6C9B9C5C",
+    "timestamp" : "2025-12-24T11:02:32Z",
+    "type" : "Break Start"
+  },
+  {
+    "employeeId" : "393F3D1F-F71E-4F88-8619-1CDD9BF9C9C2",
+    "id" : "2AB635D5-1DDC-4919-B483-9CE0DCE01796",
+    "timestamp" : "2025-12-24T11:02:34Z",
+    "type" : "Break End"
   }
 ]
