@@ -54844,5 +54844,11 @@
     "id" : "2AB635D5-1DDC-4919-B483-9CE0DCE01796",
     "timestamp" : "2025-12-24T11:02:34Z",
     "type" : "Break End"
+  },
+  {
+    "employeeId" : "57BA9115-ECC7-46ED-B99A-48B11ED17B76",
+    "id" : "311701F5-0618-47C8-82AB-A3ED758B34D3",
+    "timestamp" : "2025-12-24T12:53:20Z",
+    "type" : "Clock In"
   }
 ]
