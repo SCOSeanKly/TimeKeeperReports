@@ -55042,5 +55042,23 @@
     "id" : "13AA01CF-3EF4-49E4-A7C7-9C684582FE2A",
     "timestamp" : "2025-12-29T10:31:31Z",
     "type" : "Break End"
+  },
+  {
+    "employeeId" : "BD0902DD-373B-433A-953A-755F88CBF221",
+    "id" : "5F371F92-42D8-4DB5-9385-ED786DB07099",
+    "timestamp" : "2025-12-29T10:35:29Z",
+    "type" : "Break Start"
+  },
+  {
+    "employeeId" : "337733FA-A522-41C0-9B46-2A6B5A1D00F9",
+    "id" : "97ECD375-DF8D-42D8-9CE2-656CCA89439A",
+    "timestamp" : "2025-12-29T10:36:57Z",
+    "type" : "Break Start"
+  },
+  {
+    "employeeId" : "83F0962E-D531-4F32-952D-F84DE2EDD27F",
+    "id" : "290F4F22-9C9B-40A7-8793-10F8EB1222E4",
+    "timestamp" : "2025-12-29T10:40:22Z",
+    "type" : "Break Start"
   }
 ]
