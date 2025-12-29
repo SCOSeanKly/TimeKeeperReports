@@ -55120,5 +55120,17 @@
     "id" : "07CA175B-684F-46D2-A8C2-EF30CA311E81",
     "timestamp" : "2025-12-29T11:07:17Z",
     "type" : "Clock Out"
+  },
+  {
+    "employeeId" : "F0064293-8B19-496C-979F-E3265BEFD5C9",
+    "id" : "8B8616F1-B421-400D-88E2-78E8E7A7757B",
+    "timestamp" : "2025-12-29T13:30:11Z",
+    "type" : "Lunch Start"
+  },
+  {
+    "employeeId" : "BC7199E0-4065-4B2C-8863-CCA70D0AE8D3",
+    "id" : "75879DEC-0BD9-437A-9DB7-9B3179B81BC7",
+    "timestamp" : "2025-12-29T13:31:33Z",
+    "type" : "Lunch Start"
   }
 ]
