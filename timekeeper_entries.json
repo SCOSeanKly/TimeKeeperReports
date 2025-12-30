@@ -55486,5 +55486,11 @@
     "id" : "52001D82-DC00-403B-9134-32E4B7989A4F",
     "timestamp" : "2025-12-30T10:52:19Z",
     "type" : "Break End"
+  },
+  {
+    "employeeId" : "83F0962E-D531-4F32-952D-F84DE2EDD27F",
+    "id" : "B449E7AE-2FAB-440F-9B03-5ED10C1BA1AC",
+    "timestamp" : "2025-12-30T11:17:01Z",
+    "type" : "Clock In"
   }
 ]
