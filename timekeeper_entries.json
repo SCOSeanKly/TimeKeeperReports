@@ -55444,5 +55444,23 @@
     "id" : "558623F5-DD4E-4D25-864E-699398AD5047",
     "timestamp" : "2025-12-30T10:35:22Z",
     "type" : "Break Start"
+  },
+  {
+    "employeeId" : "D56675E7-D446-4F6D-BC07-06072C9146BE",
+    "id" : "98673D57-EDD5-4E44-B486-AE3DF65CDF62",
+    "timestamp" : "2025-12-30T10:41:03Z",
+    "type" : "Break Start"
+  },
+  {
+    "employeeId" : "8328C48C-97D6-4E14-BE85-BB8763817CF8",
+    "id" : "D93EAB90-F854-458B-8E4C-C5127F78EF33",
+    "timestamp" : "2025-12-30T10:42:50Z",
+    "type" : "Break End"
+  },
+  {
+    "employeeId" : "337733FA-A522-41C0-9B46-2A6B5A1D00F9",
+    "id" : "6DFA755A-E2E4-4CAB-B0CC-31EE346E1DCA",
+    "timestamp" : "2025-12-30T10:44:17Z",
+    "type" : "Break End"
   }
 ]
