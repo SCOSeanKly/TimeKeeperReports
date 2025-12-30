@@ -55666,5 +55666,17 @@
     "id" : "205F5E42-482D-4D4B-ADC9-7F463ADBE735",
     "timestamp" : "2025-12-30T16:33:20Z",
     "type" : "Clock Out"
+  },
+  {
+    "employeeId" : "83F0962E-D531-4F32-952D-F84DE2EDD27F",
+    "id" : "27567A8D-BC6D-4597-B05B-32925C9AF292",
+    "timestamp" : "2025-12-30T17:02:58Z",
+    "type" : "Clock Out"
+  },
+  {
+    "employeeId" : "8328C48C-97D6-4E14-BE85-BB8763817CF8",
+    "id" : "61A34375-DE2B-426A-8316-7DC557F180D2",
+    "timestamp" : "2025-12-30T17:03:55Z",
+    "type" : "Clock Out"
   }
 ]
