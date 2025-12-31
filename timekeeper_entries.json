@@ -55756,5 +55756,11 @@
     "id" : "A358E64E-FC5C-452A-9EAF-0862DCD09D40",
     "timestamp" : "2025-12-31T08:01:47Z",
     "type" : "Clock In"
+  },
+  {
+    "employeeId" : "A89B7519-4C5C-4F70-9342-5BBCF890E719",
+    "id" : "D2CB963E-FC1D-4714-8498-F1C291BC5B59",
+    "timestamp" : "2025-12-31T08:12:59Z",
+    "type" : "Clock In"
   }
 ]
