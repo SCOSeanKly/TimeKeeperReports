@@ -56110,5 +56110,23 @@
     "id" : "805D0914-C6C3-4947-BB0C-C48595A3D0F8",
     "timestamp" : "2026-01-05T10:35:12Z",
     "type" : "Break Start"
+  },
+  {
+    "employeeId" : "BD0902DD-373B-433A-953A-755F88CBF221",
+    "id" : "4490592B-70B5-46D1-8769-92AB9AD44D93",
+    "timestamp" : "2026-01-05T10:40:49Z",
+    "type" : "Break Start"
+  },
+  {
+    "employeeId" : "393F3D1F-F71E-4F88-8619-1CDD9BF9C9C2",
+    "id" : "F70890F0-09A4-4A1E-9E60-9DCAD7C11DFD",
+    "timestamp" : "2026-01-05T10:40:57Z",
+    "type" : "Break Start"
+  },
+  {
+    "employeeId" : "393F3D1F-F71E-4F88-8619-1CDD9BF9C9C2",
+    "id" : "71043CF0-7265-4F6B-8C0F-ABCE60EFD1EF",
+    "timestamp" : "2026-01-05T10:41:00Z",
+    "type" : "Break End"
   }
 ]
