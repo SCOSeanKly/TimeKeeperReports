@@ -56752,5 +56752,11 @@
     "id" : "42AB6BA6-B424-4936-9A2F-D44C732A391B",
     "timestamp" : "2026-01-06T10:55:04Z",
     "type" : "Break End"
+  },
+  {
+    "employeeId" : "83F0962E-D531-4F32-952D-F84DE2EDD27F",
+    "id" : "CE4FC154-4507-41BA-8E41-5CCCAA892BE9",
+    "timestamp" : "2026-01-06T11:46:12Z",
+    "type" : "Break Start"
   }
 ]
