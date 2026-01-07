@@ -57448,5 +57448,11 @@
     "id" : "7F7A97AD-8298-4783-BE26-0E182E239012",
     "timestamp" : "2026-01-07T14:11:58Z",
     "type" : "Lunch Start"
+  },
+  {
+    "employeeId" : "8328C48C-97D6-4E14-BE85-BB8763817CF8",
+    "id" : "8CC9161B-5FE1-4922-A025-2891C50EC625",
+    "timestamp" : "2026-01-07T14:22:27Z",
+    "type" : "Lunch End"
   }
 ]
