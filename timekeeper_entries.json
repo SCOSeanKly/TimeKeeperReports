@@ -57484,5 +57484,23 @@
     "id" : "58D8991B-D0B6-43E2-840D-0EA258608B6A",
     "timestamp" : "2026-01-07T16:32:54Z",
     "type" : "Clock Out"
+  },
+  {
+    "employeeId" : "F0064293-8B19-496C-979F-E3265BEFD5C9",
+    "id" : "8AF649E8-FAD1-46BA-B3D6-15B72D7B75F0",
+    "timestamp" : "2026-01-07T17:00:59Z",
+    "type" : "Clock Out"
+  },
+  {
+    "employeeId" : "83F0962E-D531-4F32-952D-F84DE2EDD27F",
+    "id" : "BA0FE9AE-6A74-46C8-9C64-19C03DD334C2",
+    "timestamp" : "2026-01-07T17:03:03Z",
+    "type" : "Clock Out"
+  },
+  {
+    "employeeId" : "8328C48C-97D6-4E14-BE85-BB8763817CF8",
+    "id" : "B3EB65D8-06B2-4C5F-B05E-1463820A376D",
+    "timestamp" : "2026-01-07T17:04:19Z",
+    "type" : "Clock Out"
   }
 ]
