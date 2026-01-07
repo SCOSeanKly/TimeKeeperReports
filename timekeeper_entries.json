@@ -57100,5 +57100,17 @@
     "id" : "537DA051-8A64-446F-BFD2-861FB718F96F",
     "timestamp" : "2026-01-07T07:59:07Z",
     "type" : "Clock In"
+  },
+  {
+    "employeeId" : "A89B7519-4C5C-4F70-9342-5BBCF890E719",
+    "id" : "D607E065-3BE8-4885-BD12-0BD1D2E202C6",
+    "timestamp" : "2026-01-07T08:17:00Z",
+    "type" : "Clock In"
+  },
+  {
+    "employeeId" : "8328C48C-97D6-4E14-BE85-BB8763817CF8",
+    "id" : "D9651EF4-3734-4559-A21F-5D3F3CE36172",
+    "timestamp" : "2026-01-07T08:18:11Z",
+    "type" : "Clock In"
   }
 ]
