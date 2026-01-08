@@ -57772,5 +57772,11 @@
     "id" : "0BECE0F5-427A-4B4A-81CF-92E3E52A5569",
     "timestamp" : "2026-01-08T10:53:52Z",
     "type" : "Break End"
+  },
+  {
+    "employeeId" : "F0064293-8B19-496C-979F-E3265BEFD5C9",
+    "id" : "0EE86943-FAA6-4620-8C01-C5869B5BED62",
+    "timestamp" : "2026-01-08T12:17:54Z",
+    "type" : "Clock Out"
   }
 ]
