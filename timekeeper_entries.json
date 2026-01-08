@@ -57910,5 +57910,17 @@
     "id" : "4EF6B51B-B7AD-4C12-87EE-81F96B795CEF",
     "timestamp" : "2026-01-08T14:04:04Z",
     "type" : "Lunch End"
+  },
+  {
+    "employeeId" : "394EE8BC-3145-4010-B8D1-B4965EAA9296",
+    "id" : "3FF21745-3473-467F-808C-7424671A5853",
+    "timestamp" : "2026-01-08T14:05:19Z",
+    "type" : "Lunch End"
+  },
+  {
+    "employeeId" : "3C4C3205-2DFC-4646-9AB9-49F73AD47A6A",
+    "id" : "58DD1934-761A-4392-89BD-D221F34DC5A7",
+    "timestamp" : "2026-01-08T14:05:50Z",
+    "type" : "Lunch End"
   }
 ]
