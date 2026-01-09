@@ -58288,5 +58288,11 @@
     "id" : "6DACAB35-0C15-44CC-BC1E-E9C7D87CBCD7",
     "timestamp" : "2026-01-09T10:52:34Z",
     "type" : "Break End"
+  },
+  {
+    "employeeId" : "ABBF1404-78F1-4DB0-A35E-374CD9612909",
+    "id" : "98510184-57D8-4712-AC6B-C6C56E43D050",
+    "timestamp" : "2026-01-09T12:36:08Z",
+    "type" : "Clock Out"
   }
 ]
