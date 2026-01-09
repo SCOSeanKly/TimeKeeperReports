@@ -58462,5 +58462,23 @@
     "id" : "C36078C5-CDE3-4964-BBE7-019962CC87E8",
     "timestamp" : "2026-01-09T14:39:44Z",
     "type" : "Lunch End"
+  },
+  {
+    "employeeId" : "BC7199E0-4065-4B2C-8863-CCA70D0AE8D3",
+    "id" : "09D67DFC-4A98-458B-AC85-870E65D63917",
+    "timestamp" : "2026-01-09T16:30:45Z",
+    "type" : "Clock Out"
+  },
+  {
+    "employeeId" : "A89B7519-4C5C-4F70-9342-5BBCF890E719",
+    "id" : "3A96D23F-40D6-4A94-AF03-443BADC3D67C",
+    "timestamp" : "2026-01-09T16:32:58Z",
+    "type" : "Clock Out"
+  },
+  {
+    "employeeId" : "393F3D1F-F71E-4F88-8619-1CDD9BF9C9C2",
+    "id" : "E2F3C182-20B9-4D0D-92CE-8E4C2B6E7168",
+    "timestamp" : "2026-01-09T16:33:44Z",
+    "type" : "Clock Out"
   }
 ]
