@@ -58582,5 +58582,11 @@
     "id" : "948AD452-DC04-4C68-BAE6-C7FAC6CE483F",
     "timestamp" : "2026-01-10T11:44:58Z",
     "type" : "Clock In"
+  },
+  {
+    "employeeId" : "F0064293-8B19-496C-979F-E3265BEFD5C9",
+    "id" : "650224C5-5098-42D5-BA44-4355C7BA59EF",
+    "timestamp" : "2026-01-10T12:30:31Z",
+    "type" : "Clock Out"
   }
 ]
