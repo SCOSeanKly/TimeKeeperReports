@@ -205,5 +205,23 @@
     "name" : "Colin Mitchell",
     "pin" : "7376",
     "startTime" : "2025-09-03T07:00:00Z"
+  },
+  {
+    "department" : "Bodyshop",
+    "finishTime" : "2025-09-30T15:30:00Z",
+    "hasFlexibleSchedule" : false,
+    "id" : "BC7199E0-4065-4B2C-8863-CCA70D0AE8D3",
+    "name" : "Guy Flannagan",
+    "pin" : "3009",
+    "startTime" : "2025-09-30T07:00:00Z"
+  },
+  {
+    "department" : "Workshop",
+    "finishTime" : "2026-01-12T13:00:00Z",
+    "hasFlexibleSchedule" : false,
+    "id" : "1944DCDA-F1F7-4CE6-BCA0-52C033930491",
+    "name" : "Joe Smith",
+    "pin" : "9988",
+    "startTime" : "2026-01-12T08:00:00Z"
   }
 ]
