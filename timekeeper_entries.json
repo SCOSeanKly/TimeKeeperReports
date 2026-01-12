@@ -58802,7 +58802,7 @@
   {
     "employeeId" : "A89B7519-4C5C-4F70-9342-5BBCF890E719",
     "id" : "4E767035-AA7A-4122-9D93-174871A390C7",
-    "timestamp" : "2026-01-12T10:37:39Z",
+    "timestamp" : "2026-01-12T07:30:00Z",
     "type" : "Clock In"
   },
   {
@@ -59037,6 +59037,24 @@
     "employeeId" : "BE4E5108-1C7A-4396-BA60-985D0A0D25DC",
     "id" : "A6291EA3-14C2-4265-B8C7-A2B8B375669F",
     "timestamp" : "2026-01-12T16:04:11Z",
+    "type" : "Clock Out"
+  },
+  {
+    "employeeId" : "BC7199E0-4065-4B2C-8863-CCA70D0AE8D3",
+    "id" : "7437730B-D26A-43FF-BC24-6C843D46973A",
+    "timestamp" : "2026-01-12T16:29:46Z",
+    "type" : "Clock Out"
+  },
+  {
+    "employeeId" : "A89B7519-4C5C-4F70-9342-5BBCF890E719",
+    "id" : "3B56B569-F8F9-4954-BE33-4FD31DD139E9",
+    "timestamp" : "2026-01-12T16:30:55Z",
+    "type" : "Clock Out"
+  },
+  {
+    "employeeId" : "394EE8BC-3145-4010-B8D1-B4965EAA9296",
+    "id" : "FE40DDBC-29F9-4D7E-B716-0FD3E14B55E9",
+    "timestamp" : "2026-01-12T16:31:19Z",
     "type" : "Clock Out"
   }
 ]
