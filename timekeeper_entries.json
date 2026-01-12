@@ -59026,5 +59026,11 @@
     "id" : "9F712CC8-D2B3-41EB-8DEA-F9E69C3AA69C",
     "timestamp" : "2026-01-12T14:13:22Z",
     "type" : "Lunch Start"
+  },
+  {
+    "employeeId" : "953EA2A7-6C38-4C9B-98AD-A7927077E363",
+    "id" : "E82DDEC7-00ED-440B-AF1B-A8691FCE4390",
+    "timestamp" : "2026-01-12T14:43:11Z",
+    "type" : "Lunch End"
   }
 ]
