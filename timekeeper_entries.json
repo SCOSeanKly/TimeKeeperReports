@@ -58642,5 +58642,17 @@
     "id" : "3349C003-9FA2-455B-AD87-D33BBD0CB2D8",
     "timestamp" : "2026-01-10T15:00:40Z",
     "type" : "Clock Out"
+  },
+  {
+    "employeeId" : "393F3D1F-F71E-4F88-8619-1CDD9BF9C9C2",
+    "id" : "B54DBEBC-BC6B-465C-BFCF-26C57DD8ECAF",
+    "timestamp" : "2026-01-12T07:49:25Z",
+    "type" : "Clock In"
+  },
+  {
+    "employeeId" : "F0064293-8B19-496C-979F-E3265BEFD5C9",
+    "id" : "5CA048AE-A33C-43E4-A658-EFFB995FC872",
+    "timestamp" : "2026-01-12T07:52:34Z",
+    "type" : "Clock In"
   }
 ]
