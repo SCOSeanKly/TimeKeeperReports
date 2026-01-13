@@ -59554,5 +59554,17 @@
     "id" : "AEC6733B-E8BC-45F1-AD70-6EC0FD4F3822",
     "timestamp" : "2026-01-13T17:16:43Z",
     "type" : "Clock Out"
+  },
+  {
+    "employeeId" : "953EA2A7-6C38-4C9B-98AD-A7927077E363",
+    "id" : "EBDA5319-86B2-4E81-A057-A7AAF66ACE19",
+    "timestamp" : "2026-01-13T17:39:12Z",
+    "type" : "Clock Out"
+  },
+  {
+    "employeeId" : "D56675E7-D446-4F6D-BC07-06072C9146BE",
+    "id" : "D32E45A0-26DD-44DE-931B-6A36ED082399",
+    "timestamp" : "2026-01-13T17:39:37Z",
+    "type" : "Clock Out"
   }
 ]
