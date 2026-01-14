@@ -59650,5 +59650,17 @@
     "id" : "F19515B9-DB12-4731-A6FD-47862AC967B1",
     "timestamp" : "2026-01-14T08:15:27Z",
     "type" : "Clock In"
+  },
+  {
+    "employeeId" : "3C4C3205-2DFC-4646-9AB9-49F73AD47A6A",
+    "id" : "E4F194E4-E83A-4C5D-AC68-3CF6F3E8E84D",
+    "timestamp" : "2026-01-14T08:26:56Z",
+    "type" : "Clock In"
+  },
+  {
+    "employeeId" : "7052DB49-F73F-47F0-9FB3-CF44601A7FC3",
+    "id" : "B0E15309-DB92-4124-B68A-03AC033238AA",
+    "timestamp" : "2026-01-14T08:30:44Z",
+    "type" : "Clock In"
   }
 ]
