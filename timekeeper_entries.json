@@ -60220,5 +60220,23 @@
     "id" : "EC780211-6892-4182-B51F-BEAD64266E3E",
     "timestamp" : "2026-01-15T10:36:02Z",
     "type" : "Break Start"
+  },
+  {
+    "employeeId" : "ABBF1404-78F1-4DB0-A35E-374CD9612909",
+    "id" : "9418CD63-EBB7-4CAF-9D7F-B282F43A2DF6",
+    "timestamp" : "2026-01-15T10:36:37Z",
+    "type" : "Break Start"
+  },
+  {
+    "employeeId" : "ABBF1404-78F1-4DB0-A35E-374CD9612909",
+    "id" : "A6CBAA63-C46F-4451-A196-06FBA76E2BB3",
+    "timestamp" : "2026-01-15T10:36:41Z",
+    "type" : "Break End"
+  },
+  {
+    "employeeId" : "A89B7519-4C5C-4F70-9342-5BBCF890E719",
+    "id" : "1DD93554-C608-4B68-A2F7-08A9A9334DA7",
+    "timestamp" : "2026-01-15T10:36:58Z",
+    "type" : "Break Start"
   }
 ]
