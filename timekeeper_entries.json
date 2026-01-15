@@ -60118,5 +60118,11 @@
     "id" : "6FE73133-A1AB-4F87-A930-A5E7F9AF23F4",
     "timestamp" : "2026-01-15T08:01:14Z",
     "type" : "Clock In"
+  },
+  {
+    "employeeId" : "29EAE04E-470D-4124-8038-200CCF2D63BC",
+    "id" : "083B0D06-7512-40E8-913B-E372DD8CB2DA",
+    "timestamp" : "2026-01-15T08:12:25Z",
+    "type" : "Clock In"
   }
 ]
