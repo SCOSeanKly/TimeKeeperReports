@@ -60280,5 +60280,11 @@
     "id" : "0E9B3EEE-8C6F-4D57-A7E6-40683AEC9522",
     "timestamp" : "2026-01-15T10:51:01Z",
     "type" : "Break End"
+  },
+  {
+    "employeeId" : "337733FA-A522-41C0-9B46-2A6B5A1D00F9",
+    "id" : "1B674CAC-9675-4CAD-A8CC-C6A1BCBE90FF",
+    "timestamp" : "2026-01-15T12:13:29Z",
+    "type" : "Lunch Start"
   }
 ]
