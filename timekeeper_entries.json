@@ -60460,5 +60460,29 @@
     "id" : "C7D59283-D232-4093-87A3-2CB9F2C76DA6",
     "timestamp" : "2026-01-15T15:42:31Z",
     "type" : "Clock In"
+  },
+  {
+    "employeeId" : "BC7199E0-4065-4B2C-8863-CCA70D0AE8D3",
+    "id" : "1495F10D-DEA3-486D-99BF-956A1BEE8427",
+    "timestamp" : "2026-01-15T16:30:40Z",
+    "type" : "Clock Out"
+  },
+  {
+    "employeeId" : "393F3D1F-F71E-4F88-8619-1CDD9BF9C9C2",
+    "id" : "2C903795-FC1C-47E0-B67C-EFE0881F2B20",
+    "timestamp" : "2026-01-15T16:31:08Z",
+    "type" : "Clock Out"
+  },
+  {
+    "employeeId" : "ABBF1404-78F1-4DB0-A35E-374CD9612909",
+    "id" : "D8F92100-C5CF-4409-9AFB-849BA1C80321",
+    "timestamp" : "2026-01-15T16:31:30Z",
+    "type" : "Clock Out"
+  },
+  {
+    "employeeId" : "394EE8BC-3145-4010-B8D1-B4965EAA9296",
+    "id" : "AF515E2C-9A5D-4DCD-ADD5-6577B5E703FB",
+    "timestamp" : "2026-01-15T16:31:43Z",
+    "type" : "Clock Out"
   }
 ]
