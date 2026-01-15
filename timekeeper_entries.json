@@ -60490,5 +60490,11 @@
     "id" : "6A25F4D6-0ADB-481A-B750-4631517493B5",
     "timestamp" : "2026-01-15T16:40:07Z",
     "type" : "Clock Out"
+  },
+  {
+    "employeeId" : "F0064293-8B19-496C-979F-E3265BEFD5C9",
+    "id" : "C6129ACE-FF1C-4F52-ABF1-9B86C8EC7AD1",
+    "timestamp" : "2026-01-15T17:00:01Z",
+    "type" : "Clock Out"
   }
 ]
