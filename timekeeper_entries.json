@@ -60652,5 +60652,17 @@
     "id" : "EABAC2AA-090D-4858-9875-DE706495A088",
     "timestamp" : "2026-01-16T08:07:38Z",
     "type" : "Clock In"
+  },
+  {
+    "employeeId" : "83F0962E-D531-4F32-952D-F84DE2EDD27F",
+    "id" : "068F53DE-9883-4D1D-9B27-9138DFA54BB2",
+    "timestamp" : "2026-01-16T08:26:51Z",
+    "type" : "Clock In"
+  },
+  {
+    "employeeId" : "7052DB49-F73F-47F0-9FB3-CF44601A7FC3",
+    "id" : "34EA4D24-04B7-4C9C-B02C-5570D6A9C839",
+    "timestamp" : "2026-01-16T08:30:47Z",
+    "type" : "Clock In"
   }
 ]
