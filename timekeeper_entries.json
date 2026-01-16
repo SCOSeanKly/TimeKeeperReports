@@ -60592,5 +60592,23 @@
     "id" : "D6824941-EDD3-4AB1-A6E3-71F3B70D1FE5",
     "timestamp" : "2026-01-16T07:49:14Z",
     "type" : "Clock In"
+  },
+  {
+    "employeeId" : "393F3D1F-F71E-4F88-8619-1CDD9BF9C9C2",
+    "id" : "E1210D2B-CC65-40DD-B737-806A50EA2C95",
+    "timestamp" : "2026-01-16T07:51:25Z",
+    "type" : "Clock In"
+  },
+  {
+    "employeeId" : "BE4E5108-1C7A-4396-BA60-985D0A0D25DC",
+    "id" : "504B9215-2ED0-4EF8-AC21-9D927885B90C",
+    "timestamp" : "2026-01-16T07:55:24Z",
+    "type" : "Clock In"
+  },
+  {
+    "employeeId" : "BC7199E0-4065-4B2C-8863-CCA70D0AE8D3",
+    "id" : "1ED5960D-40D8-4BE5-BD01-BE66F3CDB190",
+    "timestamp" : "2026-01-16T07:55:49Z",
+    "type" : "Clock In"
   }
 ]
