@@ -60814,5 +60814,17 @@
     "id" : "5715150F-5288-477C-B7B3-BE8C640D8B0B",
     "timestamp" : "2026-01-16T10:49:34Z",
     "type" : "Break Start"
+  },
+  {
+    "employeeId" : "BD0902DD-373B-433A-953A-755F88CBF221",
+    "id" : "3011A950-2952-4953-A0D2-F5A5D4B418B5",
+    "timestamp" : "2026-01-16T10:55:51Z",
+    "type" : "Break End"
+  },
+  {
+    "employeeId" : "D56675E7-D446-4F6D-BC07-06072C9146BE",
+    "id" : "561D3BDD-3FE7-4F53-BD76-0C5E1775731B",
+    "timestamp" : "2026-01-16T10:56:50Z",
+    "type" : "Break End"
   }
 ]
