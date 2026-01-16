@@ -60988,5 +60988,23 @@
     "id" : "2E015C2B-8664-4D56-9DF0-9FCCACF5EBFB",
     "timestamp" : "2026-01-16T16:00:29Z",
     "type" : "Clock Out"
+  },
+  {
+    "employeeId" : "393F3D1F-F71E-4F88-8619-1CDD9BF9C9C2",
+    "id" : "7827A24A-BA82-41AB-A79F-BDCB42B41017",
+    "timestamp" : "2026-01-16T16:29:49Z",
+    "type" : "Clock Out"
+  },
+  {
+    "employeeId" : "393F3D1F-F71E-4F88-8619-1CDD9BF9C9C2",
+    "id" : "3AB41DFD-9079-4B37-BFC4-5D5D82FDA363",
+    "timestamp" : "2026-01-16T16:29:51Z",
+    "type" : "Clock Out"
+  },
+  {
+    "employeeId" : "394EE8BC-3145-4010-B8D1-B4965EAA9296",
+    "id" : "14BFA3FC-5EDC-472E-906E-5BADFF9953FF",
+    "timestamp" : "2026-01-16T16:32:19Z",
+    "type" : "Clock Out"
   }
 ]
