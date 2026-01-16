@@ -60742,5 +60742,23 @@
     "id" : "9EDA10C2-83E6-417A-BACE-1C595884CE74",
     "timestamp" : "2026-01-16T10:35:47Z",
     "type" : "Break Start"
+  },
+  {
+    "employeeId" : "ABBF1404-78F1-4DB0-A35E-374CD9612909",
+    "id" : "AE75695F-E887-4B27-925B-F8D81A46F715",
+    "timestamp" : "2026-01-16T10:36:10Z",
+    "type" : "Break Start"
+  },
+  {
+    "employeeId" : "ABBF1404-78F1-4DB0-A35E-374CD9612909",
+    "id" : "26B233DB-18CA-46FE-A5E1-6997086D2AFF",
+    "timestamp" : "2026-01-16T10:36:13Z",
+    "type" : "Break End"
+  },
+  {
+    "employeeId" : "8328C48C-97D6-4E14-BE85-BB8763817CF8",
+    "id" : "11512EB8-80A8-462D-AF9F-1F04FD916BC1",
+    "timestamp" : "2026-01-16T10:37:56Z",
+    "type" : "Break Start"
   }
 ]
