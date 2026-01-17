@@ -61138,5 +61138,11 @@
     "id" : "8E736C1F-ADAD-46E3-9B21-0DCCD3803E7F",
     "timestamp" : "2026-01-17T11:40:56Z",
     "type" : "Clock In"
+  },
+  {
+    "employeeId" : "83F0962E-D531-4F32-952D-F84DE2EDD27F",
+    "id" : "51EBA10D-3B02-4358-9B0A-5373DB8C9F97",
+    "timestamp" : "2026-01-17T12:44:32Z",
+    "type" : "Clock Out"
   }
 ]
