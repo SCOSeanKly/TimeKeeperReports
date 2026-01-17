@@ -61102,5 +61102,17 @@
     "id" : "67F39A3D-7A7A-4DC7-B0A1-4349B7810E35",
     "timestamp" : "2026-01-16T17:32:29Z",
     "type" : "Clock Out"
+  },
+  {
+    "employeeId" : "F0064293-8B19-496C-979F-E3265BEFD5C9",
+    "id" : "E20910A3-DD2A-41B3-A835-744825A71B50",
+    "timestamp" : "2026-01-17T07:50:06Z",
+    "type" : "Clock In"
+  },
+  {
+    "employeeId" : "BE4E5108-1C7A-4396-BA60-985D0A0D25DC",
+    "id" : "71945822-7D8D-4E29-9850-8BB4899E881C",
+    "timestamp" : "2026-01-17T07:51:27Z",
+    "type" : "Clock In"
   }
 ]
