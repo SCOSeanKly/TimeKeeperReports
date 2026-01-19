@@ -61618,5 +61618,17 @@
     "id" : "C9E10DCB-23DB-455E-935F-12D6B6E0F1DD",
     "timestamp" : "2026-01-19T16:30:57Z",
     "type" : "Clock Out"
+  },
+  {
+    "employeeId" : "2D3EC73F-366E-466C-8516-C0AF231C271E",
+    "id" : "5D2D10D4-C717-4C3A-89D2-C898EA27828B",
+    "timestamp" : "2026-01-19T17:00:02Z",
+    "type" : "Clock Out"
+  },
+  {
+    "employeeId" : "F0064293-8B19-496C-979F-E3265BEFD5C9",
+    "id" : "8A36E974-F0BB-4ECA-9942-77EFBA0C8EC6",
+    "timestamp" : "2026-01-19T17:00:12Z",
+    "type" : "Clock Out"
   }
 ]
