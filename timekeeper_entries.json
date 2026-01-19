@@ -61252,5 +61252,17 @@
     "id" : "D76F3192-FB79-460F-9B84-89B3B25F1EE5",
     "timestamp" : "2026-01-19T08:15:15Z",
     "type" : "Clock In"
+  },
+  {
+    "employeeId" : "3C4C3205-2DFC-4646-9AB9-49F73AD47A6A",
+    "id" : "1688B7F0-591D-4277-AFDA-25C31034868B",
+    "timestamp" : "2026-01-19T08:28:39Z",
+    "type" : "Clock In"
+  },
+  {
+    "employeeId" : "7052DB49-F73F-47F0-9FB3-CF44601A7FC3",
+    "id" : "3FBE48B1-DAA1-4731-8AB7-4E8043F9938E",
+    "timestamp" : "2026-01-19T08:32:12Z",
+    "type" : "Clock In"
   }
 ]
