@@ -61828,5 +61828,23 @@
     "id" : "6DB53EC0-64AA-43AD-A685-16AB936D7E82",
     "timestamp" : "2026-01-20T10:34:06Z",
     "type" : "Break Start"
+  },
+  {
+    "employeeId" : "3C4C3205-2DFC-4646-9AB9-49F73AD47A6A",
+    "id" : "99CD1174-8573-4544-A617-198804065FE8",
+    "timestamp" : "2026-01-20T10:39:06Z",
+    "type" : "Break Start"
+  },
+  {
+    "employeeId" : "8328C48C-97D6-4E14-BE85-BB8763817CF8",
+    "id" : "48CC68FB-D4CA-4C46-BE46-3784E8F60ADF",
+    "timestamp" : "2026-01-20T10:41:09Z",
+    "type" : "Break Start"
+  },
+  {
+    "employeeId" : "83F0962E-D531-4F32-952D-F84DE2EDD27F",
+    "id" : "47375FBE-D47C-44EC-A87D-F3019CCC0F9F",
+    "timestamp" : "2026-01-20T10:42:55Z",
+    "type" : "Clock In"
   }
 ]
