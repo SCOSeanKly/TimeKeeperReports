@@ -61696,5 +61696,11 @@
     "id" : "EBC400AE-D2DB-42BB-ACC2-72B8FCEE7451",
     "timestamp" : "2026-01-19T21:00:00Z",
     "type" : "Auto Clock Out At Midnight"
+  },
+  {
+    "employeeId" : "2D3EC73F-366E-466C-8516-C0AF231C271E",
+    "id" : "4F418A72-FE53-49F5-A979-7DF0671002E8",
+    "timestamp" : "2026-01-20T07:41:33Z",
+    "type" : "Clock In"
   }
 ]
