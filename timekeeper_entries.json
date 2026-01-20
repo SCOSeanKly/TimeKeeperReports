@@ -62164,5 +62164,11 @@
     "id" : "3FDE6A12-936D-4EDA-AE76-774E50130F64",
     "timestamp" : "2026-01-20T17:03:05Z",
     "type" : "Clock Out"
+  },
+  {
+    "employeeId" : "8328C48C-97D6-4E14-BE85-BB8763817CF8",
+    "id" : "2FC3C9CB-9620-4ADD-AE6E-9B0AB1CC51FD",
+    "timestamp" : "2026-01-20T17:06:00Z",
+    "type" : "Clock Out"
   }
 ]
