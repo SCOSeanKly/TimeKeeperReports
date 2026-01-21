@@ -62368,5 +62368,17 @@
     "id" : "56412F27-1968-4EC1-B20A-DBE5961440C8",
     "timestamp" : "2026-01-21T10:34:06Z",
     "type" : "Break Start"
+  },
+  {
+    "employeeId" : "ABBF1404-78F1-4DB0-A35E-374CD9612909",
+    "id" : "B9413924-BF7B-4244-949F-9D27A1BD99DA",
+    "timestamp" : "2026-01-21T10:38:08Z",
+    "type" : "Break Start"
+  },
+  {
+    "employeeId" : "ABBF1404-78F1-4DB0-A35E-374CD9612909",
+    "id" : "BF4A3E11-1BAE-4525-814F-7794D0552137",
+    "timestamp" : "2026-01-21T10:38:19Z",
+    "type" : "Break End"
   }
 ]
