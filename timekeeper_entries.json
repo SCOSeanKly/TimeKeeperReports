@@ -63082,5 +63082,23 @@
     "id" : "C61BACD6-9A78-47D2-8E2F-89FB44DA4CA3",
     "timestamp" : "2026-01-22T15:41:31Z",
     "type" : "Clock In"
+  },
+  {
+    "employeeId" : "BE4E5108-1C7A-4396-BA60-985D0A0D25DC",
+    "id" : "BCF6065B-5BCB-4D95-9965-B095B3DB8D6C",
+    "timestamp" : "2026-01-22T15:57:58Z",
+    "type" : "Clock In"
+  },
+  {
+    "employeeId" : "BE4E5108-1C7A-4396-BA60-985D0A0D25DC",
+    "id" : "BD4E8516-9485-4790-A7F7-94531E9E4CDB",
+    "timestamp" : "2026-01-22T15:58:03Z",
+    "type" : "Lunch Start"
+  },
+  {
+    "employeeId" : "BE4E5108-1C7A-4396-BA60-985D0A0D25DC",
+    "id" : "BE801BBA-6AC1-4556-817D-160D771CF7DA",
+    "timestamp" : "2026-01-22T15:58:05Z",
+    "type" : "Clock Out"
   }
 ]
