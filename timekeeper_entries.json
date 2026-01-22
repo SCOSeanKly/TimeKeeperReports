@@ -63064,5 +63064,17 @@
     "id" : "5D6CF086-744C-4DA8-AD4D-B2B1198ABA7F",
     "timestamp" : "2026-01-22T14:04:47Z",
     "type" : "Lunch End"
+  },
+  {
+    "employeeId" : "3C4C3205-2DFC-4646-9AB9-49F73AD47A6A",
+    "id" : "8F64C8C5-C35C-4978-9D42-59AF01C19BAE",
+    "timestamp" : "2026-01-22T14:07:11Z",
+    "type" : "Lunch End"
+  },
+  {
+    "employeeId" : "83F0962E-D531-4F32-952D-F84DE2EDD27F",
+    "id" : "6FD56347-DCE0-4EAD-BE76-014A50C6C920",
+    "timestamp" : "2026-01-22T14:07:22Z",
+    "type" : "Lunch End"
   }
 ]
