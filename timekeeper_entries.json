@@ -62752,5 +62752,11 @@
     "id" : "137707E1-763B-4F14-B6ED-241A8B02CCB2",
     "timestamp" : "2026-01-21T21:00:00Z",
     "type" : "Auto Clock Out At Midnight"
+  },
+  {
+    "employeeId" : "BD0902DD-373B-433A-953A-755F88CBF221",
+    "id" : "03D845DF-3BCF-4885-B056-1671525BD9A5",
+    "timestamp" : "2026-01-22T07:36:11Z",
+    "type" : "Clock In"
   }
 ]
