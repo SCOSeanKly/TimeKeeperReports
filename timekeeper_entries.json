@@ -63622,5 +63622,17 @@
     "id" : "D3F569F7-79DD-471A-A490-3187478BB520",
     "timestamp" : "2026-01-23T16:37:00Z",
     "type" : "Clock Out"
+  },
+  {
+    "employeeId" : "2D3EC73F-366E-466C-8516-C0AF231C271E",
+    "id" : "4AD49462-A654-4A6B-BA76-68CE24F77EC9",
+    "timestamp" : "2026-01-23T16:57:36Z",
+    "type" : "Clock Out"
+  },
+  {
+    "employeeId" : "83F0962E-D531-4F32-952D-F84DE2EDD27F",
+    "id" : "0DF47B8C-69EE-4701-AA65-D7FC5BA9C87C",
+    "timestamp" : "2026-01-23T17:01:27Z",
+    "type" : "Clock Out"
   }
 ]
