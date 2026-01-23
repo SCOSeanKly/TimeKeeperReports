@@ -63400,5 +63400,11 @@
     "id" : "F2D3C017-8FEF-47F2-9B71-0C1AE54CED7F",
     "timestamp" : "2026-01-23T10:55:46Z",
     "type" : "Break End"
+  },
+  {
+    "employeeId" : "CCB8E18E-1ED3-4A1E-9204-5A5E61D70B53",
+    "id" : "14B6EC14-7829-4788-BB5E-914F4DAF9BC7",
+    "timestamp" : "2026-01-23T12:30:02Z",
+    "type" : "Clock In"
   }
 ]
