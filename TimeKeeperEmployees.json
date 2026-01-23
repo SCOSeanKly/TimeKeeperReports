@@ -223,5 +223,14 @@
     "name" : "Joe Smith",
     "pin" : "9988",
     "startTime" : "2026-01-12T08:00:00Z"
+  },
+  {
+    "department" : "Workshop",
+    "finishTime" : "2026-01-23T17:00:00Z",
+    "hasFlexibleSchedule" : false,
+    "id" : "CCB8E18E-1ED3-4A1E-9204-5A5E61D70B53",
+    "name" : "David Bunsen",
+    "pin" : "8877",
+    "startTime" : "2026-01-23T08:30:00Z"
   }
 ]
