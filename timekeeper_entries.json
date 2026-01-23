@@ -63190,5 +63190,17 @@
     "id" : "BDC5D541-4586-4DE6-8908-EEF393B10486",
     "timestamp" : "2026-01-22T19:54:51Z",
     "type" : "Clock Out"
+  },
+  {
+    "employeeId" : "2D3EC73F-366E-466C-8516-C0AF231C271E",
+    "id" : "58960817-CD1F-4CCD-A6ED-0186859D1D4E",
+    "timestamp" : "2026-01-23T07:42:15Z",
+    "type" : "Clock In"
+  },
+  {
+    "employeeId" : "ABBF1404-78F1-4DB0-A35E-374CD9612909",
+    "id" : "A242EF50-D86F-4868-9750-DA4B7F8F59D0",
+    "timestamp" : "2026-01-23T07:43:53Z",
+    "type" : "Clock In"
   }
 ]
