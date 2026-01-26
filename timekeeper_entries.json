@@ -64168,5 +64168,11 @@
     "id" : "E56698CD-248F-44A0-A1FE-FF47F59E854F",
     "timestamp" : "2026-01-26T15:42:18Z",
     "type" : "Clock In"
+  },
+  {
+    "employeeId" : "BE4E5108-1C7A-4396-BA60-985D0A0D25DC",
+    "id" : "8FF7D4CC-7575-4551-B8F6-00F883BB9093",
+    "timestamp" : "2026-01-26T16:01:32Z",
+    "type" : "Clock Out"
   }
 ]
