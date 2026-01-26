@@ -64000,5 +64000,23 @@
     "id" : "AC1A7E37-76DD-415B-9373-14B199EC74B6",
     "timestamp" : "2026-01-26T10:55:45Z",
     "type" : "Break End"
+  },
+  {
+    "employeeId" : "ABBF1404-78F1-4DB0-A35E-374CD9612909",
+    "id" : "F9D16F5F-B4F2-41B1-95CE-0C3447C49121",
+    "timestamp" : "2026-01-26T11:36:46Z",
+    "type" : "Clock In"
+  },
+  {
+    "employeeId" : "ABBF1404-78F1-4DB0-A35E-374CD9612909",
+    "id" : "7686CBAE-1138-4302-AD23-FACF9A1581F7",
+    "timestamp" : "2026-01-26T11:37:17Z",
+    "type" : "Break Start"
+  },
+  {
+    "employeeId" : "ABBF1404-78F1-4DB0-A35E-374CD9612909",
+    "id" : "FDC0C27D-F84C-4D71-AF34-0D747EA0F3EC",
+    "timestamp" : "2026-01-26T11:37:20Z",
+    "type" : "Break End"
   }
 ]
