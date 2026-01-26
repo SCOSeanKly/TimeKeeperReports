@@ -64150,5 +64150,17 @@
     "id" : "2C7B5980-14C7-4567-85ED-3468E69E1A74",
     "timestamp" : "2026-01-26T14:02:35Z",
     "type" : "Lunch End"
+  },
+  {
+    "employeeId" : "29EAE04E-470D-4124-8038-200CCF2D63BC",
+    "id" : "0A5FEADD-3FCF-4162-A332-F61996117CB8",
+    "timestamp" : "2026-01-26T14:03:56Z",
+    "type" : "Lunch End"
+  },
+  {
+    "employeeId" : "3C4C3205-2DFC-4646-9AB9-49F73AD47A6A",
+    "id" : "041AC96A-6998-4DF3-94FC-45333377928D",
+    "timestamp" : "2026-01-26T14:04:42Z",
+    "type" : "Lunch End"
   }
 ]
