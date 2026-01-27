@@ -64666,5 +64666,23 @@
     "id" : "0A51B7C0-11BF-4962-B1A9-A26328F0B6ED",
     "timestamp" : "2026-01-27T14:02:45Z",
     "type" : "Lunch End"
+  },
+  {
+    "employeeId" : "953EA2A7-6C38-4C9B-98AD-A7927077E363",
+    "id" : "5A3C6656-FA80-4DE7-9EF9-AC8C2DD6DB42",
+    "timestamp" : "2026-01-27T14:37:48Z",
+    "type" : "Clock In"
+  },
+  {
+    "employeeId" : "953EA2A7-6C38-4C9B-98AD-A7927077E363",
+    "id" : "100D12F6-CC73-4BE4-B4DC-375B86138586",
+    "timestamp" : "2026-01-27T14:37:53Z",
+    "type" : "Lunch Start"
+  },
+  {
+    "employeeId" : "953EA2A7-6C38-4C9B-98AD-A7927077E363",
+    "id" : "225E4F95-38B1-4D1E-B44F-4BA0B098C905",
+    "timestamp" : "2026-01-27T14:38:04Z",
+    "type" : "Lunch End"
   }
 ]
