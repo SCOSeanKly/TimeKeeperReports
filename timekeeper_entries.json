@@ -64288,5 +64288,17 @@
     "id" : "4ADB7985-BE8D-4C12-BD79-2F01254FC48E",
     "timestamp" : "2026-01-27T07:47:29Z",
     "type" : "Clock In"
+  },
+  {
+    "employeeId" : "BC7199E0-4065-4B2C-8863-CCA70D0AE8D3",
+    "id" : "5FE9B2AD-986A-4B55-9309-ACDB4DD33249",
+    "timestamp" : "2026-01-27T07:51:14Z",
+    "type" : "Clock In"
+  },
+  {
+    "employeeId" : "8328C48C-97D6-4E14-BE85-BB8763817CF8",
+    "id" : "CEBAB4AC-88D5-4B50-A115-79F77FFEEF49",
+    "timestamp" : "2026-01-27T07:53:18Z",
+    "type" : "Clock In"
   }
 ]
