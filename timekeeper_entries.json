@@ -65200,5 +65200,17 @@
     "id" : "F0F0ECB7-D558-44C2-BD6E-86FDEB78AF27",
     "timestamp" : "2026-01-28T14:02:52Z",
     "type" : "Lunch End"
+  },
+  {
+    "employeeId" : "29EAE04E-470D-4124-8038-200CCF2D63BC",
+    "id" : "D7E2F46F-680F-4B15-B289-B05F26C61874",
+    "timestamp" : "2026-01-28T14:08:41Z",
+    "type" : "Lunch End"
+  },
+  {
+    "employeeId" : "8328C48C-97D6-4E14-BE85-BB8763817CF8",
+    "id" : "BB4A5158-C2C8-4AC6-ADD4-4D4ACA865B8A",
+    "timestamp" : "2026-01-28T14:12:34Z",
+    "type" : "Lunch End"
   }
 ]
