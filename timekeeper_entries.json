@@ -65212,5 +65212,11 @@
     "id" : "BB4A5158-C2C8-4AC6-ADD4-4D4ACA865B8A",
     "timestamp" : "2026-01-28T14:12:34Z",
     "type" : "Lunch End"
+  },
+  {
+    "employeeId" : "57BA9115-ECC7-46ED-B99A-48B11ED17B76",
+    "id" : "4D69B9F5-B1FC-4671-BC54-CCD3D666B66B",
+    "timestamp" : "2026-01-28T15:39:36Z",
+    "type" : "Clock In"
   }
 ]
