@@ -65278,5 +65278,23 @@
     "id" : "848E371A-7E50-4AE6-9F63-3763B7C17A00",
     "timestamp" : "2026-01-28T17:11:37Z",
     "type" : "Clock Out"
+  },
+  {
+    "employeeId" : "29EAE04E-470D-4124-8038-200CCF2D63BC",
+    "id" : "827C5BB3-B2B8-4F6C-BDA5-89647D11CE73",
+    "timestamp" : "2026-01-28T17:18:57Z",
+    "type" : "Clock Out"
+  },
+  {
+    "employeeId" : "29EAE04E-470D-4124-8038-200CCF2D63BC",
+    "id" : "158D95C4-EF62-47B1-AEC6-4E47AE5F43C4",
+    "timestamp" : "2026-01-28T17:18:58Z",
+    "type" : "Clock Out"
+  },
+  {
+    "employeeId" : "337733FA-A522-41C0-9B46-2A6B5A1D00F9",
+    "id" : "96E1CEBD-A71E-408B-AF98-D039CD5C7D9A",
+    "timestamp" : "2026-01-28T17:19:09Z",
+    "type" : "Clock Out"
   }
 ]
