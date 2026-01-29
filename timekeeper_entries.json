@@ -65422,5 +65422,23 @@
     "id" : "1D0A5064-8330-4EC8-9A51-5D5CEFB60A9E",
     "timestamp" : "2026-01-29T08:24:21Z",
     "type" : "Clock In"
+  },
+  {
+    "employeeId" : "7052DB49-F73F-47F0-9FB3-CF44601A7FC3",
+    "id" : "577DB95F-1CEB-4217-B4BD-610E041A0E4B",
+    "timestamp" : "2026-01-29T08:29:06Z",
+    "type" : "Clock In"
+  },
+  {
+    "employeeId" : "3C4C3205-2DFC-4646-9AB9-49F73AD47A6A",
+    "id" : "24E6AD10-7D4E-4AB0-B785-A39BC073E437",
+    "timestamp" : "2026-01-29T08:30:07Z",
+    "type" : "Clock In"
+  },
+  {
+    "employeeId" : "CCB8E18E-1ED3-4A1E-9204-5A5E61D70B53",
+    "id" : "9E87F7A2-B119-4A35-BD16-5110CB0EF5FF",
+    "timestamp" : "2026-01-29T08:30:18Z",
+    "type" : "Clock In"
   }
 ]
