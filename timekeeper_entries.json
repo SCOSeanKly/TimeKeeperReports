@@ -65866,5 +65866,23 @@
     "id" : "F76C02DF-A086-4BB6-839C-EA0906D4A7A1",
     "timestamp" : "2026-01-29T16:00:00Z",
     "type" : "Clock In"
+  },
+  {
+    "employeeId" : "953EA2A7-6C38-4C9B-98AD-A7927077E363",
+    "id" : "E00B11A4-2F25-47C2-BF59-F7FBFFB4CD10",
+    "timestamp" : "2026-01-29T17:45:45Z",
+    "type" : "Clock Out"
+  },
+  {
+    "employeeId" : "29EAE04E-470D-4124-8038-200CCF2D63BC",
+    "id" : "A018B1EE-F83E-49FB-9D0E-7D986C47C1AB",
+    "timestamp" : "2026-01-29T17:46:08Z",
+    "type" : "Clock Out"
+  },
+  {
+    "employeeId" : "7052DB49-F73F-47F0-9FB3-CF44601A7FC3",
+    "id" : "5DC1645C-427C-4D88-BA1C-A0D8E8D7CC0C",
+    "timestamp" : "2026-01-29T17:48:48Z",
+    "type" : "Clock Out"
   }
 ]
