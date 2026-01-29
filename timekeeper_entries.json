@@ -65344,5 +65344,11 @@
     "id" : "E85E1E01-8328-43DD-822B-0FF341B454E3",
     "timestamp" : "2026-01-28T21:00:00Z",
     "type" : "Auto Clock Out At Midnight"
+  },
+  {
+    "employeeId" : "2D3EC73F-366E-466C-8516-C0AF231C271E",
+    "id" : "1A115DC6-DDD9-40B4-A7B4-569D7D7BE2FA",
+    "timestamp" : "2026-01-29T07:42:40Z",
+    "type" : "Clock In"
   }
 ]
