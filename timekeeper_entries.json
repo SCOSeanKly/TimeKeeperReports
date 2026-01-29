@@ -65350,5 +65350,17 @@
     "id" : "1A115DC6-DDD9-40B4-A7B4-569D7D7BE2FA",
     "timestamp" : "2026-01-29T07:42:40Z",
     "type" : "Clock In"
+  },
+  {
+    "employeeId" : "ABBF1404-78F1-4DB0-A35E-374CD9612909",
+    "id" : "36F2AD0A-9B12-4ABE-903A-F1782C1B38D3",
+    "timestamp" : "2026-01-29T07:48:32Z",
+    "type" : "Clock In"
+  },
+  {
+    "employeeId" : "8328C48C-97D6-4E14-BE85-BB8763817CF8",
+    "id" : "0620DECA-5D66-4F44-BE10-7868998103E7",
+    "timestamp" : "2026-01-29T07:53:25Z",
+    "type" : "Clock In"
   }
 ]
