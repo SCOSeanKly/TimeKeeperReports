@@ -66502,5 +66502,11 @@
     "id" : "98CDC6D5-02AD-4AAC-ABDE-2CFF4071BFEC",
     "timestamp" : "2026-01-31T11:59:31Z",
     "type" : "Clock In"
+  },
+  {
+    "employeeId" : "83F0962E-D531-4F32-952D-F84DE2EDD27F",
+    "id" : "123D78D6-E03E-48B4-AC8F-018CD377B27D",
+    "timestamp" : "2026-01-31T12:46:18Z",
+    "type" : "Clock Out"
   }
 ]
