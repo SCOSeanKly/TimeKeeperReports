@@ -66658,5 +66658,65 @@
     "id" : "0F9A1B3A-9BA9-49BC-B1E8-2D407DCB4507",
     "timestamp" : "2026-02-02T09:15:20Z",
     "type" : "Clock In"
+  },
+  {
+    "employeeId" : "F0064293-8B19-496C-979F-E3265BEFD5C9",
+    "id" : "B4F6D2CE-464F-4EC3-9BDE-BDCB998A2AA5",
+    "timestamp" : "2026-02-02T10:31:28Z",
+    "type" : "Break Start"
+  },
+  {
+    "employeeId" : "29EAE04E-470D-4124-8038-200CCF2D63BC",
+    "id" : "EED256F6-E310-4F91-8B2B-124EF4DC1524",
+    "timestamp" : "2026-02-02T10:31:40Z",
+    "type" : "Break Start"
+  },
+  {
+    "employeeId" : "BD0902DD-373B-433A-953A-755F88CBF221",
+    "id" : "AFA6EE6A-432E-47E7-8625-330C01632D2D",
+    "timestamp" : "2026-02-02T10:31:51Z",
+    "type" : "Break Start"
+  },
+  {
+    "employeeId" : "A89B7519-4C5C-4F70-9342-5BBCF890E719",
+    "id" : "5D2603E9-B8ED-4997-AAC1-F235DA803C2F",
+    "timestamp" : "2026-02-02T10:32:49Z",
+    "type" : "Break Start"
+  },
+  {
+    "employeeId" : "393F3D1F-F71E-4F88-8619-1CDD9BF9C9C2",
+    "id" : "B5C06282-4C60-49E3-8022-00E5B5AC5339",
+    "timestamp" : "2026-02-02T10:32:57Z",
+    "type" : "Break Start"
+  },
+  {
+    "employeeId" : "393F3D1F-F71E-4F88-8619-1CDD9BF9C9C2",
+    "id" : "2EEE59F1-90FC-41E4-A959-CCE6223B1885",
+    "timestamp" : "2026-02-02T10:33:01Z",
+    "type" : "Break End"
+  },
+  {
+    "employeeId" : "83F0962E-D531-4F32-952D-F84DE2EDD27F",
+    "id" : "50BCCE05-BB6E-45B6-9B95-03EAC3E4B837",
+    "timestamp" : "2026-02-02T10:33:14Z",
+    "type" : "Break Start"
+  },
+  {
+    "employeeId" : "2D3EC73F-366E-466C-8516-C0AF231C271E",
+    "id" : "49AF3362-613A-4F95-8CF4-EF95F9752BBC",
+    "timestamp" : "2026-02-02T10:35:00Z",
+    "type" : "Break Start"
+  },
+  {
+    "employeeId" : "2D3EC73F-366E-466C-8516-C0AF231C271E",
+    "id" : "E051B624-B724-4BBD-BB09-A48BDDE6B163",
+    "timestamp" : "2026-02-02T10:35:04Z",
+    "type" : "Break End"
+  },
+  {
+    "employeeId" : "337733FA-A522-41C0-9B46-2A6B5A1D00F9",
+    "id" : "C77C8E8D-4700-4099-8E94-00A17CC64EBC",
+    "timestamp" : "2026-02-02T10:36:49Z",
+    "type" : "Break Start"
   }
 ]
