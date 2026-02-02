@@ -66628,5 +66628,17 @@
     "id" : "9901AD39-96E9-49DC-B55D-3C0E45C23485",
     "timestamp" : "2026-02-02T08:22:44Z",
     "type" : "Clock In"
+  },
+  {
+    "employeeId" : "7052DB49-F73F-47F0-9FB3-CF44601A7FC3",
+    "id" : "2695BDD8-7AE0-4D8F-A4C8-F103CB84F2E3",
+    "timestamp" : "2026-02-02T08:29:34Z",
+    "type" : "Clock In"
+  },
+  {
+    "employeeId" : "7052DB49-F73F-47F0-9FB3-CF44601A7FC3",
+    "id" : "04496FF5-B3AD-43F4-84E9-7CB4054CB8ED",
+    "timestamp" : "2026-02-02T08:29:36Z",
+    "type" : "Clock In"
   }
 ]
