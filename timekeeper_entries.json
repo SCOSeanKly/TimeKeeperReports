@@ -66892,5 +66892,23 @@
     "id" : "DC5A9136-FA98-4588-82AB-0F4E0A3F658C",
     "timestamp" : "2026-02-02T13:42:37Z",
     "type" : "Lunch Start"
+  },
+  {
+    "employeeId" : "7052DB49-F73F-47F0-9FB3-CF44601A7FC3",
+    "id" : "AD230F48-77A9-4CE1-B713-3DCF8C00DBBB",
+    "timestamp" : "2026-02-02T13:43:45Z",
+    "type" : "Lunch Start"
+  },
+  {
+    "employeeId" : "7052DB49-F73F-47F0-9FB3-CF44601A7FC3",
+    "id" : "97C278F5-0D69-4753-96CE-60D5502914C6",
+    "timestamp" : "2026-02-02T13:43:51Z",
+    "type" : "Lunch End"
+  },
+  {
+    "employeeId" : "7052DB49-F73F-47F0-9FB3-CF44601A7FC3",
+    "id" : "8AED72FE-61CE-4649-9D42-9DF2B52999B3",
+    "timestamp" : "2026-02-02T13:44:02Z",
+    "type" : "Lunch Start"
   }
 ]
