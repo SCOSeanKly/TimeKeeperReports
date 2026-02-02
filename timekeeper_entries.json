@@ -66940,5 +66940,17 @@
     "id" : "8D198EDB-B7C3-4477-9138-857BA571900F",
     "timestamp" : "2026-02-02T14:00:10Z",
     "type" : "Lunch End"
+  },
+  {
+    "employeeId" : "3C4C3205-2DFC-4646-9AB9-49F73AD47A6A",
+    "id" : "A58A02D6-F516-4A37-866B-9F8860D31564",
+    "timestamp" : "2026-02-02T14:03:52Z",
+    "type" : "Lunch End"
+  },
+  {
+    "employeeId" : "D56675E7-D446-4F6D-BC07-06072C9146BE",
+    "id" : "856E1EAE-9C84-43DE-9F0D-9B07D5A50118",
+    "timestamp" : "2026-02-02T14:06:08Z",
+    "type" : "Lunch End"
   }
 ]
