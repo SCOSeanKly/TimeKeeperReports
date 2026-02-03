@@ -67144,5 +67144,17 @@
     "id" : "56FBBDB8-C654-4E08-BEC3-2A25CC257BD4",
     "timestamp" : "2026-02-03T08:18:55Z",
     "type" : "Clock In"
+  },
+  {
+    "employeeId" : "3C4C3205-2DFC-4646-9AB9-49F73AD47A6A",
+    "id" : "48223AFC-4519-4989-BCBC-6572BF89AC99",
+    "timestamp" : "2026-02-03T08:30:54Z",
+    "type" : "Clock In"
+  },
+  {
+    "employeeId" : "7052DB49-F73F-47F0-9FB3-CF44601A7FC3",
+    "id" : "0F8F08CF-B31B-42E1-93A4-58741D093D92",
+    "timestamp" : "2026-02-03T08:31:53Z",
+    "type" : "Clock In"
   }
 ]
