@@ -67600,5 +67600,11 @@
     "id" : "9945C4E6-19FB-4B97-9820-8D326F017AC3",
     "timestamp" : "2026-02-03T21:00:00Z",
     "type" : "Auto Clock Out At Midnight"
+  },
+  {
+    "employeeId" : "2D3EC73F-366E-466C-8516-C0AF231C271E",
+    "id" : "15D1C679-0746-48A3-BCD9-22EFE0D0EB28",
+    "timestamp" : "2026-02-04T07:46:38Z",
+    "type" : "Clock In"
   }
 ]
