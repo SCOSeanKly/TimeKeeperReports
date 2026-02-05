@@ -68560,5 +68560,17 @@
     "id" : "ED4E2EA0-B91D-4AC5-9A02-68BD3BFA5B30",
     "timestamp" : "2026-02-05T15:43:17Z",
     "type" : "Clock In"
+  },
+  {
+    "employeeId" : "BE4E5108-1C7A-4396-BA60-985D0A0D25DC",
+    "id" : "0AE0F031-3006-4AC5-AA48-5E8EB339CC5B",
+    "timestamp" : "2026-02-05T15:58:27Z",
+    "type" : "Clock Out"
+  },
+  {
+    "employeeId" : "393F3D1F-F71E-4F88-8619-1CDD9BF9C9C2",
+    "id" : "3E9F880C-74B5-4C41-B38F-C705FC6A02DC",
+    "timestamp" : "2026-02-05T15:59:16Z",
+    "type" : "Clock Out"
   }
 ]
