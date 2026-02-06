@@ -69160,5 +69160,17 @@
     "id" : "7ABCF2B6-1D80-4571-9F9D-14FC8AD78160",
     "timestamp" : "2026-02-06T16:32:04Z",
     "type" : "Clock Out"
+  },
+  {
+    "employeeId" : "2D3EC73F-366E-466C-8516-C0AF231C271E",
+    "id" : "5E72613B-2BE6-4D19-BCB7-647E4C18B6C7",
+    "timestamp" : "2026-02-06T16:59:36Z",
+    "type" : "Clock Out"
+  },
+  {
+    "employeeId" : "3C4C3205-2DFC-4646-9AB9-49F73AD47A6A",
+    "id" : "E0302932-B1F3-4269-ADEC-C1D66020E582",
+    "timestamp" : "2026-02-06T17:02:00Z",
+    "type" : "Clock Out"
   }
 ]
