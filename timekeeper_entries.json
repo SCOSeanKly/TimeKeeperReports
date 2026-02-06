@@ -69124,5 +69124,11 @@
     "id" : "8DCBB27D-4B0C-458B-84D1-42D19811BAF9",
     "timestamp" : "2026-02-06T14:43:38Z",
     "type" : "Lunch End"
+  },
+  {
+    "employeeId" : "BE4E5108-1C7A-4396-BA60-985D0A0D25DC",
+    "id" : "1FFF24E9-6A40-4CDD-AD05-1A43BD55BB02",
+    "timestamp" : "2026-02-06T16:00:40Z",
+    "type" : "Clock Out"
   }
 ]
