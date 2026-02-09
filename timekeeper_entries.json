@@ -69322,5 +69322,71 @@
     "id" : "40CF7FEC-BE07-44FF-9723-DF692670CFE1",
     "timestamp" : "2026-02-09T07:40:31Z",
     "type" : "Clock In"
+  },
+  {
+    "employeeId" : "2D3EC73F-366E-466C-8516-C0AF231C271E",
+    "id" : "EAE9E52B-4F91-44AC-A81A-2CE2C60776CE",
+    "timestamp" : "2026-02-09T07:53:46Z",
+    "type" : "Clock In"
+  },
+  {
+    "employeeId" : "A89B7519-4C5C-4F70-9342-5BBCF890E719",
+    "id" : "8570383D-3327-4D31-87BE-E28EEE561DF9",
+    "timestamp" : "2026-02-09T07:55:15Z",
+    "type" : "Clock In"
+  },
+  {
+    "employeeId" : "D56675E7-D446-4F6D-BC07-06072C9146BE",
+    "id" : "03781E6F-DF09-4820-90C1-E9D9BA0E8079",
+    "timestamp" : "2026-02-09T07:55:38Z",
+    "type" : "Clock In"
+  },
+  {
+    "employeeId" : "8328C48C-97D6-4E14-BE85-BB8763817CF8",
+    "id" : "DD230402-C4E0-4A07-B8D8-DB7C22F98FE0",
+    "timestamp" : "2026-02-09T07:55:48Z",
+    "type" : "Clock In"
+  },
+  {
+    "employeeId" : "337733FA-A522-41C0-9B46-2A6B5A1D00F9",
+    "id" : "A58DE467-1F90-4854-981B-1E8E36F858F0",
+    "timestamp" : "2026-02-09T07:55:58Z",
+    "type" : "Clock In"
+  },
+  {
+    "employeeId" : "BC7199E0-4065-4B2C-8863-CCA70D0AE8D3",
+    "id" : "E2E2D3B4-14C7-48BE-8C3E-510E84D54CD1",
+    "timestamp" : "2026-02-09T07:56:06Z",
+    "type" : "Clock In"
+  },
+  {
+    "employeeId" : "BD0902DD-373B-433A-953A-755F88CBF221",
+    "id" : "6A789E0F-092E-45A6-871C-D2B35E74BD0D",
+    "timestamp" : "2026-02-09T07:56:55Z",
+    "type" : "Clock In"
+  },
+  {
+    "employeeId" : "29EAE04E-470D-4124-8038-200CCF2D63BC",
+    "id" : "8597BAFE-EDEB-4506-8446-1E815454C509",
+    "timestamp" : "2026-02-09T07:57:14Z",
+    "type" : "Clock In"
+  },
+  {
+    "employeeId" : "BE4E5108-1C7A-4396-BA60-985D0A0D25DC",
+    "id" : "10C9C75F-6183-43F4-99D1-6DAF5BF03480",
+    "timestamp" : "2026-02-09T07:59:17Z",
+    "type" : "Clock In"
+  },
+  {
+    "employeeId" : "393F3D1F-F71E-4F88-8619-1CDD9BF9C9C2",
+    "id" : "D12CE958-F512-4BB9-AECF-999AC3157C04",
+    "timestamp" : "2026-02-09T08:00:52Z",
+    "type" : "Clock In"
+  },
+  {
+    "employeeId" : "394EE8BC-3145-4010-B8D1-B4965EAA9296",
+    "id" : "5AB3FEB1-0748-46A4-81F6-7FF270214386",
+    "timestamp" : "2026-02-09T08:03:36Z",
+    "type" : "Clock In"
   }
 ]
