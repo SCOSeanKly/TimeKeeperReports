@@ -70312,5 +70312,11 @@
     "id" : "44CB430E-710B-4ACE-87F6-3F51235054C2",
     "timestamp" : "2026-02-10T15:41:11Z",
     "type" : "Clock In"
+  },
+  {
+    "employeeId" : "BE4E5108-1C7A-4396-BA60-985D0A0D25DC",
+    "id" : "236A6D59-D24B-4310-8F1B-E32CB22EE75F",
+    "timestamp" : "2026-02-10T16:09:18Z",
+    "type" : "Clock Out"
   }
 ]
