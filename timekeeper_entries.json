@@ -69952,5 +69952,17 @@
     "id" : "108662B7-8D4D-4E4C-85BF-2C51AF697419",
     "timestamp" : "2026-02-10T08:31:17Z",
     "type" : "Clock In"
+  },
+  {
+    "employeeId" : "7052DB49-F73F-47F0-9FB3-CF44601A7FC3",
+    "id" : "950C6668-4F32-4822-913C-40C71B00D3A7",
+    "timestamp" : "2026-02-10T08:34:59Z",
+    "type" : "Clock In"
+  },
+  {
+    "employeeId" : "337733FA-A522-41C0-9B46-2A6B5A1D00F9",
+    "id" : "2BE8602D-DB47-4ED7-90F7-85D258CAA079",
+    "timestamp" : "2026-02-10T08:35:25Z",
+    "type" : "Clock In"
   }
 ]
