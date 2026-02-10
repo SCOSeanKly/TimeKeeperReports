@@ -70408,5 +70408,17 @@
     "id" : "9A1194C0-10C1-4F32-818D-E91BD8319051",
     "timestamp" : "2026-02-10T17:06:11Z",
     "type" : "Clock Out"
+  },
+  {
+    "employeeId" : "D56675E7-D446-4F6D-BC07-06072C9146BE",
+    "id" : "4FB4D0D9-0D54-4045-A8CC-B10C2DD14D60",
+    "timestamp" : "2026-02-10T17:30:08Z",
+    "type" : "Clock Out"
+  },
+  {
+    "employeeId" : "7052DB49-F73F-47F0-9FB3-CF44601A7FC3",
+    "id" : "CC0A9C49-76B8-4B02-B30A-1C081D7FA2F8",
+    "timestamp" : "2026-02-10T17:30:33Z",
+    "type" : "Clock Out"
   }
 ]
