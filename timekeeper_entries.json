@@ -70900,5 +70900,17 @@
     "id" : "1A8261B8-3B42-4C24-90BD-59315E25DC3C",
     "timestamp" : "2026-02-11T16:42:15Z",
     "type" : "Clock Out"
+  },
+  {
+    "employeeId" : "2D3EC73F-366E-466C-8516-C0AF231C271E",
+    "id" : "93D8A9CA-D9F2-4630-902C-A5575C3E7E97",
+    "timestamp" : "2026-02-11T17:00:22Z",
+    "type" : "Clock Out"
+  },
+  {
+    "employeeId" : "83F0962E-D531-4F32-952D-F84DE2EDD27F",
+    "id" : "4FCB2BEC-933E-4865-9082-AD2103BE51AD",
+    "timestamp" : "2026-02-11T17:02:32Z",
+    "type" : "Clock Out"
   }
 ]
