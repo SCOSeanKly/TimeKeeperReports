@@ -70492,5 +70492,17 @@
     "id" : "3C8CC464-6F2F-4A3C-BCA0-1B9FA824DBB6",
     "timestamp" : "2026-02-11T08:07:42Z",
     "type" : "Clock In"
+  },
+  {
+    "employeeId" : "83F0962E-D531-4F32-952D-F84DE2EDD27F",
+    "id" : "20B41ED9-2E8F-4C68-B1AF-DB8A38E44CA3",
+    "timestamp" : "2026-02-11T08:20:39Z",
+    "type" : "Clock In"
+  },
+  {
+    "employeeId" : "3C4C3205-2DFC-4646-9AB9-49F73AD47A6A",
+    "id" : "041A09C0-58F2-465A-96BF-432BB910D330",
+    "timestamp" : "2026-02-11T08:21:23Z",
+    "type" : "Clock In"
   }
 ]
