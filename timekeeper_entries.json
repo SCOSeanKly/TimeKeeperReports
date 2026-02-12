@@ -71206,5 +71206,23 @@
     "id" : "62231109-2C52-4408-8391-73D4930026FB",
     "timestamp" : "2026-02-12T10:52:16Z",
     "type" : "Break End"
+  },
+  {
+    "employeeId" : "394EE8BC-3145-4010-B8D1-B4965EAA9296",
+    "id" : "42B130FC-53ED-4D05-A703-506232BD116F",
+    "timestamp" : "2026-02-12T13:20:33Z",
+    "type" : "Break Start"
+  },
+  {
+    "employeeId" : "394EE8BC-3145-4010-B8D1-B4965EAA9296",
+    "id" : "BDB487E0-49E1-403D-9156-1106AD57D0BB",
+    "timestamp" : "2026-02-12T13:20:38Z",
+    "type" : "Break End"
+  },
+  {
+    "employeeId" : "394EE8BC-3145-4010-B8D1-B4965EAA9296",
+    "id" : "414AF7D7-C270-431A-96B0-FE35751B7A1D",
+    "timestamp" : "2026-02-12T13:20:59Z",
+    "type" : "Lunch Start"
   }
 ]
