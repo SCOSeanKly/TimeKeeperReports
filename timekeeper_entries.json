@@ -70966,5 +70966,17 @@
     "id" : "D23FF52E-50FD-4FFC-9353-EF7B91191C36",
     "timestamp" : "2026-02-11T19:55:43Z",
     "type" : "Clock Out"
+  },
+  {
+    "employeeId" : "2D3EC73F-366E-466C-8516-C0AF231C271E",
+    "id" : "42E0C311-151A-4AE0-A47C-0A13311B4513",
+    "timestamp" : "2026-02-12T07:43:27Z",
+    "type" : "Clock In"
+  },
+  {
+    "employeeId" : "ABBF1404-78F1-4DB0-A35E-374CD9612909",
+    "id" : "AEC7E63A-D585-4AEB-BD2E-346E7BF45C20",
+    "timestamp" : "2026-02-12T07:43:58Z",
+    "type" : "Clock In"
   }
 ]
