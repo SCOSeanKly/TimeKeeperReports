@@ -71758,5 +71758,11 @@
     "id" : "E2D2C967-CF32-4FDD-AF2E-8A1AADCE824B",
     "timestamp" : "2026-02-13T10:52:30Z",
     "type" : "Break End"
+  },
+  {
+    "employeeId" : "83F0962E-D531-4F32-952D-F84DE2EDD27F",
+    "id" : "3510D263-FE77-4471-B002-FB125F602DDC",
+    "timestamp" : "2026-02-13T12:36:19Z",
+    "type" : "Clock Out"
   }
 ]
