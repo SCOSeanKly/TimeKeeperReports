@@ -71968,5 +71968,11 @@
     "id" : "F68E3B9A-500C-4970-9EA1-7F4DAA82D37F",
     "timestamp" : "2026-02-13T17:29:40Z",
     "type" : "Clock Out"
+  },
+  {
+    "employeeId" : "BE4E5108-1C7A-4396-BA60-985D0A0D25DC",
+    "id" : "E27FBC2E-B110-4621-BA19-29E814BA23BD",
+    "timestamp" : "2026-02-14T07:48:45Z",
+    "type" : "Clock In"
   }
 ]
