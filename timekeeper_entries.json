@@ -71980,5 +71980,17 @@
     "id" : "A80F191D-98EB-4AD7-987A-54EC1CF6F7D5",
     "timestamp" : "2026-02-14T08:05:18Z",
     "type" : "Clock In"
+  },
+  {
+    "employeeId" : "337733FA-A522-41C0-9B46-2A6B5A1D00F9",
+    "id" : "77F1E2D8-0221-41FD-8C29-AFE19E4D8743",
+    "timestamp" : "2026-02-14T08:32:53Z",
+    "type" : "Clock In"
+  },
+  {
+    "employeeId" : "337733FA-A522-41C0-9B46-2A6B5A1D00F9",
+    "id" : "B9399E0A-10FF-45CE-9560-B7454EB0CD14",
+    "timestamp" : "2026-02-14T08:32:55Z",
+    "type" : "Clock In"
   }
 ]
