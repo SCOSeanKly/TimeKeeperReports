@@ -71998,5 +71998,23 @@
     "id" : "C4EC01D9-911B-411A-BBBF-0664B27593BD",
     "timestamp" : "2026-02-14T11:42:07Z",
     "type" : "Clock In"
+  },
+  {
+    "employeeId" : "BE4E5108-1C7A-4396-BA60-985D0A0D25DC",
+    "id" : "CE0A0DD0-DEC4-4815-8BC5-9D1C56930770",
+    "timestamp" : "2026-02-14T12:58:11Z",
+    "type" : "Clock Out"
+  },
+  {
+    "employeeId" : "3C4C3205-2DFC-4646-9AB9-49F73AD47A6A",
+    "id" : "63651852-5383-4D27-A88C-0AFCDD262F6C",
+    "timestamp" : "2026-02-14T12:59:51Z",
+    "type" : "Clock Out"
+  },
+  {
+    "employeeId" : "337733FA-A522-41C0-9B46-2A6B5A1D00F9",
+    "id" : "BAAB2733-E3EB-44D2-ADB6-11DCF5253DC3",
+    "timestamp" : "2026-02-14T13:00:57Z",
+    "type" : "Clock Out"
   }
 ]
