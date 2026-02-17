@@ -72508,5 +72508,11 @@
     "id" : "FB3C82FC-A0C8-4157-8CE4-A906EA6850E6",
     "timestamp" : "2026-02-16T17:31:12Z",
     "type" : "Clock Out"
+  },
+  {
+    "employeeId" : "57BA9115-ECC7-46ED-B99A-48B11ED17B76",
+    "id" : "FBB3BCFC-FF04-4B5F-8072-F8D1C6F4AC64",
+    "timestamp" : "2026-02-16T20:00:31Z",
+    "type" : "Clock Out"
   }
 ]
