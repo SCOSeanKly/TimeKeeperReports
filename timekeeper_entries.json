@@ -72574,5 +72574,11 @@
     "id" : "9C91EB8A-7968-47F5-A22A-42CF2CD9E7F7",
     "timestamp" : "2026-02-17T08:15:27Z",
     "type" : "Clock In"
+  },
+  {
+    "employeeId" : "83F0962E-D531-4F32-952D-F84DE2EDD27F",
+    "id" : "0E3C0C5F-76FB-47E8-A5E2-CD1AB605A53C",
+    "timestamp" : "2026-02-17T08:21:04Z",
+    "type" : "Clock In"
   }
 ]
