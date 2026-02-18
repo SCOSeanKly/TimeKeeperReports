@@ -73366,5 +73366,11 @@
     "id" : "57338F5E-3736-4AA2-9BF9-0BA3811CB270",
     "timestamp" : "2026-02-18T15:42:27Z",
     "type" : "Clock In"
+  },
+  {
+    "employeeId" : "BE4E5108-1C7A-4396-BA60-985D0A0D25DC",
+    "id" : "DFAACF2B-3F4C-4E4F-B939-2A15FB3BD064",
+    "timestamp" : "2026-02-18T15:56:50Z",
+    "type" : "Clock Out"
   }
 ]
