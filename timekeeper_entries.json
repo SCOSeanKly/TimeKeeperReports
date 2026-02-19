@@ -73600,5 +73600,23 @@
     "id" : "8538D842-1B4B-4880-B966-FAFEEE49F6A2",
     "timestamp" : "2026-02-19T10:39:20Z",
     "type" : "Break Start"
+  },
+  {
+    "employeeId" : "BD0902DD-373B-433A-953A-755F88CBF221",
+    "id" : "4021FA0E-FA2E-4CE3-BF47-95060A4F33A5",
+    "timestamp" : "2026-02-19T10:41:05Z",
+    "type" : "Break End"
+  },
+  {
+    "employeeId" : "83F0962E-D531-4F32-952D-F84DE2EDD27F",
+    "id" : "164FC63F-FB54-4471-9953-DB7F1882B6CA",
+    "timestamp" : "2026-02-19T10:45:02Z",
+    "type" : "Break End"
+  },
+  {
+    "employeeId" : "A89B7519-4C5C-4F70-9342-5BBCF890E719",
+    "id" : "20315BD1-F038-426E-948E-DB018A183AE9",
+    "timestamp" : "2026-02-19T10:46:03Z",
+    "type" : "Break End"
   }
 ]
