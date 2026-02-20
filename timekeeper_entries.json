@@ -74026,5 +74026,11 @@
     "id" : "547290EE-6A0E-401D-B76E-FC8BC00D2080",
     "timestamp" : "2026-02-20T09:18:25Z",
     "type" : "Clock In"
+  },
+  {
+    "employeeId" : "A89B7519-4C5C-4F70-9342-5BBCF890E719",
+    "id" : "91EAFCBD-834B-4FE5-80D0-FDE8215246AC",
+    "timestamp" : "2026-02-20T10:28:02Z",
+    "type" : "Break Start"
   }
 ]
