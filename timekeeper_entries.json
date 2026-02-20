@@ -74332,5 +74332,11 @@
     "id" : "639D7577-328C-4F14-A20E-A198A0A27443",
     "timestamp" : "2026-02-20T14:38:21Z",
     "type" : "Lunch End"
+  },
+  {
+    "employeeId" : "BE4E5108-1C7A-4396-BA60-985D0A0D25DC",
+    "id" : "D05E18EB-5579-44C7-8C4C-0F2BEA72A243",
+    "timestamp" : "2026-02-20T15:58:47Z",
+    "type" : "Clock Out"
   }
 ]
