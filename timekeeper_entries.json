@@ -74164,5 +74164,23 @@
     "id" : "17F9C272-DE34-4BE7-955C-E9A359ECF65A",
     "timestamp" : "2026-02-20T10:53:21Z",
     "type" : "Break End"
+  },
+  {
+    "employeeId" : "A89B7519-4C5C-4F70-9342-5BBCF890E719",
+    "id" : "ADE97520-A7B7-4AF9-9962-789A92D43362",
+    "timestamp" : "2026-02-20T12:00:55Z",
+    "type" : "Lunch Start"
+  },
+  {
+    "employeeId" : "A89B7519-4C5C-4F70-9342-5BBCF890E719",
+    "id" : "6F159000-370B-4BBD-88DD-1D63F1E9AD20",
+    "timestamp" : "2026-02-20T12:01:00Z",
+    "type" : "Lunch End"
+  },
+  {
+    "employeeId" : "A89B7519-4C5C-4F70-9342-5BBCF890E719",
+    "id" : "A4F29DD1-75BE-45DE-A1B9-159BFB587821",
+    "timestamp" : "2026-02-20T12:01:11Z",
+    "type" : "Clock Out"
   }
 ]
