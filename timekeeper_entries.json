@@ -74866,5 +74866,11 @@
     "id" : "3E6AF5CB-DF4F-43DD-B425-A86F3F43BA21",
     "timestamp" : "2026-02-23T15:42:01Z",
     "type" : "Clock In"
+  },
+  {
+    "employeeId" : "BE4E5108-1C7A-4396-BA60-985D0A0D25DC",
+    "id" : "ADECFFF1-C099-4FEC-B6A6-6D4844274C30",
+    "timestamp" : "2026-02-23T16:16:46Z",
+    "type" : "Clock Out"
   }
 ]
