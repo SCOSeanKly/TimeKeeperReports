@@ -75280,5 +75280,11 @@
     "id" : "2A325D72-D0C1-479A-9574-A94A7F040FAD",
     "timestamp" : "2026-02-24T15:42:28Z",
     "type" : "Clock In"
+  },
+  {
+    "employeeId" : "BE4E5108-1C7A-4396-BA60-985D0A0D25DC",
+    "id" : "EBBE0268-5FEC-4B37-B546-91029B9481EC",
+    "timestamp" : "2026-02-24T15:59:43Z",
+    "type" : "Clock Out"
   }
 ]
