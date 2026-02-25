@@ -75742,5 +75742,23 @@
     "id" : "F06E6A30-0088-44D6-80D9-63A104CC77EB",
     "timestamp" : "2026-02-25T14:00:09Z",
     "type" : "Lunch End"
+  },
+  {
+    "employeeId" : "3C4C3205-2DFC-4646-9AB9-49F73AD47A6A",
+    "id" : "E30AC50D-E6D7-424C-BAA6-6A1795254ECF",
+    "timestamp" : "2026-02-25T14:02:53Z",
+    "type" : "Lunch End"
+  },
+  {
+    "employeeId" : "8328C48C-97D6-4E14-BE85-BB8763817CF8",
+    "id" : "8E9C2BE3-D2DC-4DF0-A36F-BE5717E05169",
+    "timestamp" : "2026-02-25T14:04:09Z",
+    "type" : "Lunch End"
+  },
+  {
+    "employeeId" : "D56675E7-D446-4F6D-BC07-06072C9146BE",
+    "id" : "8199CB49-FA35-424C-A6EC-9E8B201E8F85",
+    "timestamp" : "2026-02-25T14:05:04Z",
+    "type" : "Lunch End"
   }
 ]
