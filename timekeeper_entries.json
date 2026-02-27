@@ -76378,5 +76378,17 @@
     "id" : "EA7F3FDA-2C14-488B-9883-76DEA74B4477",
     "timestamp" : "2026-02-26T21:00:00Z",
     "type" : "Auto Clock Out At Midnight"
+  },
+  {
+    "employeeId" : "2D3EC73F-366E-466C-8516-C0AF231C271E",
+    "id" : "9961B386-1936-49EF-A2C9-AB7DF66EF3D2",
+    "timestamp" : "2026-02-27T07:45:12Z",
+    "type" : "Clock In"
+  },
+  {
+    "employeeId" : "ABBF1404-78F1-4DB0-A35E-374CD9612909",
+    "id" : "C5DB2F13-9D88-418A-A8DA-017540548360",
+    "timestamp" : "2026-02-27T07:45:23Z",
+    "type" : "Clock In"
   }
 ]
