@@ -76606,5 +76606,23 @@
     "id" : "8285E426-CEC7-46B5-9BB5-FA70D5A17E24",
     "timestamp" : "2026-02-27T10:54:12Z",
     "type" : "Break End"
+  },
+  {
+    "employeeId" : "394EE8BC-3145-4010-B8D1-B4965EAA9296",
+    "id" : "166E3719-455B-4376-91C7-3EC90E14EF6E",
+    "timestamp" : "2026-02-27T12:00:11Z",
+    "type" : "Break Start"
+  },
+  {
+    "employeeId" : "394EE8BC-3145-4010-B8D1-B4965EAA9296",
+    "id" : "F5AE5060-AEDB-492B-9ED1-BC3ECF773703",
+    "timestamp" : "2026-02-27T12:00:15Z",
+    "type" : "Break End"
+  },
+  {
+    "employeeId" : "394EE8BC-3145-4010-B8D1-B4965EAA9296",
+    "id" : "82A7EC52-CCEA-4340-9ED7-653DC9C3F98F",
+    "timestamp" : "2026-02-27T12:00:31Z",
+    "type" : "Clock Out"
   }
 ]
