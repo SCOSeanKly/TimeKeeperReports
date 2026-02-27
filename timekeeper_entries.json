@@ -76474,5 +76474,11 @@
     "id" : "E30C446D-890E-40D8-9089-0292A5788845",
     "timestamp" : "2026-02-27T09:16:54Z",
     "type" : "Clock In"
+  },
+  {
+    "employeeId" : "A89B7519-4C5C-4F70-9342-5BBCF890E719",
+    "id" : "FAE8F2B0-D383-405A-8CA8-5DB5CAA0B4EA",
+    "timestamp" : "2026-02-27T10:28:04Z",
+    "type" : "Break Start"
   }
 ]
