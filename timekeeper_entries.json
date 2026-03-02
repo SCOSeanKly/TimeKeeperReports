@@ -77500,5 +77500,11 @@
     "id" : "8DB29FEA-65B3-49BC-95D5-A694F5AB6742",
     "timestamp" : "2026-03-02T17:32:40Z",
     "type" : "Clock Out"
+  },
+  {
+    "employeeId" : "D56675E7-D446-4F6D-BC07-06072C9146BE",
+    "id" : "C104CCCD-D8B4-4288-ADDD-3E654A485E47",
+    "timestamp" : "2026-03-02T17:40:12Z",
+    "type" : "Clock Out"
   }
 ]
