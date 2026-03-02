@@ -76954,5 +76954,23 @@
     "id" : "6FA5D621-55F3-41B7-B36A-A1FFDA4C6DCA",
     "timestamp" : "2026-02-28T13:06:42Z",
     "type" : "Clock Out"
+  },
+  {
+    "employeeId" : "57BA9115-ECC7-46ED-B99A-48B11ED17B76",
+    "id" : "0E61E75E-969A-4C7E-8710-AE3C9CB655D7",
+    "timestamp" : "2026-02-28T14:45:29Z",
+    "type" : "Clock Out"
+  },
+  {
+    "employeeId" : "3C4C3205-2DFC-4646-9AB9-49F73AD47A6A",
+    "id" : "AFEFC113-F4AC-4E64-B91B-1D9084CCB3C5",
+    "timestamp" : "2026-02-28T21:00:00Z",
+    "type" : "Clock Out"
+  },
+  {
+    "employeeId" : "3C4C3205-2DFC-4646-9AB9-49F73AD47A6A",
+    "id" : "1C5B28DD-E77F-4D59-8F13-435BB9E7AF88",
+    "timestamp" : "2026-02-28T21:00:00Z",
+    "type" : "Auto Clock Out At Midnight"
   }
 ]
