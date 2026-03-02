@@ -77218,5 +77218,11 @@
     "id" : "7087AF92-2D58-44D4-9909-95D80EA6F4BA",
     "timestamp" : "2026-03-02T11:26:36Z",
     "type" : "Break Start"
+  },
+  {
+    "employeeId" : "A89B7519-4C5C-4F70-9342-5BBCF890E719",
+    "id" : "3D8A37D2-716B-41EA-9E0E-E4DDC6B709F3",
+    "timestamp" : "2026-03-02T11:41:23Z",
+    "type" : "Break End"
   }
 ]
