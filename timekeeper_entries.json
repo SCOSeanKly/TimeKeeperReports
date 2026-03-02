@@ -77446,5 +77446,17 @@
     "id" : "18D1791C-AF17-42F3-8C4E-4A8CB85DB3F2",
     "timestamp" : "2026-03-02T16:33:46Z",
     "type" : "Lunch End"
+  },
+  {
+    "employeeId" : "F0064293-8B19-496C-979F-E3265BEFD5C9",
+    "id" : "8125A17D-91E4-4178-A64C-7CA3E8E9E498",
+    "timestamp" : "2026-03-02T17:00:01Z",
+    "type" : "Clock Out"
+  },
+  {
+    "employeeId" : "83F0962E-D531-4F32-952D-F84DE2EDD27F",
+    "id" : "14A309DD-03DF-49A1-9FF6-9A2467693CB5",
+    "timestamp" : "2026-03-02T17:01:11Z",
+    "type" : "Clock Out"
   }
 ]
