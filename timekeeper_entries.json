@@ -77410,5 +77410,11 @@
     "id" : "3108963B-283E-4C46-BB45-F64712E3CC15",
     "timestamp" : "2026-03-02T15:42:09Z",
     "type" : "Clock In"
+  },
+  {
+    "employeeId" : "BE4E5108-1C7A-4396-BA60-985D0A0D25DC",
+    "id" : "B9C5D861-B273-4FAD-B30B-DD901DB1537A",
+    "timestamp" : "2026-03-02T16:00:04Z",
+    "type" : "Clock Out"
   }
 ]
