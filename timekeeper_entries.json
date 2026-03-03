@@ -77584,5 +77584,17 @@
     "id" : "873696C5-FFA7-4DD3-8DCA-2DFDAD853CB8",
     "timestamp" : "2026-03-03T08:00:21Z",
     "type" : "Clock In"
+  },
+  {
+    "employeeId" : "393F3D1F-F71E-4F88-8619-1CDD9BF9C9C2",
+    "id" : "60EB606E-719D-4534-9FA8-105CD1C27A9B",
+    "timestamp" : "2026-03-03T08:07:50Z",
+    "type" : "Clock In"
+  },
+  {
+    "employeeId" : "394EE8BC-3145-4010-B8D1-B4965EAA9296",
+    "id" : "6125ADC1-2773-4D0D-907F-68A45F6372DC",
+    "timestamp" : "2026-03-03T08:09:32Z",
+    "type" : "Clock In"
   }
 ]
