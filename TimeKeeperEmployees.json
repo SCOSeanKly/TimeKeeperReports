@@ -232,5 +232,14 @@
     "name" : "David Bunsen",
     "pin" : "8877",
     "startTime" : "2026-01-23T08:30:00Z"
+  },
+  {
+    "department" : "Workshop",
+    "finishTime" : "2026-04-27T16:00:00Z",
+    "hasFlexibleSchedule" : false,
+    "id" : "93D01C6D-B38D-48D9-967F-852BD7B856F2",
+    "name" : "Simon Boyle",
+    "pin" : "0099",
+    "startTime" : "2026-04-27T07:30:00Z"
   }
 ]
