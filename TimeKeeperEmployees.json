@@ -1,73 +1,94 @@
 [
   {
     "department": "Bodyshop",
-    "finishTime": "2025-02-25T17:30:00Z",
+    "finishTime": "2025-01-01T17:30:00Z",
     "hasFlexibleSchedule": true,
-    "holidayManagerId": null,
+    "holidayManagerId": 46,
     "id": "7052DB49-F73F-47F0-9FB3-CF44601A7FC3",
     "name": "Aimee Kennedy",
     "pin": "1111",
-    "startTime": "2025-02-25T08:30:00Z"
+    "saturdayAnchor": "2026-05-16",
+    "saturdayPattern": "fortnightly",
+    "startTime": "2025-01-01T08:30:00Z",
+    "weekdayPattern": "MTWTF"
   },
   {
     "department": "Workshop",
     "finishTime": "2025-02-24T17:00:00Z",
     "hasFlexibleSchedule": false,
-    "holidayManagerId": null,
+    "holidayManagerId": 13,
     "id": "2D3EC73F-366E-466C-8516-C0AF231C271E",
     "name": "Alan Leckie",
     "pin": "1234",
-    "startTime": "2025-02-24T08:30:00Z"
-  },
-  {
-    "department": "Bodyshop",
-    "finishTime": "2025-03-06T16:30:00Z",
-    "hasFlexibleSchedule": false,
-    "holidayManagerId": null,
-    "id": "FB905CE7-9CA9-46C5-AD56-97C41D7FF9CE",
-    "name": "Alex McClelland",
-    "pin": "0001",
-    "startTime": "2025-03-06T08:00:00Z"
+    "saturdayAnchor": null,
+    "saturdayPattern": "none",
+    "startTime": "2025-02-24T08:30:00Z",
+    "weekdayPattern": "MTWTF"
   },
   {
     "department": "Workshop",
-    "finishTime": "2025-02-24T17:00:00Z",
+    "finishTime": "2025-01-01T17:00:00Z",
     "hasFlexibleSchedule": false,
-    "holidayManagerId": null,
+    "holidayManagerId": 6,
     "id": "3C4C3205-2DFC-4646-9AB9-49F73AD47A6A",
     "name": "Billy Mathieson",
     "pin": "2508",
-    "startTime": "2025-02-24T08:30:00Z"
+    "saturdayAnchor": "2026-05-23",
+    "saturdayPattern": "fortnightly",
+    "startTime": "2025-01-01T08:30:00Z",
+    "weekdayPattern": "MTWTF"
+  },
+  {
+    "department": "Recovery",
+    "finishTime": "2025-01-01T17:00:00Z",
+    "hasFlexibleSchedule": false,
+    "holidayManagerId": 51,
+    "id": "567D60C6-5794-4A5F-8DF8-12561792C78D",
+    "name": "Chris Allerdyce",
+    "pin": "9990",
+    "saturdayAnchor": null,
+    "saturdayPattern": "none",
+    "startTime": "2025-01-01T08:30:00Z",
+    "weekdayPattern": "MTWTF"
   },
   {
     "department": "Workshop",
     "finishTime": "2025-02-24T17:00:00Z",
     "hasFlexibleSchedule": false,
-    "holidayManagerId": null,
+    "holidayManagerId": 7,
     "id": "BD0902DD-373B-433A-953A-755F88CBF221",
     "name": "Chris Smith",
     "pin": "4224",
-    "startTime": "2025-02-24T08:30:00Z"
+    "saturdayAnchor": null,
+    "saturdayPattern": "none",
+    "startTime": "2025-02-24T08:30:00Z",
+    "weekdayPattern": "MTWTF"
   },
   {
     "department": "Workshop",
     "finishTime": "2025-09-03T16:00:00Z",
     "hasFlexibleSchedule": false,
-    "holidayManagerId": null,
+    "holidayManagerId": 48,
     "id": "8328C48C-97D6-4E14-BE85-BB8763817CF8",
     "name": "Colin Mitchell",
     "pin": "7376",
-    "startTime": "2025-09-03T07:00:00Z"
+    "saturdayAnchor": null,
+    "saturdayPattern": "none",
+    "startTime": "2025-09-03T07:00:00Z",
+    "weekdayPattern": "MTWTF"
   },
   {
     "department": "Bodyshop",
     "finishTime": "2025-03-06T16:30:00Z",
     "hasFlexibleSchedule": false,
-    "holidayManagerId": null,
+    "holidayManagerId": 20,
     "id": "A89B7519-4C5C-4F70-9342-5BBCF890E719",
     "name": "Dario Baldassarra",
     "pin": "1967",
-    "startTime": "2025-03-06T08:00:00Z"
+    "saturdayAnchor": null,
+    "saturdayPattern": "none",
+    "startTime": "2025-03-06T08:00:00Z",
+    "weekdayPattern": "MTWTF"
   },
   {
     "department": "Bodyshop",
@@ -77,107 +98,127 @@
     "id": "C9ADA12B-4CAE-4FAF-8102-30A9AA992908",
     "name": "Darryl Climie",
     "pin": "2009",
-    "startTime": "2025-01-01T08:30:00Z"
+    "saturdayAnchor": null,
+    "saturdayPattern": "none",
+    "startTime": "2025-01-01T08:30:00Z",
+    "weekdayPattern": "MTWTF"
   },
   {
     "department": "Workshop",
-    "finishTime": "2026-01-23T17:00:00Z",
+    "finishTime": "2025-01-01T17:00:00Z",
     "hasFlexibleSchedule": false,
-    "holidayManagerId": null,
+    "holidayManagerId": 53,
     "id": "CCB8E18E-1ED3-4A1E-9204-5A5E61D70B53",
     "name": "David Bunsen",
     "pin": "8877",
-    "startTime": "2026-01-23T08:30:00Z"
+    "saturdayAnchor": null,
+    "saturdayPattern": "none",
+    "startTime": "2025-01-01T08:30:00Z",
+    "weekdayPattern": "---TF"
   },
   {
     "department": "Workshop",
-    "finishTime": "2025-03-06T17:00:00Z",
+    "finishTime": "2025-01-01T17:00:00Z",
     "hasFlexibleSchedule": false,
-    "holidayManagerId": null,
+    "holidayManagerId": 12,
     "id": "83F0962E-D531-4F32-952D-F84DE2EDD27F",
     "name": "Finlay Campbell",
     "pin": "8787",
-    "startTime": "2025-03-06T08:30:00Z"
+    "saturdayAnchor": "2026-05-23",
+    "saturdayPattern": "fortnightly",
+    "startTime": "2025-01-01T08:30:00Z",
+    "weekdayPattern": "MTWTF"
   },
   {
     "department": "Bodyshop",
     "finishTime": "2025-09-30T15:30:00Z",
     "hasFlexibleSchedule": false,
-    "holidayManagerId": null,
+    "holidayManagerId": 49,
     "id": "BC7199E0-4065-4B2C-8863-CCA70D0AE8D3",
     "name": "Guy Flannagan",
     "pin": "3009",
-    "startTime": "2025-09-30T07:00:00Z"
+    "saturdayAnchor": null,
+    "saturdayPattern": "none",
+    "startTime": "2025-09-30T07:00:00Z",
+    "weekdayPattern": "MTWTF"
   },
   {
     "department": "Workshop",
-    "finishTime": "2025-02-24T17:00:00Z",
+    "finishTime": "2025-01-01T17:00:00Z",
     "hasFlexibleSchedule": false,
-    "holidayManagerId": null,
+    "holidayManagerId": 11,
     "id": "29EAE04E-470D-4124-8038-200CCF2D63BC",
     "name": "Harrison Hannah",
     "pin": "2904",
-    "startTime": "2025-02-24T08:30:00Z"
+    "saturdayAnchor": "2026-05-16",
+    "saturdayPattern": "fortnightly",
+    "startTime": "2025-01-01T08:30:00Z",
+    "weekdayPattern": "MTWTF"
   },
   {
     "department": "Admin",
     "finishTime": "2025-02-24T20:00:00Z",
     "hasFlexibleSchedule": true,
-    "holidayManagerId": null,
+    "holidayManagerId": 40,
     "id": "57BA9115-ECC7-46ED-B99A-48B11ED17B76",
     "name": "Ian Pollock",
     "pin": "1948",
-    "startTime": "2025-02-24T16:00:00Z"
+    "saturdayAnchor": null,
+    "saturdayPattern": "none",
+    "startTime": "2025-02-24T16:00:00Z",
+    "weekdayPattern": "MTWTF"
   },
   {
     "department": "Admin",
     "finishTime": "2025-01-01T13:00:00Z",
     "hasFlexibleSchedule": false,
-    "holidayManagerId": null,
+    "holidayManagerId": 50,
     "id": "1944DCDA-F1F7-4CE6-BCA0-52C033930491",
     "name": "Joe Smith",
     "pin": "9988",
-    "startTime": "2025-01-01T08:00:00Z"
+    "saturdayAnchor": null,
+    "saturdayPattern": "none",
+    "startTime": "2025-01-01T08:00:00Z",
+    "weekdayPattern": "-----"
   },
   {
     "department": "Workshop",
-    "finishTime": "2025-02-24T16:00:00Z",
+    "finishTime": "2025-01-01T16:00:00Z",
     "hasFlexibleSchedule": true,
-    "holidayManagerId": null,
+    "holidayManagerId": 43,
     "id": "BE4E5108-1C7A-4396-BA60-985D0A0D25DC",
     "name": "Karen Kelly",
     "pin": "3333",
-    "startTime": "2025-02-24T08:00:00Z"
-  },
-  {
-    "department": "Admin",
-    "finishTime": "2025-05-19T16:00:00Z",
-    "hasFlexibleSchedule": false,
-    "holidayManagerId": null,
-    "id": "6F88A111-9F7F-4ADC-AD62-ADF30BC2715E",
-    "name": "Lewis Walker",
-    "pin": "1905",
-    "startTime": "2025-05-19T07:30:00Z"
+    "saturdayAnchor": "2026-06-06",
+    "saturdayPattern": "fourweekly",
+    "startTime": "2025-01-01T08:00:00Z",
+    "weekdayPattern": "MTWTF"
   },
   {
     "department": "Bodyshop",
     "finishTime": "2025-03-06T16:30:00Z",
     "hasFlexibleSchedule": false,
-    "holidayManagerId": null,
+    "holidayManagerId": 17,
     "id": "393F3D1F-F71E-4F88-8619-1CDD9BF9C9C2",
     "name": "Luke McGhee",
     "pin": "1509",
-    "startTime": "2025-03-06T08:00:00Z"
+    "saturdayAnchor": null,
+    "saturdayPattern": "none",
+    "startTime": "2025-03-06T08:00:00Z",
+    "weekdayPattern": "MTWTF"
   },
   {
     "department": "Workshop",
-    "finishTime": "2025-02-24T17:30:00Z",
+    "finishTime": "2025-01-01T17:30:00Z",
     "hasFlexibleSchedule": false,
-    "holidayManagerId": null,
+    "holidayManagerId": 4,
     "id": "D56675E7-D446-4F6D-BC07-06072C9146BE",
     "name": "Martin Wallace",
     "pin": "1269",
-    "startTime": "2025-02-24T08:00:00Z"
+    "saturdayAnchor": "2026-05-16",
+    "saturdayPattern": "fortnightly",
+    "startTime": "2025-01-01T08:00:00Z",
+    "weekdayPattern": "MTWTF"
   },
   {
     "department": "Admin",
@@ -187,66 +228,87 @@
     "id": "E1949C06-DBB6-4988-BF8B-2DE53FFD8D64",
     "name": "Mason Kelly",
     "pin": "4467",
-    "startTime": "2025-01-01T08:00:00Z"
+    "saturdayAnchor": null,
+    "saturdayPattern": "none",
+    "startTime": "2025-01-01T08:00:00Z",
+    "weekdayPattern": "-----"
   },
   {
     "department": "Workshop",
-    "finishTime": "2025-02-24T17:30:00Z",
+    "finishTime": "2025-01-01T17:30:00Z",
     "hasFlexibleSchedule": true,
-    "holidayManagerId": null,
+    "holidayManagerId": 44,
     "id": "953EA2A7-6C38-4C9B-98AD-A7927077E363",
     "name": "Nicola Devlin",
     "pin": "2222",
-    "startTime": "2025-02-24T09:30:00Z"
+    "saturdayAnchor": "2026-05-23",
+    "saturdayPattern": "fourweekly",
+    "startTime": "2025-01-01T09:30:00Z",
+    "weekdayPattern": "MTWTF"
   },
   {
     "department": "Workshop",
-    "finishTime": "2025-02-24T17:00:00Z",
+    "finishTime": "2025-01-01T17:00:00Z",
     "hasFlexibleSchedule": false,
-    "holidayManagerId": null,
+    "holidayManagerId": 9,
     "id": "337733FA-A522-41C0-9B46-2A6B5A1D00F9",
     "name": "Scott Graham",
     "pin": "4236",
-    "startTime": "2025-02-24T08:30:00Z"
+    "saturdayAnchor": "2026-05-23",
+    "saturdayPattern": "fortnightly",
+    "startTime": "2025-01-01T08:30:00Z",
+    "weekdayPattern": "MTWTF"
   },
   {
     "department": "Workshop",
-    "finishTime": "2026-04-27T16:00:00Z",
+    "finishTime": "2025-01-01T16:00:00Z",
     "hasFlexibleSchedule": false,
-    "holidayManagerId": null,
+    "holidayManagerId": 52,
     "id": "93D01C6D-B38D-48D9-967F-852BD7B856F2",
     "name": "Simon Boyle",
     "pin": "0099",
-    "startTime": "2026-04-27T07:30:00Z"
+    "saturdayAnchor": "2026-05-16",
+    "saturdayPattern": "fortnightly",
+    "startTime": "2025-01-01T07:30:00Z",
+    "weekdayPattern": "MTWTF"
   },
   {
     "department": "Admin",
-    "finishTime": "2025-03-06T17:00:00Z",
+    "finishTime": "2025-01-01T17:00:00Z",
     "hasFlexibleSchedule": true,
-    "holidayManagerId": null,
+    "holidayManagerId": 15,
     "id": "F0064293-8B19-496C-979F-E3265BEFD5C9",
     "name": "Steven Guthrie",
     "pin": "7989",
-    "startTime": "2025-03-06T08:00:00Z"
+    "saturdayAnchor": null,
+    "saturdayPattern": "weekly",
+    "startTime": "2025-01-01T08:00:00Z",
+    "weekdayPattern": "MTWTF"
   },
   {
     "department": "Bodyshop",
     "finishTime": "2025-03-06T16:30:00Z",
     "hasFlexibleSchedule": false,
-    "holidayManagerId": null,
+    "holidayManagerId": 16,
     "id": "394EE8BC-3145-4010-B8D1-B4965EAA9296",
     "name": "Stuart Little",
     "pin": "0211",
-    "startTime": "2025-03-06T08:30:00Z"
+    "saturdayAnchor": null,
+    "saturdayPattern": "none",
+    "startTime": "2025-03-06T08:30:00Z",
+    "weekdayPattern": "MTWTF"
   },
   {
     "department": "Bodyshop",
     "finishTime": "2025-03-06T16:30:00Z",
     "hasFlexibleSchedule": false,
-    "holidayManagerId": null,
+    "holidayManagerId": 18,
     "id": "ABBF1404-78F1-4DB0-A35E-374CD9612909",
     "name": "Tommy McBride",
     "pin": "0000",
-    "startTime": "2025-03-06T08:00:00Z"
+    "saturdayAnchor": null,
+    "saturdayPattern": "none",
+    "startTime": "2025-03-06T08:00:00Z",
+    "weekdayPattern": "MTWTF"
   }
 ]
