@@ -52,8 +52,8 @@
     "weekdayPattern": "MTWTF"
   },
   {
-    "department": "Workshop",
-    "finishTime": "2025-02-24T17:00:00Z",
+    "department": "Recovery",
+    "finishTime": "2025-01-01T17:00:00Z",
     "hasFlexibleSchedule": false,
     "holidayManagerId": 7,
     "id": "BD0902DD-373B-433A-953A-755F88CBF221",
@@ -61,7 +61,20 @@
     "pin": "4224",
     "saturdayAnchor": null,
     "saturdayPattern": "none",
-    "startTime": "2025-02-24T08:30:00Z",
+    "startTime": "2025-01-01T08:30:00Z",
+    "weekdayPattern": "MTWTF"
+  },
+  {
+    "department": "Recovery",
+    "finishTime": "2025-01-01T17:00:00Z",
+    "hasFlexibleSchedule": false,
+    "holidayManagerId": 34,
+    "id": "D60E3729-FF6B-49EE-BEA2-02D0FC0E3F53",
+    "name": "Codie Bottell",
+    "pin": "8880",
+    "saturdayAnchor": null,
+    "saturdayPattern": "none",
+    "startTime": "2025-01-01T08:30:00Z",
     "weekdayPattern": "MTWTF"
   },
   {
@@ -94,7 +107,7 @@
     "department": "Bodyshop",
     "finishTime": "2025-01-01T16:30:00Z",
     "hasFlexibleSchedule": false,
-    "holidayManagerId": null,
+    "holidayManagerId": 54,
     "id": "C9ADA12B-4CAE-4FAF-8102-30A9AA992908",
     "name": "Darryl Climie",
     "pin": "2009",
@@ -166,6 +179,19 @@
     "saturdayAnchor": null,
     "saturdayPattern": "none",
     "startTime": "2025-02-24T16:00:00Z",
+    "weekdayPattern": "MTWTF"
+  },
+  {
+    "department": "Recovery",
+    "finishTime": "2025-01-01T17:00:00Z",
+    "hasFlexibleSchedule": false,
+    "holidayManagerId": 33,
+    "id": "CD0D1689-6DEE-4ECF-9D23-5AA439E7E52B",
+    "name": "Jamie McGinn",
+    "pin": "7770",
+    "saturdayAnchor": null,
+    "saturdayPattern": "none",
+    "startTime": "2025-01-01T08:30:00Z",
     "weekdayPattern": "MTWTF"
   },
   {
