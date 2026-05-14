@@ -104347,5 +104347,13 @@
     "id": "181D6E73-3755-46C7-9CB8-3E04809E338F",
     "timestamp": "2026-05-13T16:35:25Z",
     "type": "Clock Out"
+  },
+  {
+    "employeeId": "CD0D1689-6DEE-4ECF-9D23-5AA439E7E52B",
+    "id": "0E15C254-C826-48FB-91FE-490EF1468F2F",
+    "latitude": 55.449760164898144,
+    "longitude": -4.269935407633588,
+    "timestamp": "2026-05-14T05:56:05Z",
+    "type": "Clock In"
   }
 ]
