@@ -336,5 +336,18 @@
     "saturdayPattern": "none",
     "startTime": "2025-03-06T08:00:00Z",
     "weekdayPattern": "MTWTF"
+  },
+  {
+    "department": "Parts",
+    "finishTime": "2025-01-01T13:00:00Z",
+    "hasFlexibleSchedule": false,
+    "holidayManagerId": null,
+    "id": "7989DCCC-541E-4746-BAB1-0F703B2039EA",
+    "name": "Xander Samson",
+    "pin": "0112",
+    "saturdayAnchor": "2026-05-23",
+    "saturdayPattern": "fortnightly",
+    "startTime": "2025-01-01T08:00:00Z",
+    "weekdayPattern": "-----"
   }
 ]
