@@ -105679,5 +105679,12 @@
     "id": "7D115AAE-2C94-4E3A-BADE-C1DEDCBC862B",
     "timestamp": "2026-05-16T12:00:48Z",
     "type": "Clock Out"
+  },
+  {
+    "earlyReason": "Other authorised absence",
+    "employeeId": "D56675E7-D446-4F6D-BC07-06072C9146BE",
+    "id": "16700258-4928-4D0A-982F-029129007C6D",
+    "timestamp": "2026-05-16T12:01:18Z",
+    "type": "Clock Out"
   }
 ]
