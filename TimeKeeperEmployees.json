@@ -170,16 +170,16 @@
   },
   {
     "department": "Admin",
-    "finishTime": "2025-02-24T20:00:00Z",
+    "finishTime": "2025-01-01T20:00:00Z",
     "hasFlexibleSchedule": true,
     "holidayManagerId": 40,
     "id": "57BA9115-ECC7-46ED-B99A-48B11ED17B76",
     "name": "Ian Pollock",
     "pin": "1948",
     "saturdayAnchor": null,
-    "saturdayPattern": "none",
-    "startTime": "2025-02-24T16:00:00Z",
-    "weekdayPattern": "MTWTF"
+    "saturdayPattern": "weekly",
+    "startTime": "2025-01-01T16:00:00Z",
+    "weekdayPattern": "MTWT-"
   },
   {
     "department": "Recovery",
