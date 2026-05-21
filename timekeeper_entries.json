@@ -107448,5 +107448,13 @@
     "id": "CBC840B2-2696-481C-BA5B-544A33369745",
     "timestamp": "2026-05-20T22:59:00Z",
     "type": "Auto Clock Out At Midnight"
+  },
+  {
+    "employeeId": "D60E3729-FF6B-49EE-BEA2-02D0FC0E3F53",
+    "id": "965C0252-BAEB-4600-8E02-A516D2D9FEF4",
+    "latitude": 55.44962396850386,
+    "longitude": -4.270450416956349,
+    "timestamp": "2026-05-21T05:55:19Z",
+    "type": "Clock In"
   }
 ]
