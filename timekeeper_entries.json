@@ -107422,5 +107422,31 @@
     "longitude": -4.46793600968496,
     "timestamp": "2026-05-20T16:54:20Z",
     "type": "Lunch Start"
+  },
+  {
+    "employeeId": "57BA9115-ECC7-46ED-B99A-48B11ED17B76",
+    "id": "AED07AED-A299-4235-8427-488882858200",
+    "timestamp": "2026-05-20T18:56:03Z",
+    "type": "Clock Out"
+  },
+  {
+    "employeeId": "CD0D1689-6DEE-4ECF-9D23-5AA439E7E52B",
+    "id": "EF620C30-D59D-4254-8981-A364D1885AC6",
+    "latitude": 55.43516376700533,
+    "longitude": -4.467854457421829,
+    "timestamp": "2026-05-20T21:29:25Z",
+    "type": "Lunch End"
+  },
+  {
+    "employeeId": "567D60C6-5794-4A5F-8DF8-12561792C78D",
+    "id": "7F4E980B-FAF0-433D-9477-315B8E2A0CEC",
+    "timestamp": "2026-05-20T22:59:00Z",
+    "type": "Auto Clock Out At Midnight"
+  },
+  {
+    "employeeId": "CD0D1689-6DEE-4ECF-9D23-5AA439E7E52B",
+    "id": "CBC840B2-2696-481C-BA5B-544A33369745",
+    "timestamp": "2026-05-20T22:59:00Z",
+    "type": "Auto Clock Out At Midnight"
   }
 ]
