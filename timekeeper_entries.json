@@ -108608,5 +108608,44 @@
     "id": "CF12A495-4F24-46B4-95E2-9336B379C2E8",
     "timestamp": "2026-05-23T11:59:19Z",
     "type": "Clock Out"
+  },
+  {
+    "earlyReason": "Other authorised absence",
+    "employeeId": "83F0962E-D531-4F32-952D-F84DE2EDD27F",
+    "id": "D8486FDB-E24B-40DC-8752-9B4484E70B9B",
+    "timestamp": "2026-05-23T12:01:12Z",
+    "type": "Clock Out"
+  },
+  {
+    "earlyReason": "Authorised early finish (manager approved)",
+    "employeeId": "337733FA-A522-41C0-9B46-2A6B5A1D00F9",
+    "id": "23874CDD-07FF-4358-8FC4-A0FBEF60F5C4",
+    "timestamp": "2026-05-23T12:01:21Z",
+    "type": "Clock Out"
+  },
+  {
+    "employeeId": "3C4C3205-2DFC-4646-9AB9-49F73AD47A6A",
+    "id": "AD597182-ED68-4196-84F4-1F47BE8BB360",
+    "timestamp": "2026-05-23T12:02:32Z",
+    "type": "Lunch Start"
+  },
+  {
+    "employeeId": "3C4C3205-2DFC-4646-9AB9-49F73AD47A6A",
+    "id": "D388EFB0-09B3-4AC7-B8D3-7243E629F291",
+    "timestamp": "2026-05-23T12:02:37Z",
+    "type": "Lunch End"
+  },
+  {
+    "earlyReason": "Authorised early finish (manager approved)",
+    "employeeId": "3C4C3205-2DFC-4646-9AB9-49F73AD47A6A",
+    "id": "9B392658-ED2B-4194-9152-00827A5DF8BB",
+    "timestamp": "2026-05-23T12:02:45Z",
+    "type": "Clock Out"
+  },
+  {
+    "employeeId": "57BA9115-ECC7-46ED-B99A-48B11ED17B76",
+    "id": "A67CFCED-EE79-488B-9986-AAFFCED4DA3B",
+    "timestamp": "2026-05-23T13:58:44Z",
+    "type": "Clock Out"
   }
 ]
