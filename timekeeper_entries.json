@@ -109179,5 +109179,13 @@
     "id": "A14C6C11-FAE6-4D73-94C1-1E1C35C17FB7",
     "timestamp": "2026-05-25T22:59:00Z",
     "type": "Auto Clock Out At Midnight"
+  },
+  {
+    "employeeId": "D60E3729-FF6B-49EE-BEA2-02D0FC0E3F53",
+    "id": "088FF27D-AD80-43BC-BC42-2740CA17FDEB",
+    "latitude": 55.45073333848735,
+    "longitude": -4.270706490017379,
+    "timestamp": "2026-05-26T05:59:23Z",
+    "type": "Clock In"
   }
 ]
