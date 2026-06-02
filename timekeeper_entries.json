@@ -112150,5 +112150,13 @@
     "id": "9E4E370F-9134-4E8B-ACC8-FE139076B192",
     "timestamp": "2026-06-01T22:59:00Z",
     "type": "Auto Clock Out At Midnight"
+  },
+  {
+    "employeeId": "CD0D1689-6DEE-4ECF-9D23-5AA439E7E52B",
+    "id": "85FEF998-26FE-427F-957B-B967DA7D3182",
+    "latitude": 55.449619488024,
+    "longitude": -4.270094357593315,
+    "timestamp": "2026-06-02T05:49:31Z",
+    "type": "Clock In"
   }
 ]
