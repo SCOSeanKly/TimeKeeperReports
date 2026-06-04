@@ -113118,5 +113118,20 @@
     "id": "7DE4F334-0379-43E1-B567-B4F5F5AA9F78",
     "timestamp": "2026-06-03T16:30:59Z",
     "type": "Clock Out"
+  },
+  {
+    "employeeId": "D60E3729-FF6B-49EE-BEA2-02D0FC0E3F53",
+    "id": "E799E1FD-C745-4972-B511-0071F3068038",
+    "lateReason": "AA Contract",
+    "latitude": 55.45035713357461,
+    "longitude": -4.27051889710526,
+    "timestamp": "2026-06-03T18:09:52Z",
+    "type": "Clock Out"
+  },
+  {
+    "employeeId": "57BA9115-ECC7-46ED-B99A-48B11ED17B76",
+    "id": "1B256D08-0650-4EA9-BACE-B416B49C901A",
+    "timestamp": "2026-06-03T18:55:14Z",
+    "type": "Clock Out"
   }
 ]
