@@ -113469,6 +113469,17 @@
     "type": "Lunch End"
   },
   {
+    "employeeId": "CD0D1689-6DEE-4ECF-9D23-5AA439E7E52B",
+    "id": "9DD81301-D402-4241-BBDD-84374D1C4A08",
+    "lateReason": "Forgot to Clock Out",
+    "latitude": 55.43523728659268,
+    "longitude": -4.468047821113365,
+    "originalTimestamp": "2026-06-04T20:44:45Z",
+    "timeAdjusted": true,
+    "timestamp": "2026-06-04T16:00:00Z",
+    "type": "Clock Out"
+  },
+  {
     "employeeId": "567D60C6-5794-4A5F-8DF8-12561792C78D",
     "id": "266DEF64-760A-4E82-872D-5C810561704F",
     "latitude": 55.45011016041182,
@@ -113537,6 +113548,12 @@
     "latitude": 55.455041630199155,
     "longitude": -4.254028539131472,
     "timestamp": "2026-06-04T17:02:46Z",
+    "type": "Clock Out"
+  },
+  {
+    "employeeId": "57BA9115-ECC7-46ED-B99A-48B11ED17B76",
+    "id": "720861E6-406E-4594-9B84-852B786A9CAF",
+    "timestamp": "2026-06-04T18:32:00Z",
     "type": "Clock Out"
   }
 ]
