@@ -114007,5 +114007,14 @@
     "longitude": -4.270446477461858,
     "timestamp": "2026-06-05T17:00:50Z",
     "type": "Clock Out"
+  },
+  {
+    "employeeId": "D60E3729-FF6B-49EE-BEA2-02D0FC0E3F53",
+    "id": "D08C3BC5-BFFC-4F9E-A796-65C75B40F37C",
+    "lateReason": "Extra Overtime",
+    "latitude": 55.44008544212339,
+    "longitude": -4.241282321931427,
+    "timestamp": "2026-06-05T18:20:56Z",
+    "type": "Clock Out"
   }
 ]
