@@ -362,5 +362,18 @@
     "saturdayPattern": "fortnightly",
     "startTime": "2025-01-01T08:00:00Z",
     "weekdayPattern": "-----"
+  },
+  {
+    "department": "Bodyshop",
+    "finishTime": "2025-01-01T16:30:00Z",
+    "hasFlexibleSchedule": false,
+    "holidayManagerId": 55,
+    "id": "1C83F600-CACB-4F8B-9709-013DA50099AA",
+    "name": "Zak Mullin",
+    "pin": "3456",
+    "saturdayAnchor": null,
+    "saturdayPattern": "none",
+    "startTime": "2025-01-01T08:00:00Z",
+    "weekdayPattern": "MTWTF"
   }
 ]
