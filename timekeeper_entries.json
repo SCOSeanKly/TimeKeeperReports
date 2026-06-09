@@ -114692,5 +114692,13 @@
     "timeAdjusted": true,
     "timestamp": "2026-06-08T18:00:00Z",
     "type": "Clock Out"
+  },
+  {
+    "employeeId": "CD0D1689-6DEE-4ECF-9D23-5AA439E7E52B",
+    "id": "78DD1D19-5BA8-45DA-AEA9-75EBA961E498",
+    "latitude": 55.45031794651985,
+    "longitude": -4.270541143059643,
+    "timestamp": "2026-06-09T05:31:47Z",
+    "type": "Clock In"
   }
 ]
