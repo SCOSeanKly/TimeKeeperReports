@@ -114681,5 +114681,16 @@
     "longitude": -4.322156413622724,
     "timestamp": "2026-06-08T16:53:43Z",
     "type": "Clock Out"
+  },
+  {
+    "employeeId": "D60E3729-FF6B-49EE-BEA2-02D0FC0E3F53",
+    "id": "3BCF8C57-6687-4A02-9EDB-95231F9628A5",
+    "lateReason": "Forgot to Clock Out",
+    "latitude": 55.45498576641949,
+    "longitude": -4.253973449898923,
+    "originalTimestamp": "2026-06-08T20:51:03Z",
+    "timeAdjusted": true,
+    "timestamp": "2026-06-08T18:00:00Z",
+    "type": "Clock Out"
   }
 ]
