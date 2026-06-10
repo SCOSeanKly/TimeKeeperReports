@@ -79,7 +79,7 @@
   },
   {
     "department": "Workshop",
-    "finishTime": "2025-09-03T16:00:00Z",
+    "finishTime": "2025-01-01T17:00:00Z",
     "hasFlexibleSchedule": false,
     "holidayManagerId": 48,
     "id": "8328C48C-97D6-4E14-BE85-BB8763817CF8",
@@ -87,7 +87,7 @@
     "pin": "7376",
     "saturdayAnchor": null,
     "saturdayPattern": "none",
-    "startTime": "2025-09-03T07:00:00Z",
+    "startTime": "2025-01-01T08:30:00Z",
     "weekdayPattern": "MTWTF"
   },
   {
