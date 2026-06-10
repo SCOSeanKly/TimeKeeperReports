@@ -115238,6 +115238,17 @@
     "type": "Clock Out"
   },
   {
+    "employeeId": "D60E3729-FF6B-49EE-BEA2-02D0FC0E3F53",
+    "id": "93BDE6A4-9A19-4F46-978E-BAEFDDDC2DAA",
+    "lateReason": "Forgot to Clock Out",
+    "latitude": 55.455037505262624,
+    "longitude": -4.254001898098437,
+    "originalTimestamp": "2026-06-09T22:43:54Z",
+    "timeAdjusted": true,
+    "timestamp": "2026-06-09T17:00:00Z",
+    "type": "Clock Out"
+  },
+  {
     "employeeId": "BD0902DD-373B-433A-953A-755F88CBF221",
     "id": "40572C0E-658A-4F14-8D90-58795A63A675",
     "timestamp": "2026-06-09T17:00:38Z",
@@ -115250,6 +115261,12 @@
     "latitude": 55.45034422544339,
     "longitude": -4.270917875696226,
     "timestamp": "2026-06-09T17:07:48Z",
+    "type": "Clock Out"
+  },
+  {
+    "employeeId": "57BA9115-ECC7-46ED-B99A-48B11ED17B76",
+    "id": "2143AF21-3C8D-4471-A639-25041F895E9B",
+    "timestamp": "2026-06-09T18:56:31Z",
     "type": "Clock Out"
   }
 ]
