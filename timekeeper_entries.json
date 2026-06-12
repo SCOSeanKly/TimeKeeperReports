@@ -116451,5 +116451,15 @@
     "id": "6134F8F5-151D-4359-9772-7216448212E7",
     "timestamp": "2026-06-11T22:59:00Z",
     "type": "Auto Clock Out At Midnight"
+  },
+  {
+    "employeeId": "CD0D1689-6DEE-4ECF-9D23-5AA439E7E52B",
+    "id": "6EAE63F1-AFBE-4758-A69B-B3C790EFC921",
+    "latitude": 55.45180745522129,
+    "longitude": -4.2735973711726345,
+    "offsiteNote": "Aa",
+    "offsiteReason": "other",
+    "timestamp": "2026-06-12T05:53:27Z",
+    "type": "Clock In"
   }
 ]
