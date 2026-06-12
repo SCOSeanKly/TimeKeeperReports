@@ -116336,6 +116336,17 @@
     "type": "Lunch Start"
   },
   {
+    "employeeId": "D60E3729-FF6B-49EE-BEA2-02D0FC0E3F53",
+    "id": "2EC0F9A7-AA2F-4782-B7DB-01ED36BF66C9",
+    "lateReason": "Forgot to Clock Out",
+    "latitude": 55.45563714583912,
+    "longitude": -4.273507297043012,
+    "originalTimestamp": "2026-06-11T22:29:19Z",
+    "timeAdjusted": true,
+    "timestamp": "2026-06-11T16:00:00Z",
+    "type": "Clock Out"
+  },
+  {
     "employeeId": "2D3EC73F-366E-466C-8516-C0AF231C271E",
     "id": "776CD611-D292-4C82-BDB7-3497FD3F3431",
     "timestamp": "2026-06-11T16:00:10Z",
@@ -116417,5 +116428,28 @@
     "longitude": -4.2705616520349325,
     "timestamp": "2026-06-11T17:55:28Z",
     "type": "Clock Out"
+  },
+  {
+    "employeeId": "567D60C6-5794-4A5F-8DF8-12561792C78D",
+    "id": "5E1FE508-1D20-4786-B4F1-3E6D297A4680",
+    "lateReason": "Forgot to Clock Out",
+    "latitude": 55.460172780616,
+    "longitude": -4.359222409270696,
+    "originalTimestamp": "2026-06-11T18:20:50Z",
+    "timeAdjusted": true,
+    "timestamp": "2026-06-11T18:15:00Z",
+    "type": "Clock Out"
+  },
+  {
+    "employeeId": "57BA9115-ECC7-46ED-B99A-48B11ED17B76",
+    "id": "024CAE8B-A425-4CF0-8E8D-0130EADCC5CA",
+    "timestamp": "2026-06-11T18:54:47Z",
+    "type": "Clock Out"
+  },
+  {
+    "employeeId": "BE4E5108-1C7A-4396-BA60-985D0A0D25DC",
+    "id": "6134F8F5-151D-4359-9772-7216448212E7",
+    "timestamp": "2026-06-11T22:59:00Z",
+    "type": "Auto Clock Out At Midnight"
   }
 ]
