@@ -119056,6 +119056,17 @@
     "type": "Clock Out"
   },
   {
+    "employeeId": "CD0D1689-6DEE-4ECF-9D23-5AA439E7E52B",
+    "id": "C493EA88-5D74-4A0A-A07D-B62B43064298",
+    "lateReason": "Forgot to Clock Out",
+    "latitude": 55.45539976001928,
+    "longitude": -4.393690963924367,
+    "originalTimestamp": "2026-06-18T18:31:15Z",
+    "timeAdjusted": true,
+    "timestamp": "2026-06-18T16:30:00Z",
+    "type": "Clock Out"
+  },
+  {
     "employeeId": "953EA2A7-6C38-4C9B-98AD-A7927077E363",
     "id": "2B8126B1-4893-4339-9B5B-427BB977ED28",
     "timestamp": "2026-06-18T16:30:51Z",
@@ -119084,5 +119095,27 @@
     "id": "99A4B3FF-EAF9-4515-BF36-9D463BDCAEBD",
     "timestamp": "2026-06-18T17:18:00Z",
     "type": "Clock Out"
+  },
+  {
+    "employeeId": "CD0D1689-6DEE-4ECF-9D23-5AA439E7E52B",
+    "id": "E43D13F3-9563-4BD2-BA8D-299239613722",
+    "latitude": 55.454031427443574,
+    "longitude": -4.400539695745531,
+    "offsiteNote": "Forgot",
+    "offsiteReason": "other",
+    "timestamp": "2026-06-18T18:30:51Z",
+    "type": "Clock In"
+  },
+  {
+    "employeeId": "57BA9115-ECC7-46ED-B99A-48B11ED17B76",
+    "id": "DC56443B-470F-4627-88B6-C173A97E59F8",
+    "timestamp": "2026-06-18T18:53:59Z",
+    "type": "Clock Out"
+  },
+  {
+    "employeeId": "CD0D1689-6DEE-4ECF-9D23-5AA439E7E52B",
+    "id": "DA6CBF53-D0A8-4A65-87EC-F52C83E700CD",
+    "timestamp": "2026-06-18T22:59:00Z",
+    "type": "Auto Clock Out At Midnight"
   }
 ]
