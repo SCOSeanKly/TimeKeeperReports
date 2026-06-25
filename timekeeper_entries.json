@@ -121348,5 +121348,17 @@
     "id": "938CE811-CE65-4DB1-8574-8F9A59FC218C",
     "timestamp": "2026-06-24T16:30:22Z",
     "type": "Clock Out"
+  },
+  {
+    "employeeId": "57BA9115-ECC7-46ED-B99A-48B11ED17B76",
+    "id": "43030C4E-F1BE-4BF8-A9F9-3F8D5B5B5254",
+    "timestamp": "2026-06-24T18:54:14Z",
+    "type": "Clock Out"
+  },
+  {
+    "employeeId": "3C4C3205-2DFC-4646-9AB9-49F73AD47A6A",
+    "id": "ED15E2EF-C388-4CBF-A26B-87955ACB4673",
+    "timestamp": "2026-06-24T22:59:00Z",
+    "type": "Auto Clock Out At Midnight"
   }
 ]
