@@ -122319,5 +122319,11 @@
     "timeAdjusted": true,
     "timestamp": "2026-06-26T16:40:00Z",
     "type": "Clock Out"
+  },
+  {
+    "employeeId": "D60E3729-FF6B-49EE-BEA2-02D0FC0E3F53",
+    "id": "3A0A04DA-F15D-4B4F-93C9-FA680CEF8D50",
+    "timestamp": "2026-06-26T22:59:00Z",
+    "type": "Auto Clock Out At Midnight"
   }
 ]
