@@ -124427,5 +124427,15 @@
     "id": "56A50198-C4BB-4B13-85B2-440562D243F8",
     "timestamp": "2026-07-02T18:55:09Z",
     "type": "Clock Out"
+  },
+  {
+    "employeeId": "CD0D1689-6DEE-4ECF-9D23-5AA439E7E52B",
+    "id": "7E5523B1-C8E8-4B3B-BFD2-6318396B4389",
+    "latitude": 55.435204772959366,
+    "longitude": -4.467863545453464,
+    "offsiteNote": "AA",
+    "offsiteReason": "other",
+    "timestamp": "2026-07-03T05:53:49Z",
+    "type": "Clock In"
   }
 ]
