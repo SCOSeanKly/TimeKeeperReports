@@ -127234,5 +127234,56 @@
     "id": "F3C820ED-D8FE-4102-957E-72A5939B1C84",
     "timestamp": "2026-07-10T22:59:00Z",
     "type": "Auto Clock Out At Midnight"
+  },
+  {
+    "employeeId": "D56675E7-D446-4F6D-BC07-06072C9146BE",
+    "id": "B4D4AA64-FC1F-432A-B17D-318BC16C3CCD",
+    "timestamp": "2026-07-11T06:50:12Z",
+    "type": "Clock In"
+  },
+  {
+    "employeeId": "7052DB49-F73F-47F0-9FB3-CF44601A7FC3",
+    "id": "A710B732-E686-47A0-8CCC-259B215D2B1F",
+    "timestamp": "2026-07-11T06:51:03Z",
+    "type": "Clock In"
+  },
+  {
+    "employeeId": "3C4C3205-2DFC-4646-9AB9-49F73AD47A6A",
+    "id": "5E130A5F-D137-4199-AC5C-06A5F7F00258",
+    "timestamp": "2026-07-11T07:05:57Z",
+    "type": "Clock In"
+  },
+  {
+    "employeeId": "1944DCDA-F1F7-4CE6-BCA0-52C033930491",
+    "id": "8A3FF944-F21D-474C-BCDB-E907ABC51748",
+    "timestamp": "2026-07-11T07:09:15Z",
+    "type": "Clock In"
+  },
+  {
+    "earlyReason": "Other authorised absence",
+    "employeeId": "1944DCDA-F1F7-4CE6-BCA0-52C033930491",
+    "id": "4406AE7B-4CCA-4B22-9BC0-DDD7C88DB2F6",
+    "timestamp": "2026-07-11T11:52:05Z",
+    "type": "Clock Out"
+  },
+  {
+    "employeeId": "7052DB49-F73F-47F0-9FB3-CF44601A7FC3",
+    "id": "9372C18A-A37B-4E73-A8CC-6BD8803DB80C",
+    "timestamp": "2026-07-11T11:53:57Z",
+    "type": "Clock Out"
+  },
+  {
+    "earlyReason": "Half-day holiday",
+    "employeeId": "3C4C3205-2DFC-4646-9AB9-49F73AD47A6A",
+    "id": "815FB5C8-E024-4FE2-B3CA-040FF29E52BC",
+    "timestamp": "2026-07-11T11:54:22Z",
+    "type": "Clock Out"
+  },
+  {
+    "earlyReason": "Other authorised absence",
+    "employeeId": "D56675E7-D446-4F6D-BC07-06072C9146BE",
+    "id": "1FD7614A-66AF-4B31-8107-05F3A8C6718D",
+    "timestamp": "2026-07-11T11:55:01Z",
+    "type": "Clock Out"
   }
 ]
