@@ -130345,5 +130345,15 @@
     "longitude": -4.257659256417254,
     "timestamp": "2026-07-20T20:39:03Z",
     "type": "Clock Out"
+  },
+  {
+    "employeeId": "CD0D1689-6DEE-4ECF-9D23-5AA439E7E52B",
+    "id": "6264F98D-9F0D-428B-BBE1-6C3AA90A1561",
+    "latitude": 55.43522005493691,
+    "longitude": -4.46785434666932,
+    "offsiteNote": "AA",
+    "offsiteReason": "other",
+    "timestamp": "2026-07-21T05:39:22Z",
+    "type": "Clock In"
   }
 ]
