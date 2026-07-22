@@ -130850,5 +130850,17 @@
     "longitude": -4.362773768856032,
     "timestamp": "2026-07-21T17:28:49Z",
     "type": "Clock Out"
+  },
+  {
+    "employeeId": "57BA9115-ECC7-46ED-B99A-48B11ED17B76",
+    "id": "D1F41999-34AF-42EF-BE94-93BF64CA1BAA",
+    "timestamp": "2026-07-21T19:00:00Z",
+    "type": "Clock Out"
+  },
+  {
+    "employeeId": "567D60C6-5794-4A5F-8DF8-12561792C78D",
+    "id": "DCF2CD7C-B68C-4A39-A9D1-92A1D77E432B",
+    "timestamp": "2026-07-21T22:59:00Z",
+    "type": "Auto Clock Out At Midnight"
   }
 ]
