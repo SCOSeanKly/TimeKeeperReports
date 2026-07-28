@@ -133220,5 +133220,17 @@
     "id": "3E856274-319D-4C55-9F9D-B6E189F41F1F",
     "timestamp": "2026-07-27T16:32:09Z",
     "type": "Clock Out"
+  },
+  {
+    "employeeId": "57BA9115-ECC7-46ED-B99A-48B11ED17B76",
+    "id": "0E4B14FC-8F23-4CF1-A7CC-4B46C2974958",
+    "timestamp": "2026-07-27T18:58:08Z",
+    "type": "Clock Out"
+  },
+  {
+    "employeeId": "E1949C06-DBB6-4988-BF8B-2DE53FFD8D64",
+    "id": "509C105D-22E7-484A-998E-79912DDFB158",
+    "timestamp": "2026-07-27T22:59:00Z",
+    "type": "Auto Clock Out At Midnight"
   }
 ]
