@@ -135280,5 +135280,17 @@
     "id": "9C52E334-BD2D-401E-A8FB-816C9CC47269",
     "timestamp": "2026-08-01T12:00:25Z",
     "type": "Clock Out"
+  },
+  {
+    "employeeId": "BD0902DD-373B-433A-953A-755F88CBF221",
+    "id": "A45DA7B8-31A3-4046-A3CD-2BE2FC89833E",
+    "timestamp": "2026-08-01T13:35:26Z",
+    "type": "Clock Out"
+  },
+  {
+    "employeeId": "57BA9115-ECC7-46ED-B99A-48B11ED17B76",
+    "id": "4CA97F2C-A696-4044-A7E0-CF14156A64AF",
+    "timestamp": "2026-08-01T13:58:32Z",
+    "type": "Clock Out"
   }
 ]
