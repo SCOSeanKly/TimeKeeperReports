@@ -136718,5 +136718,15 @@
     "id": "E1135CB7-169F-46AD-99E9-D29E85C46567",
     "timestamp": "2026-08-05T22:59:00Z",
     "type": "Auto Clock Out At Midnight"
+  },
+  {
+    "employeeId": "CD0D1689-6DEE-4ECF-9D23-5AA439E7E52B",
+    "id": "EEDFCB3E-3389-4007-8DE0-502FBD976093",
+    "latitude": 55.435219707983116,
+    "longitude": -4.467892852114091,
+    "offsiteNote": "Cany sleep",
+    "offsiteReason": "other",
+    "timestamp": "2026-08-06T03:08:41Z",
+    "type": "Clock In"
   }
 ]
