@@ -137657,5 +137657,66 @@
     "id": "B6DF0539-486D-4173-8C89-EB23CB06DC0E",
     "timestamp": "2026-08-07T22:59:00Z",
     "type": "Auto Clock Out At Midnight"
+  },
+  {
+    "employeeId": "D56675E7-D446-4F6D-BC07-06072C9146BE",
+    "id": "2D95A0E2-66B1-4DA7-A526-DE915354D124",
+    "timestamp": "2026-08-08T06:52:08Z",
+    "type": "Clock In"
+  },
+  {
+    "employeeId": "7052DB49-F73F-47F0-9FB3-CF44601A7FC3",
+    "id": "1789399D-389F-4BA5-AF86-DEAC123637F4",
+    "timestamp": "2026-08-08T06:56:27Z",
+    "type": "Clock In"
+  },
+  {
+    "employeeId": "93D01C6D-B38D-48D9-967F-852BD7B856F2",
+    "id": "C89C24A3-1337-4C35-868D-1C751FAF9224",
+    "timestamp": "2026-08-08T06:56:38Z",
+    "type": "Clock In"
+  },
+  {
+    "employeeId": "F0064293-8B19-496C-979F-E3265BEFD5C9",
+    "id": "670A15CE-B68E-4060-841F-1779F95F9FCF",
+    "timestamp": "2026-08-08T06:56:55Z",
+    "type": "Clock In"
+  },
+  {
+    "employeeId": "1944DCDA-F1F7-4CE6-BCA0-52C033930491",
+    "id": "58F532C2-19FB-4891-B153-0DFAD5C2B573",
+    "timestamp": "2026-08-08T06:57:48Z",
+    "type": "Clock In"
+  },
+  {
+    "employeeId": "F0064293-8B19-496C-979F-E3265BEFD5C9",
+    "id": "EC27A62A-9153-4DA2-86EB-4895F060AEE6",
+    "timestamp": "2026-08-08T09:31:01Z",
+    "type": "Clock Out"
+  },
+  {
+    "employeeId": "57BA9115-ECC7-46ED-B99A-48B11ED17B76",
+    "id": "4364248A-F816-4754-A4B7-7D002AD93420",
+    "timestamp": "2026-08-08T10:41:48Z",
+    "type": "Clock In"
+  },
+  {
+    "earlyReason": "Other authorised absence",
+    "employeeId": "1944DCDA-F1F7-4CE6-BCA0-52C033930491",
+    "id": "EAFF4ACE-27B9-4897-8511-97554E81588E",
+    "timestamp": "2026-08-08T11:53:14Z",
+    "type": "Clock Out"
+  },
+  {
+    "employeeId": "7052DB49-F73F-47F0-9FB3-CF44601A7FC3",
+    "id": "CF0D2A6F-00CC-4838-A2A5-7B15B98FB0D6",
+    "timestamp": "2026-08-08T11:56:56Z",
+    "type": "Clock Out"
+  },
+  {
+    "employeeId": "93D01C6D-B38D-48D9-967F-852BD7B856F2",
+    "id": "B2D177FC-D89B-40F9-B7A6-187CE7DCDB41",
+    "timestamp": "2026-08-08T12:00:19Z",
+    "type": "Clock Out"
   }
 ]
