@@ -141798,5 +141798,38 @@
     "longitude": -4.4679446905188005,
     "timestamp": "2026-08-19T17:45:44Z",
     "type": "Clock Out"
+  },
+  {
+    "employeeId": "D60E3729-FF6B-49EE-BEA2-02D0FC0E3F53",
+    "id": "C1BFAFC9-E339-4140-8D9D-76C8555DA9CF",
+    "lateReason": "Extra Overtime",
+    "latitude": 55.44957531155595,
+    "longitude": -4.269830826673908,
+    "timestamp": "2026-08-19T18:01:05Z",
+    "type": "Clock Out"
+  },
+  {
+    "employeeId": "57BA9115-ECC7-46ED-B99A-48B11ED17B76",
+    "id": "4CDE60A5-CE35-4BCD-9580-828376F95C82",
+    "timestamp": "2026-08-19T18:57:55Z",
+    "type": "Clock Out"
+  },
+  {
+    "employeeId": "567D60C6-5794-4A5F-8DF8-12561792C78D",
+    "id": "C8A2369F-9BCD-45FB-9FC3-838C001797C3",
+    "timestamp": "2026-08-19T22:59:00Z",
+    "type": "Auto Clock Out At Midnight"
+  },
+  {
+    "employeeId": "A89B7519-4C5C-4F70-9342-5BBCF890E719",
+    "id": "2CDCF9BD-3C70-43DB-A810-0EE65E52353F",
+    "timestamp": "2026-08-19T22:59:00Z",
+    "type": "Auto Clock Out At Midnight"
+  },
+  {
+    "employeeId": "BD0902DD-373B-433A-953A-755F88CBF221",
+    "id": "3855FE15-FAED-4DF1-96D1-9E981A4C45A9",
+    "timestamp": "2026-08-19T22:59:00Z",
+    "type": "Auto Clock Out At Midnight"
   }
 ]
