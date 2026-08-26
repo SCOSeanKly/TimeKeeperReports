@@ -143909,5 +143909,11 @@
     "longitude": -4.467889373837622,
     "timestamp": "2026-08-25T18:00:05Z",
     "type": "Clock Out"
+  },
+  {
+    "employeeId": "57BA9115-ECC7-46ED-B99A-48B11ED17B76",
+    "id": "946ACA7E-7F92-4211-AEAB-7CB2EB19C746",
+    "timestamp": "2026-08-25T18:57:21Z",
+    "type": "Clock Out"
   }
 ]
