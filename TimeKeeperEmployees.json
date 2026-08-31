@@ -273,6 +273,19 @@
     "weekdayPattern": "MTWTF"
   },
   {
+    "department": "Bodyshop",
+    "finishTime": "2025-01-01T16:30:00Z",
+    "hasFlexibleSchedule": false,
+    "holidayManagerId": null,
+    "id": "398A0919-C5D0-4255-903C-4B6713C58D26",
+    "name": "Ross Logan",
+    "pin": "1202",
+    "saturdayAnchor": null,
+    "saturdayPattern": "none",
+    "startTime": "2025-01-01T08:00:00Z",
+    "weekdayPattern": "MTWTF"
+  },
+  {
     "department": "Workshop",
     "finishTime": "2025-01-01T17:00:00Z",
     "hasFlexibleSchedule": false,
