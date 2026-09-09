@@ -147819,6 +147819,12 @@
     "type": "Lunch End"
   },
   {
+    "employeeId": "3C4C3205-2DFC-4646-9AB9-49F73AD47A6A",
+    "id": "33F6431D-2A9D-4417-A544-38EAEA75B5AC",
+    "timestamp": "2026-09-04T13:04:00Z",
+    "type": "Lunch End"
+  },
+  {
     "employeeId": "A89B7519-4C5C-4F70-9342-5BBCF890E719",
     "id": "41427AB3-28CE-4B75-AA3D-55233B443F40",
     "timestamp": "2026-09-04T13:04:33Z",
@@ -147899,12 +147905,6 @@
     "id": "648446C4-5EE9-4BAD-BDA2-81D1134946B0",
     "timestamp": "2026-09-04T16:08:05Z",
     "type": "Clock Out"
-  },
-  {
-    "employeeId": "3C4C3205-2DFC-4646-9AB9-49F73AD47A6A",
-    "id": "33F6431D-2A9D-4417-A544-38EAEA75B5AC",
-    "timestamp": "2026-09-04T16:19:18Z",
-    "type": "Lunch End"
   },
   {
     "employeeId": "3C4C3205-2DFC-4646-9AB9-49F73AD47A6A",
@@ -149497,5 +149497,310 @@
     "longitude": -4.483541858023303,
     "timestamp": "2026-09-09T11:54:18Z",
     "type": "Lunch Start"
+  },
+  {
+    "employeeId": "2D3EC73F-366E-466C-8516-C0AF231C271E",
+    "id": "1D4141E9-F7F0-4412-A8E3-DF50F0B08FA0",
+    "timestamp": "2026-09-09T12:24:30Z",
+    "type": "Lunch Start"
+  },
+  {
+    "employeeId": "2D3EC73F-366E-466C-8516-C0AF231C271E",
+    "id": "762520C6-BDD0-4445-8FE2-BDFEE5C61CDA",
+    "timestamp": "2026-09-09T12:24:37Z",
+    "type": "Lunch End"
+  },
+  {
+    "employeeId": "F0064293-8B19-496C-979F-E3265BEFD5C9",
+    "id": "5C805F25-F164-4CC9-899E-13EBA6DD70A0",
+    "timestamp": "2026-09-09T12:30:17Z",
+    "type": "Lunch Start"
+  },
+  {
+    "employeeId": "83F0962E-D531-4F32-952D-F84DE2EDD27F",
+    "id": "0B377692-AA51-45E0-9D7A-2E47242F71CA",
+    "timestamp": "2026-09-09T12:30:27Z",
+    "type": "Lunch Start"
+  },
+  {
+    "employeeId": "8328C48C-97D6-4E14-BE85-BB8763817CF8",
+    "id": "7040156C-1482-49E9-B2F3-BB699053DC02",
+    "timestamp": "2026-09-09T12:30:33Z",
+    "type": "Lunch Start"
+  },
+  {
+    "employeeId": "1C83F600-CACB-4F8B-9709-013DA50099AA",
+    "id": "6AC3B026-0E7E-4743-AAD2-3936DF121D15",
+    "timestamp": "2026-09-09T12:30:57Z",
+    "type": "Lunch Start"
+  },
+  {
+    "employeeId": "A89B7519-4C5C-4F70-9342-5BBCF890E719",
+    "id": "D3EA5912-3FEF-48E8-9DCE-A9EAFD9E5676",
+    "timestamp": "2026-09-09T12:33:15Z",
+    "type": "Lunch Start"
+  },
+  {
+    "employeeId": "393F3D1F-F71E-4F88-8619-1CDD9BF9C9C2",
+    "id": "7326C58D-D034-4CB6-B008-711A04667082",
+    "timestamp": "2026-09-09T12:33:20Z",
+    "type": "Lunch Start"
+  },
+  {
+    "employeeId": "393F3D1F-F71E-4F88-8619-1CDD9BF9C9C2",
+    "id": "F0663FA7-A7F7-4AB3-AEA4-B60EC3ADF161",
+    "timestamp": "2026-09-09T12:33:24Z",
+    "type": "Lunch End"
+  },
+  {
+    "employeeId": "3C4C3205-2DFC-4646-9AB9-49F73AD47A6A",
+    "id": "08A01C42-368C-4C92-958B-50138DEA70DC",
+    "timestamp": "2026-09-09T12:33:45Z",
+    "type": "Lunch Start"
+  },
+  {
+    "employeeId": "337733FA-A522-41C0-9B46-2A6B5A1D00F9",
+    "id": "02FE3A7A-50FB-421B-93E4-4FEB0B137901",
+    "timestamp": "2026-09-09T12:35:16Z",
+    "type": "Lunch Start"
+  },
+  {
+    "employeeId": "398A0919-C5D0-4255-903C-4B6713C58D26",
+    "id": "D3A72F8A-EAA4-4281-8D1A-382358AC4A74",
+    "timestamp": "2026-09-09T12:36:00Z",
+    "type": "Lunch Start"
+  },
+  {
+    "employeeId": "567D60C6-5794-4A5F-8DF8-12561792C78D",
+    "id": "9FB7D7A3-C921-4229-A96E-925E146C181B",
+    "latitude": 55.63038883035607,
+    "longitude": -4.483364851469168,
+    "timestamp": "2026-09-09T12:39:02Z",
+    "type": "Lunch End"
+  },
+  {
+    "employeeId": "CCB8E18E-1ED3-4A1E-9204-5A5E61D70B53",
+    "id": "1AE90550-2677-45BB-A0C0-BDDA74AB466A",
+    "timestamp": "2026-09-09T12:40:20Z",
+    "type": "Lunch Start"
+  },
+  {
+    "employeeId": "D56675E7-D446-4F6D-BC07-06072C9146BE",
+    "id": "C916B467-3D7D-49A6-9AB7-39660795B5C5",
+    "timestamp": "2026-09-09T12:43:28Z",
+    "type": "Lunch Start"
+  },
+  {
+    "employeeId": "337733FA-A522-41C0-9B46-2A6B5A1D00F9",
+    "id": "711B5A96-7109-4AA8-86BB-860EC01A775E",
+    "timestamp": "2026-09-09T12:55:33Z",
+    "type": "Lunch End"
+  },
+  {
+    "employeeId": "1C83F600-CACB-4F8B-9709-013DA50099AA",
+    "id": "C55ED1A0-B602-4F2F-8DC8-C791EA1B6332",
+    "timestamp": "2026-09-09T12:57:14Z",
+    "type": "Lunch End"
+  },
+  {
+    "employeeId": "F0064293-8B19-496C-979F-E3265BEFD5C9",
+    "id": "C8316DD6-A341-4568-89F5-105AD1D291B9",
+    "timestamp": "2026-09-09T12:57:21Z",
+    "type": "Lunch End"
+  },
+  {
+    "employeeId": "3C4C3205-2DFC-4646-9AB9-49F73AD47A6A",
+    "id": "EADFD067-6069-44C2-9984-A04764936863",
+    "timestamp": "2026-09-09T13:00:00Z",
+    "type": "Lunch End"
+  },
+  {
+    "employeeId": "29EAE04E-470D-4124-8038-200CCF2D63BC",
+    "id": "5DD0A536-4C1C-41DF-9106-06512290F1C9",
+    "timestamp": "2026-09-09T13:00:20Z",
+    "type": "Lunch Start"
+  },
+  {
+    "employeeId": "A89B7519-4C5C-4F70-9342-5BBCF890E719",
+    "id": "9D58DBC0-9F06-4855-95EB-948DCC37EEAD",
+    "timestamp": "2026-09-09T13:00:30Z",
+    "type": "Lunch End"
+  },
+  {
+    "employeeId": "8328C48C-97D6-4E14-BE85-BB8763817CF8",
+    "id": "5B7CA917-5DB0-48B7-B41C-3B51FF45153F",
+    "timestamp": "2026-09-09T13:01:20Z",
+    "type": "Lunch End"
+  },
+  {
+    "employeeId": "83F0962E-D531-4F32-952D-F84DE2EDD27F",
+    "id": "0043A020-4970-4174-83DB-DCE954F4EAE3",
+    "timestamp": "2026-09-09T13:01:25Z",
+    "type": "Lunch End"
+  },
+  {
+    "employeeId": "398A0919-C5D0-4255-903C-4B6713C58D26",
+    "id": "2DB45765-60AB-4E0A-9CD8-E0E82B9B9514",
+    "timestamp": "2026-09-09T13:01:43Z",
+    "type": "Lunch End"
+  },
+  {
+    "employeeId": "D56675E7-D446-4F6D-BC07-06072C9146BE",
+    "id": "6F5344AD-C3F2-4A10-8B77-E81207B08E67",
+    "timestamp": "2026-09-09T13:05:06Z",
+    "type": "Lunch End"
+  },
+  {
+    "employeeId": "CCB8E18E-1ED3-4A1E-9204-5A5E61D70B53",
+    "id": "9844AF3A-7C85-48D6-9FF7-B4432BAA723F",
+    "timestamp": "2026-09-09T13:09:23Z",
+    "type": "Lunch End"
+  },
+  {
+    "employeeId": "57BA9115-ECC7-46ED-B99A-48B11ED17B76",
+    "id": "178D2B5D-8209-4C40-8C6A-11099FD8CC1D",
+    "timestamp": "2026-09-09T14:42:25Z",
+    "type": "Clock In"
+  },
+  {
+    "employeeId": "7989DCCC-541E-4746-BAB1-0F703B2039EA",
+    "id": "626A1DA8-A772-4DDF-8A9F-8103AF75ABF3",
+    "timestamp": "2026-09-09T14:54:13Z",
+    "type": "Clock In"
+  },
+  {
+    "employeeId": "BE4E5108-1C7A-4396-BA60-985D0A0D25DC",
+    "id": "71940E04-BE99-4ABE-916A-AB5348998BB2",
+    "timestamp": "2026-09-09T14:56:25Z",
+    "type": "Clock Out"
+  },
+  {
+    "employeeId": "BC7199E0-4065-4B2C-8863-CCA70D0AE8D3",
+    "id": "A06F9DF0-708E-4A61-8B28-1752C8E4AD3E",
+    "timestamp": "2026-09-09T15:30:23Z",
+    "type": "Clock Out"
+  },
+  {
+    "employeeId": "1C83F600-CACB-4F8B-9709-013DA50099AA",
+    "id": "53588038-A456-440E-8293-5F4CB8719368",
+    "timestamp": "2026-09-09T15:34:22Z",
+    "type": "Clock Out"
+  },
+  {
+    "employeeId": "ABBF1404-78F1-4DB0-A35E-374CD9612909",
+    "id": "9BB526EF-4115-44A3-8D5E-4B4FA135420C",
+    "timestamp": "2026-09-09T15:35:36Z",
+    "type": "Clock Out"
+  },
+  {
+    "employeeId": "2D3EC73F-366E-466C-8516-C0AF231C271E",
+    "id": "3C291B10-950C-4CF3-AC12-793CC2E44FE8",
+    "timestamp": "2026-09-09T16:00:24Z",
+    "type": "Clock Out"
+  },
+  {
+    "employeeId": "93D01C6D-B38D-48D9-967F-852BD7B856F2",
+    "id": "3142982A-026E-40AA-A48C-0A593D6CFDA6",
+    "timestamp": "2026-09-09T16:01:22Z",
+    "type": "Clock Out"
+  },
+  {
+    "employeeId": "F0064293-8B19-496C-979F-E3265BEFD5C9",
+    "id": "87E104C7-1DB7-4B73-8841-E9D912DCBA18",
+    "timestamp": "2026-09-09T16:01:28Z",
+    "type": "Clock Out"
+  },
+  {
+    "employeeId": "8328C48C-97D6-4E14-BE85-BB8763817CF8",
+    "id": "2D004FB2-0107-4147-9265-58F03E196873",
+    "timestamp": "2026-09-09T16:02:05Z",
+    "type": "Clock Out"
+  },
+  {
+    "employeeId": "337733FA-A522-41C0-9B46-2A6B5A1D00F9",
+    "id": "9E72DF00-72A4-4ECC-BE4C-16C6AE8F1619",
+    "timestamp": "2026-09-09T16:02:21Z",
+    "type": "Clock Out"
+  },
+  {
+    "employeeId": "3C4C3205-2DFC-4646-9AB9-49F73AD47A6A",
+    "id": "9F0911F4-DB81-44F2-8390-B4EC886AA291",
+    "timestamp": "2026-09-09T16:05:09Z",
+    "type": "Clock Out"
+  },
+  {
+    "employeeId": "CCB8E18E-1ED3-4A1E-9204-5A5E61D70B53",
+    "id": "3635B40E-7DBB-42AF-AEA2-A88B3468CB93",
+    "timestamp": "2026-09-09T16:08:14Z",
+    "type": "Clock Out"
+  },
+  {
+    "employeeId": "83F0962E-D531-4F32-952D-F84DE2EDD27F",
+    "id": "F093D456-ECB2-4CD0-B4E1-0E7FDD1D64BD",
+    "timestamp": "2026-09-09T16:15:47Z",
+    "type": "Clock Out"
+  },
+  {
+    "employeeId": "7052DB49-F73F-47F0-9FB3-CF44601A7FC3",
+    "id": "18908111-D167-4DE2-8477-7F8A507630E2",
+    "timestamp": "2026-09-09T16:29:46Z",
+    "type": "Clock Out"
+  },
+  {
+    "employeeId": "7989DCCC-541E-4746-BAB1-0F703B2039EA",
+    "id": "3965A2C2-E297-4D4B-A32B-F2E3F4F81B73",
+    "timestamp": "2026-09-09T16:30:05Z",
+    "type": "Clock Out"
+  },
+  {
+    "employeeId": "953EA2A7-6C38-4C9B-98AD-A7927077E363",
+    "id": "D6F4D71D-FDD4-449B-B71F-7E2AF52B47C7",
+    "timestamp": "2026-09-09T16:31:10Z",
+    "type": "Clock Out"
+  },
+  {
+    "employeeId": "D56675E7-D446-4F6D-BC07-06072C9146BE",
+    "id": "BA916899-813D-4AAF-ABA2-E69346D754A6",
+    "timestamp": "2026-09-09T16:31:32Z",
+    "type": "Clock Out"
+  },
+  {
+    "employeeId": "29EAE04E-470D-4124-8038-200CCF2D63BC",
+    "id": "FFEFD18D-5FDC-428C-91F9-076FF1F99527",
+    "timestamp": "2026-09-09T16:31:37Z",
+    "type": "Lunch End"
+  },
+  {
+    "employeeId": "29EAE04E-470D-4124-8038-200CCF2D63BC",
+    "id": "C7F389C6-5748-420E-8160-EDA70F93F096",
+    "timestamp": "2026-09-09T16:31:41Z",
+    "type": "Clock Out"
+  },
+  {
+    "employeeId": "393F3D1F-F71E-4F88-8619-1CDD9BF9C9C2",
+    "id": "3288D3DF-D966-4032-87A6-4FF0840266D5",
+    "timestamp": "2026-09-09T16:34:20Z",
+    "type": "Clock Out"
+  },
+  {
+    "employeeId": "398A0919-C5D0-4255-903C-4B6713C58D26",
+    "id": "F8B047DC-74A4-4BD2-AA67-71B1D5581753",
+    "timestamp": "2026-09-09T16:34:36Z",
+    "type": "Clock Out"
+  },
+  {
+    "employeeId": "A89B7519-4C5C-4F70-9342-5BBCF890E719",
+    "id": "CD648E9A-8FA1-40DF-8856-35A7D2E8049E",
+    "timestamp": "2026-09-09T16:41:11Z",
+    "type": "Clock Out"
+  },
+  {
+    "employeeId": "567D60C6-5794-4A5F-8DF8-12561792C78D",
+    "id": "5BDE2984-75E2-4207-9032-DF4893AE454E",
+    "lateReason": "Extra Overtime",
+    "latitude": 55.452476525333964,
+    "longitude": -4.280414885389628,
+    "timestamp": "2026-09-09T16:46:12Z",
+    "type": "Clock Out"
   }
 ]
