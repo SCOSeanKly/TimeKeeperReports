@@ -149189,5 +149189,15 @@
     "id": "E2D03541-8DE9-4A7A-A998-A12E12D9C883",
     "timestamp": "2026-09-08T19:00:01Z",
     "type": "Clock Out"
+  },
+  {
+    "employeeId": "CD0D1689-6DEE-4ECF-9D23-5AA439E7E52B",
+    "id": "B5FB8199-9D25-4FE8-BCC3-A2B62F16EC80",
+    "latitude": 55.43520568284457,
+    "longitude": -4.467882519326228,
+    "offsiteNote": "8am",
+    "offsiteReason": "other",
+    "timestamp": "2026-09-09T05:57:37Z",
+    "type": "Clock In"
   }
 ]
