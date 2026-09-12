@@ -150945,5 +150945,71 @@
     "id": "59FB2835-6473-45E8-8E97-327377CD77BF",
     "timestamp": "2026-09-11T22:59:00Z",
     "type": "Auto Clock Out At Midnight"
+  },
+  {
+    "employeeId": "337733FA-A522-41C0-9B46-2A6B5A1D00F9",
+    "id": "BBDA211D-3381-4E2D-97CA-EA5E65A89E08",
+    "timestamp": "2026-09-12T06:44:07Z",
+    "type": "Clock In"
+  },
+  {
+    "employeeId": "953EA2A7-6C38-4C9B-98AD-A7927077E363",
+    "id": "C3CBCD92-063D-4E83-90AE-890E89E409D3",
+    "timestamp": "2026-09-12T06:48:40Z",
+    "type": "Clock In"
+  },
+  {
+    "employeeId": "F0064293-8B19-496C-979F-E3265BEFD5C9",
+    "id": "8F33ED0F-7344-4A20-8A4D-D2FC6E921111",
+    "timestamp": "2026-09-12T06:49:56Z",
+    "type": "Clock In"
+  },
+  {
+    "employeeId": "398A0919-C5D0-4255-903C-4B6713C58D26",
+    "id": "C77319E5-3D75-4E44-AB79-071660DE3E01",
+    "timestamp": "2026-09-12T06:57:56Z",
+    "type": "Clock In"
+  },
+  {
+    "employeeId": "BD0902DD-373B-433A-953A-755F88CBF221",
+    "id": "B9E3C14A-44B5-4268-ADFA-FD940FDDD0F5",
+    "timestamp": "2026-09-12T06:58:42Z",
+    "type": "Clock In"
+  },
+  {
+    "employeeId": "1944DCDA-F1F7-4CE6-BCA0-52C033930491",
+    "id": "98B3853E-6A1C-446A-9142-CC703784D6CF",
+    "timestamp": "2026-09-12T07:01:52Z",
+    "type": "Clock In"
+  },
+  {
+    "employeeId": "3C4C3205-2DFC-4646-9AB9-49F73AD47A6A",
+    "id": "05268CE1-D8B1-4869-9017-292F3804BD94",
+    "timestamp": "2026-09-12T07:02:00Z",
+    "type": "Clock In"
+  },
+  {
+    "employeeId": "57BA9115-ECC7-46ED-B99A-48B11ED17B76",
+    "id": "2600FA74-A9F9-419C-ADBB-9907C4E3F864",
+    "timestamp": "2026-09-12T10:44:03Z",
+    "type": "Clock In"
+  },
+  {
+    "employeeId": "F0064293-8B19-496C-979F-E3265BEFD5C9",
+    "id": "7DC7D2FB-AF5D-4A5A-852E-DB2FA95E8C93",
+    "timestamp": "2026-09-12T11:02:56Z",
+    "type": "Clock Out"
+  },
+  {
+    "employeeId": "398A0919-C5D0-4255-903C-4B6713C58D26",
+    "id": "FEE6D03E-D4B2-4176-B9BB-A25920AFA440",
+    "timestamp": "2026-09-12T11:57:47Z",
+    "type": "Clock Out"
+  },
+  {
+    "employeeId": "3C4C3205-2DFC-4646-9AB9-49F73AD47A6A",
+    "id": "1C3347B1-29DD-4457-BE8B-30693B4EC243",
+    "timestamp": "2026-09-12T11:58:13Z",
+    "type": "Clock Out"
   }
 ]
