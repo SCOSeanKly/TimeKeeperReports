@@ -151011,5 +151011,29 @@
     "id": "1C3347B1-29DD-4457-BE8B-30693B4EC243",
     "timestamp": "2026-09-12T11:58:13Z",
     "type": "Clock Out"
+  },
+  {
+    "employeeId": "1944DCDA-F1F7-4CE6-BCA0-52C033930491",
+    "id": "250CCF93-181C-48C4-B0FD-BB0754AAC8F9",
+    "timestamp": "2026-09-12T12:00:44Z",
+    "type": "Clock Out"
+  },
+  {
+    "employeeId": "337733FA-A522-41C0-9B46-2A6B5A1D00F9",
+    "id": "A1BAD9C4-4C7A-4532-AA3E-D0FF45DB0DBE",
+    "timestamp": "2026-09-12T12:04:24Z",
+    "type": "Clock Out"
+  },
+  {
+    "employeeId": "BD0902DD-373B-433A-953A-755F88CBF221",
+    "id": "0B314497-F0FA-4899-A602-CF0FA5BD32A1",
+    "timestamp": "2026-09-12T12:21:23Z",
+    "type": "Clock Out"
+  },
+  {
+    "employeeId": "57BA9115-ECC7-46ED-B99A-48B11ED17B76",
+    "id": "492E6101-5408-463E-855A-F165A8D9FB8E",
+    "timestamp": "2026-09-12T14:02:06Z",
+    "type": "Clock Out"
   }
 ]
