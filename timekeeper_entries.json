@@ -152201,5 +152201,45 @@
     "id": "084CC84C-5B26-4915-86AC-C1BD63685245",
     "timestamp": "2026-09-15T16:35:09Z",
     "type": "Clock Out"
+  },
+  {
+    "employeeId": "CD0D1689-6DEE-4ECF-9D23-5AA439E7E52B",
+    "id": "E4F19642-3AEE-433A-9733-E1BE4CE065C0",
+    "latitude": 55.43519784623803,
+    "longitude": -4.467892329164941,
+    "offsiteNote": "7am start",
+    "offsiteReason": "other",
+    "timestamp": "2026-09-15T18:16:35Z",
+    "type": "Clock In"
+  },
+  {
+    "employeeId": "CD0D1689-6DEE-4ECF-9D23-5AA439E7E52B",
+    "id": "8D3807BE-7B52-422D-8B64-ADCA59659262",
+    "lateReason": "AA Contract",
+    "latitude": 55.43519784623803,
+    "longitude": -4.467892329164941,
+    "timestamp": "2026-09-15T18:16:49Z",
+    "type": "Clock Out"
+  },
+  {
+    "employeeId": "567D60C6-5794-4A5F-8DF8-12561792C78D",
+    "id": "E239D293-9B61-4113-AF7B-394D06973CA6",
+    "lateReason": "Extra Overtime",
+    "latitude": 55.438060650429485,
+    "longitude": -4.608182457935714,
+    "timestamp": "2026-09-15T18:25:31Z",
+    "type": "Clock Out"
+  },
+  {
+    "employeeId": "57BA9115-ECC7-46ED-B99A-48B11ED17B76",
+    "id": "EA04A673-C4B8-4AC6-9073-8D5839271C5D",
+    "timestamp": "2026-09-15T18:58:18Z",
+    "type": "Clock Out"
+  },
+  {
+    "employeeId": "D60E3729-FF6B-49EE-BEA2-02D0FC0E3F53",
+    "id": "31CFB80A-36CC-4294-8E9E-E5BB01A022BB",
+    "timestamp": "2026-09-15T22:59:00Z",
+    "type": "Auto Clock Out At Midnight"
   }
 ]
