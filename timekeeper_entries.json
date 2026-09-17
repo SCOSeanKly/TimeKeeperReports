@@ -152784,5 +152784,15 @@
     "id": "662F20F7-10D1-46D0-A847-D4CC051A7F78",
     "timestamp": "2026-09-16T22:59:00Z",
     "type": "Auto Clock Out At Midnight"
+  },
+  {
+    "employeeId": "CD0D1689-6DEE-4ECF-9D23-5AA439E7E52B",
+    "id": "940BE472-BCCB-4381-958E-383CD158A6B1",
+    "latitude": 55.43522208165102,
+    "longitude": -4.467891128265391,
+    "offsiteNote": "Aa  \nWe’d 16th 7am 7pm \n45 min break",
+    "offsiteReason": "other",
+    "timestamp": "2026-09-17T05:53:00Z",
+    "type": "Clock In"
   }
 ]
