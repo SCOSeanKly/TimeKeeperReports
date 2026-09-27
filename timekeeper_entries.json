@@ -156495,5 +156495,11 @@
     "id": "04C30369-C5A8-4745-895E-F04A5F77D221",
     "timestamp": "2026-09-26T13:56:03Z",
     "type": "Clock Out"
+  },
+  {
+    "employeeId": "3C4C3205-2DFC-4646-9AB9-49F73AD47A6A",
+    "id": "5B2D3AC7-A550-4DAF-9B01-3E03032B89F3",
+    "timestamp": "2026-09-26T22:59:00Z",
+    "type": "Auto Clock Out At Midnight"
   }
 ]
