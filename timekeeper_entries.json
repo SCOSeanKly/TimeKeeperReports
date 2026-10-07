@@ -159908,5 +159908,22 @@
     "offsiteReason": "other",
     "timestamp": "2026-10-06T17:51:25Z",
     "type": "Clock In"
+  },
+  {
+    "employeeId": "CD0D1689-6DEE-4ECF-9D23-5AA439E7E52B",
+    "id": "5CACE12F-8290-4054-B82B-FCF4A34F37F3",
+    "lateReason": "Forgot to Clock Out",
+    "latitude": 55.43518472116516,
+    "longitude": -4.467873604847349,
+    "originalTimestamp": "2026-10-06T18:09:13Z",
+    "timeAdjusted": true,
+    "timestamp": "2026-10-06T18:00:00Z",
+    "type": "Clock Out"
+  },
+  {
+    "employeeId": "57BA9115-ECC7-46ED-B99A-48B11ED17B76",
+    "id": "17321F95-5427-4D58-BCDB-7892280C7A31",
+    "timestamp": "2026-10-06T18:56:48Z",
+    "type": "Clock Out"
   }
 ]
