@@ -161994,5 +161994,17 @@
     "id": "871B84E8-04B5-4BCA-9981-8262A9B3946D",
     "timestamp": "2026-10-12T16:31:01Z",
     "type": "Clock Out"
+  },
+  {
+    "employeeId": "57BA9115-ECC7-46ED-B99A-48B11ED17B76",
+    "id": "CE0AFEBE-C960-4856-9BAC-2294DA842D7E",
+    "timestamp": "2026-10-12T18:56:40Z",
+    "type": "Clock Out"
+  },
+  {
+    "employeeId": "567D60C6-5794-4A5F-8DF8-12561792C78D",
+    "id": "E6C9118F-4C52-4E7F-B454-74AD1C3A3B49",
+    "timestamp": "2026-10-12T22:59:00Z",
+    "type": "Auto Clock Out At Midnight"
   }
 ]
