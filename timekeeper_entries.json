@@ -162777,6 +162777,12 @@
     "type": "Break End"
   },
   {
+    "employeeId": "7052DB49-F73F-47F0-9FB3-CF44601A7FC3",
+    "id": "D2D5BAF1-CB40-4B0F-9114-5EB0B143E471",
+    "timestamp": "2026-10-14T12:30:00Z",
+    "type": "Lunch Start"
+  },
+  {
     "employeeId": "2D3EC73F-366E-466C-8516-C0AF231C271E",
     "id": "D71E20D4-B94B-4F4A-B1D5-80EDCAEF10BF",
     "timestamp": "2026-10-14T12:31:01Z",
@@ -162854,6 +162860,12 @@
     "employeeId": "1C83F600-CACB-4F8B-9709-013DA50099AA",
     "id": "CDCB929C-B246-4C1C-A388-0EEEAB2F8DCD",
     "timestamp": "2026-10-14T12:59:04Z",
+    "type": "Lunch End"
+  },
+  {
+    "employeeId": "7052DB49-F73F-47F0-9FB3-CF44601A7FC3",
+    "id": "9641B97B-14A1-41F5-BCCD-9932EC2600E8",
+    "timestamp": "2026-10-14T13:00:00Z",
     "type": "Lunch End"
   },
   {
