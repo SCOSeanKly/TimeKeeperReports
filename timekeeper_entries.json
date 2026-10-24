@@ -166542,5 +166542,72 @@
     "id": "2FBFB05D-8EBB-40FB-8297-38404AC74357",
     "timestamp": "2026-10-23T22:59:00Z",
     "type": "Auto Clock Out At Midnight"
+  },
+  {
+    "employeeId": "337733FA-A522-41C0-9B46-2A6B5A1D00F9",
+    "id": "BC0A0B3D-7E19-49EE-B5C6-148A5FA5D2F7",
+    "timestamp": "2026-10-24T06:46:25Z",
+    "type": "Clock In"
+  },
+  {
+    "employeeId": "7989DCCC-541E-4746-BAB1-0F703B2039EA",
+    "id": "146F57ED-998A-4192-A8CC-EBD3BDB18FA2",
+    "timestamp": "2026-10-24T06:49:06Z",
+    "type": "Clock In"
+  },
+  {
+    "employeeId": "BE4E5108-1C7A-4396-BA60-985D0A0D25DC",
+    "id": "A356F592-6F1A-435F-AD2F-D9DE27CFD849",
+    "timestamp": "2026-10-24T06:53:13Z",
+    "type": "Clock In"
+  },
+  {
+    "employeeId": "3C4C3205-2DFC-4646-9AB9-49F73AD47A6A",
+    "id": "A00AB11C-3CFB-44AD-97BD-5ED4FC29143F",
+    "timestamp": "2026-10-24T07:02:53Z",
+    "type": "Clock In"
+  },
+  {
+    "employeeId": "1944DCDA-F1F7-4CE6-BCA0-52C033930491",
+    "id": "15BA234E-4731-4E4A-95DF-19FE2CAC2A57",
+    "timestamp": "2026-10-24T07:02:58Z",
+    "type": "Clock In"
+  },
+  {
+    "employeeId": "83F0962E-D531-4F32-952D-F84DE2EDD27F",
+    "id": "A5DDCEE7-2889-4C3D-82BF-6E0FD5E73E69",
+    "timestamp": "2026-10-24T07:23:41Z",
+    "type": "Clock In"
+  },
+  {
+    "employeeId": "57BA9115-ECC7-46ED-B99A-48B11ED17B76",
+    "id": "A4587F9B-F352-4A9C-9E12-FC6F6F91D1B1",
+    "timestamp": "2026-10-24T10:40:20Z",
+    "type": "Clock In"
+  },
+  {
+    "earlyReason": "Authorised early finish (manager approved)",
+    "employeeId": "83F0962E-D531-4F32-952D-F84DE2EDD27F",
+    "id": "2E0FE111-1055-4C41-94D9-9370ED030F7C",
+    "timestamp": "2026-10-24T11:17:53Z",
+    "type": "Clock Out"
+  },
+  {
+    "employeeId": "3C4C3205-2DFC-4646-9AB9-49F73AD47A6A",
+    "id": "31E20E50-6A18-44E5-936B-9477C5B0ACF8",
+    "timestamp": "2026-10-24T11:58:41Z",
+    "type": "Clock Out"
+  },
+  {
+    "employeeId": "337733FA-A522-41C0-9B46-2A6B5A1D00F9",
+    "id": "BEF0D091-ACEA-4433-811A-6CAE456945A4",
+    "timestamp": "2026-10-24T11:59:12Z",
+    "type": "Clock Out"
+  },
+  {
+    "employeeId": "7989DCCC-541E-4746-BAB1-0F703B2039EA",
+    "id": "0E87AC0E-89D4-4221-BDC5-23489A3AFF1C",
+    "timestamp": "2026-10-24T11:59:17Z",
+    "type": "Clock Out"
   }
 ]
