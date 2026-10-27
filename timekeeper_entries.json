@@ -167057,5 +167057,32 @@
     "id": "9F0EB2EA-658E-4EBE-9767-1128C4F65368",
     "timestamp": "2026-10-26T17:35:36Z",
     "type": "Clock Out"
+  },
+  {
+    "employeeId": "57BA9115-ECC7-46ED-B99A-48B11ED17B76",
+    "id": "1C559CF1-B039-41C2-8311-D786FE95F7B3",
+    "timestamp": "2026-10-26T19:56:39Z",
+    "type": "Clock Out"
+  },
+  {
+    "employeeId": "567D60C6-5794-4A5F-8DF8-12561792C78D",
+    "id": "C01DBC6F-0532-4A14-B355-69ACD59A252C",
+    "lateReason": "Extra Overtime",
+    "latitude": 55.438098092013796,
+    "longitude": -4.608161726940864,
+    "timestamp": "2026-10-26T21:22:27Z",
+    "type": "Clock Out"
+  },
+  {
+    "employeeId": "BE4E5108-1C7A-4396-BA60-985D0A0D25DC",
+    "id": "53796960-CFF8-4B0C-ACCB-019F71683A42",
+    "timestamp": "2026-10-26T23:59:00Z",
+    "type": "Auto Clock Out At Midnight"
+  },
+  {
+    "employeeId": "D60E3729-FF6B-49EE-BEA2-02D0FC0E3F53",
+    "id": "510849B3-581E-4A0A-8DB2-A9BB7F11B1F6",
+    "timestamp": "2026-10-26T23:59:00Z",
+    "type": "Auto Clock Out At Midnight"
   }
 ]
