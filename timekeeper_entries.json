@@ -170545,5 +170545,28 @@
     "id": "32794995-0D98-46D5-BAE9-C1A6B5D33359",
     "timestamp": "2026-11-04T17:36:17Z",
     "type": "Clock Out"
+  },
+  {
+    "employeeId": "D60E3729-FF6B-49EE-BEA2-02D0FC0E3F53",
+    "id": "BBD09987-0FFD-49CF-9775-6573800B559F",
+    "lateReason": "Forgot to Clock Out",
+    "latitude": 55.45062733233329,
+    "longitude": -4.2518524299121205,
+    "originalTimestamp": "2026-11-04T18:05:01Z",
+    "timeAdjusted": true,
+    "timestamp": "2026-11-04T17:40:00Z",
+    "type": "Clock Out"
+  },
+  {
+    "employeeId": "57BA9115-ECC7-46ED-B99A-48B11ED17B76",
+    "id": "54246096-3157-4F59-B640-9DB8551879FC",
+    "timestamp": "2026-11-04T19:54:25Z",
+    "type": "Clock Out"
+  },
+  {
+    "employeeId": "567D60C6-5794-4A5F-8DF8-12561792C78D",
+    "id": "B23C1447-60F8-4D0D-9DFD-4726AB342D06",
+    "timestamp": "2026-11-04T23:59:00Z",
+    "type": "Auto Clock Out At Midnight"
   }
 ]
