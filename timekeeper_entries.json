@@ -171012,5 +171012,37 @@
     "longitude": -3.7037190899540504,
     "timestamp": "2026-11-05T17:36:09Z",
     "type": "Lunch Start"
+  },
+  {
+    "employeeId": "567D60C6-5794-4A5F-8DF8-12561792C78D",
+    "id": "18F2CB55-71F9-4A20-8736-E308D14A6488",
+    "latitude": 55.86832569675721,
+    "longitude": -3.703504099838815,
+    "timestamp": "2026-11-05T18:14:47Z",
+    "type": "Lunch End"
+  },
+  {
+    "employeeId": "57BA9115-ECC7-46ED-B99A-48B11ED17B76",
+    "id": "92D8EF95-34C1-414B-98F2-43740B7332AF",
+    "timestamp": "2026-11-05T19:52:43Z",
+    "type": "Clock Out"
+  },
+  {
+    "employeeId": "29EAE04E-470D-4124-8038-200CCF2D63BC",
+    "id": "34F60E69-0993-46EB-AB46-9E4CFA5BF6CC",
+    "timestamp": "2026-11-05T23:59:00Z",
+    "type": "Auto Clock Out At Midnight"
+  },
+  {
+    "employeeId": "567D60C6-5794-4A5F-8DF8-12561792C78D",
+    "id": "EE4637FA-5D6C-4D96-9E85-338C2D93416A",
+    "timestamp": "2026-11-05T23:59:00Z",
+    "type": "Auto Clock Out At Midnight"
+  },
+  {
+    "employeeId": "7989DCCC-541E-4746-BAB1-0F703B2039EA",
+    "id": "2521BDE4-87B1-48A7-B279-151C833332F8",
+    "timestamp": "2026-11-05T23:59:00Z",
+    "type": "Auto Clock Out At Midnight"
   }
 ]
