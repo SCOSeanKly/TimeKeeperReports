@@ -172901,6 +172901,17 @@
     "type": "Clock Out"
   },
   {
+    "employeeId": "D60E3729-FF6B-49EE-BEA2-02D0FC0E3F53",
+    "id": "0D22EA1A-023B-407B-AEBA-F3BD696A72C4",
+    "lateReason": "Forgot to Clock Out",
+    "latitude": 55.51109272494346,
+    "longitude": -4.381568162282301,
+    "originalTimestamp": "2026-11-11T20:13:50Z",
+    "timeAdjusted": true,
+    "timestamp": "2026-11-11T17:00:00Z",
+    "type": "Clock Out"
+  },
+  {
     "employeeId": "CCB8E18E-1ED3-4A1E-9204-5A5E61D70B53",
     "id": "B93633CE-56F4-4940-B197-BDCFB9E1C8A9",
     "timestamp": "2026-11-11T17:00:50Z",
@@ -172959,5 +172970,28 @@
     "id": "A0028859-1018-4B7C-9308-03AAC97DB07F",
     "timestamp": "2026-11-11T17:32:35Z",
     "type": "Clock Out"
+  },
+  {
+    "employeeId": "567D60C6-5794-4A5F-8DF8-12561792C78D",
+    "id": "B89FCE98-065F-447B-9AA1-51DBB82AA08E",
+    "lateReason": "Forgot to Clock Out",
+    "latitude": 55.43816664394575,
+    "longitude": -4.608166857756293,
+    "originalTimestamp": "2026-11-11T19:38:00Z",
+    "timeAdjusted": true,
+    "timestamp": "2026-11-11T19:00:00Z",
+    "type": "Clock Out"
+  },
+  {
+    "employeeId": "57BA9115-ECC7-46ED-B99A-48B11ED17B76",
+    "id": "79DCC0F9-6FB6-4002-8D9D-7323C97B9A45",
+    "timestamp": "2026-11-11T19:59:59Z",
+    "type": "Clock Out"
+  },
+  {
+    "employeeId": "BD0902DD-373B-433A-953A-755F88CBF221",
+    "id": "E676870E-EF28-4AEA-855B-FBF0D1EAC152",
+    "timestamp": "2026-11-11T23:59:00Z",
+    "type": "Auto Clock Out At Midnight"
   }
 ]
