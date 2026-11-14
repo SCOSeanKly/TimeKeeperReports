@@ -173826,5 +173826,17 @@
     "id": "A4B17484-FFCB-4902-95C8-ABC7EBA2BD93",
     "timestamp": "2026-11-13T17:31:27Z",
     "type": "Clock Out"
+  },
+  {
+    "employeeId": "567D60C6-5794-4A5F-8DF8-12561792C78D",
+    "id": "185127CD-BC82-4DE5-B43B-0D767CD8E7B4",
+    "timestamp": "2026-11-13T23:59:00Z",
+    "type": "Auto Clock Out At Midnight"
+  },
+  {
+    "employeeId": "BE4E5108-1C7A-4396-BA60-985D0A0D25DC",
+    "id": "F9394B40-DB23-4452-8515-5435DAC0679C",
+    "timestamp": "2026-11-13T23:59:00Z",
+    "type": "Auto Clock Out At Midnight"
   }
 ]
