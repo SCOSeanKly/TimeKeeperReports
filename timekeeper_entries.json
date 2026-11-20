@@ -175799,5 +175799,20 @@
     "id": "30BE2DB8-B9B6-4EE9-839A-1A408BE50BF0",
     "timestamp": "2026-11-19T17:31:04Z",
     "type": "Clock Out"
+  },
+  {
+    "employeeId": "567D60C6-5794-4A5F-8DF8-12561792C78D",
+    "id": "597CD164-6EAA-4AE8-BBC7-0014671278F8",
+    "lateReason": "Extra Overtime",
+    "latitude": 55.438170632118826,
+    "longitude": -4.608153550182471,
+    "timestamp": "2026-11-19T18:25:19Z",
+    "type": "Clock Out"
+  },
+  {
+    "employeeId": "57BA9115-ECC7-46ED-B99A-48B11ED17B76",
+    "id": "91A0664F-22D0-48D7-8E52-19C5A12D8BA7",
+    "timestamp": "2026-11-19T19:55:14Z",
+    "type": "Clock Out"
   }
 ]
