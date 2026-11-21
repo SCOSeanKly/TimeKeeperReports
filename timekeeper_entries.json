@@ -176212,5 +176212,30 @@
     "id": "43356DE3-A4B1-4C03-A595-9196294F1296",
     "timestamp": "2026-11-21T11:40:18Z",
     "type": "Clock In"
+  },
+  {
+    "earlyReason": "Other authorised absence",
+    "employeeId": "3C4C3205-2DFC-4646-9AB9-49F73AD47A6A",
+    "id": "F8373680-728C-40D5-870F-AE6E486A71D6",
+    "timestamp": "2026-11-21T12:54:32Z",
+    "type": "Clock Out"
+  },
+  {
+    "employeeId": "BE4E5108-1C7A-4396-BA60-985D0A0D25DC",
+    "id": "6DEE9FA8-3473-4915-BAF7-A62EA7FC673F",
+    "timestamp": "2026-11-21T12:58:19Z",
+    "type": "Clock Out"
+  },
+  {
+    "employeeId": "7989DCCC-541E-4746-BAB1-0F703B2039EA",
+    "id": "B68098F7-83DA-4C7D-B612-DB06F0DAFA1A",
+    "timestamp": "2026-11-21T12:58:27Z",
+    "type": "Clock Out"
+  },
+  {
+    "employeeId": "57BA9115-ECC7-46ED-B99A-48B11ED17B76",
+    "id": "31EA9D3E-EB61-4AE1-AC12-B9EA14EE1B54",
+    "timestamp": "2026-11-21T14:55:33Z",
+    "type": "Clock Out"
   }
 ]
