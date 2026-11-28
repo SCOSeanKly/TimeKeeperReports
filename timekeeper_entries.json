@@ -178529,5 +178529,42 @@
     "longitude": -4.270480645521457,
     "timestamp": "2026-11-27T17:40:43Z",
     "type": "Clock Out"
+  },
+  {
+    "employeeId": "93D01C6D-B38D-48D9-967F-852BD7B856F2",
+    "id": "BD637AF2-D801-4091-A80F-30A767E6ED20",
+    "timestamp": "2026-11-28T07:48:34Z",
+    "type": "Clock In"
+  },
+  {
+    "employeeId": "398A0919-C5D0-4255-903C-4B6713C58D26",
+    "id": "5BB621C7-187D-46D8-8812-D885807FA5D0",
+    "timestamp": "2026-11-28T07:58:26Z",
+    "type": "Clock In"
+  },
+  {
+    "employeeId": "7052DB49-F73F-47F0-9FB3-CF44601A7FC3",
+    "id": "8ED6EA6E-9322-4AA9-A37E-D71D8B32C5B0",
+    "timestamp": "2026-11-28T07:58:34Z",
+    "type": "Clock In"
+  },
+  {
+    "employeeId": "1944DCDA-F1F7-4CE6-BCA0-52C033930491",
+    "id": "923B8172-73A5-486E-8C0F-9B5171272CA8",
+    "timestamp": "2026-11-28T08:00:50Z",
+    "type": "Clock In"
+  },
+  {
+    "employeeId": "57BA9115-ECC7-46ED-B99A-48B11ED17B76",
+    "id": "095A35D9-0286-4508-8EF4-1B88B0199C1A",
+    "timestamp": "2026-11-28T11:41:19Z",
+    "type": "Clock In"
+  },
+  {
+    "earlyReason": "Other authorised absence",
+    "employeeId": "398A0919-C5D0-4255-903C-4B6713C58D26",
+    "id": "0C9A5F68-1E2C-4678-ADDD-D9F4F522C824",
+    "timestamp": "2026-11-28T12:00:12Z",
+    "type": "Clock Out"
   }
 ]
